@@ -1,0 +1,7 @@
+Last_Name,First_Name,Student_Number,SchoolID,Grade_Level,AlphaScore,Tested Grade Level,Test_Date,Test Name,Score Name,Year
+Brown,Carmine,13555,140,3,Level 2,3,9/1/2020,Beginning Grade 3rd Reading,Achievement Level,2020-2021
+Brush,George,13556,140,3,Level 4,3,9/1/2020,Beginning Grade 3rd Reading,Achievement Level,2020-2021
+Demie,Tabatha,13557,140,3,Level 2,3,9/1/2020,Beginning Grade 3rd Reading,Achievement Level,2020-2021
+Brown,Carmine,13555,140,3,16,3,9/1/2020,Beginning Grade 3rd Reading,Percentile,2020-2021
+Brush,George,13556,140,3,22,3,9/1/2020,Beginning Grade 3rd Reading,Percentile,2020-2021
+Demie,Tabatha,13557,140,3,88,3,9/1/2020,Beginning Grade 3rd Reading,Percentile,2020-2021

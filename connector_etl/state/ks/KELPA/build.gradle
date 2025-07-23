@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'state.ks.KELPA'
+mavenVersion = '1.2.6' + getWorkingBranch()

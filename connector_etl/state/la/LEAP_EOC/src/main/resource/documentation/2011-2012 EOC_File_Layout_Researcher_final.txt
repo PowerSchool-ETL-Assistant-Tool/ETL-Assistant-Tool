@@ -1,0 +1,130 @@
+2011-2012 EOC_File_Layout_Researcher_final
+
+LEAP - EOC
+---------------
+ALGI--------------------------------------------------------LEAP_EOC_ALGI_OVERALL
+-Total MC Score
+-Total CR Score
+-Total Test Score
+-Percent Correct
+-Reportable Status
+-Scale Score
+-Achievement Level
+
+	-Number & number relations (Standard 1) -------------------LEAP_EOC_ALGI_NNRS1
+		-points earned
+		-percent correct
+	-Algebra (Standard 2) -------------------------------------LEAP_EOC_ALGI_AS2
+		-points earned
+		-percent correct
+	-Measurement & Geometry (Standards 3&4) -------------------LEAP_EOC_ALGI_MGS34
+		-points earned
+		-percent correct
+	-Data analysis, probability, & discrete math (Standard 5) -----LEAP_EOC_ALGI_DAPDMS5
+		-points earned
+		-percent correct
+	-Patterns, relations, & functions (Standard 6)-------------LEAP_EOC_ALGI_PRFS6
+		-points earned
+		-percent correct
+
+
+
+English II --ENG------------------------------------------LEAP_EOC_ENGII_OVERALL
+-Total MC Score
+-Total CR Score
+-Total Test Score
+-Percent Correct
+-Reportable Status
+-Scale Score
+-Achievement Level
+
+	-Writing Standard 2 --------------------LEAP_EOC_ENGII_WS2
+		-points earned
+		-percent correct
+	-Proof Reading Standard 3---------------------------------------------LEAP_EOC_ENGII_PRS3
+		-points earned
+		-percent correct
+	-Reading and Responding Standards 1&6 --------------------------------------------LEAP_EOC_ENGII_RRS1&6
+		-points earned
+		-percent correct
+	-Reading and Responding Standards 7 --------------------------------------------LEAP_EOC_ENGII_RRS7
+		-points earned
+		-percent correct
+	-Using Information Resources Standard 5--------------------------------------------LEAP_EOC_ENGII_UIRS5
+		-points earned
+		-percent correct
+
+
+
+
+Geometry ---------------------------------------------------LEAP_EOC_GEOM_OVERALL
+-Total MC Score
+-Total CR Score
+-Total Test Score
+-Percent Correct
+-Reportable Status
+-Scale Score
+-Achievement Level
+
+	-Number and number relations (Strand 1)--------------------------------LEAP_EOC_GEOM_NNRS1
+		-points earned
+		-percent correct
+	-Algebra (Strand 2) and Patterns, Relations, Functions  (Strand 6)------LEAP_EOC_GEOM_AS2PRS6
+		-points earned
+		-percent correct
+	-Measurement (Strand 3)-------------------------------------------------LEAP_EOC_GEOM_MS3
+		-points earned
+		-percent correct
+	-Geometry (Strand 4)----------------------------------------------------LEAP_EOC_GEOM_GS4
+		-points earned
+		-percent correct
+	-Data analysis, prob., and Discrete Math (Strand 5)---------------------LEAP_EOC_GEOM_DAPDMS5
+		-points earned
+		-percent correct
+
+
+
+
+Biology -----------------------------------------------------LEAP_EOC_BIO_OVERALL
+-Total MC Score
+-Total CR Score
+-Total Test Score
+-Percent Correct
+-Reportable Status
+-Scale Score
+-Achievement Level
+
+	-Science as Inquiry (strand 1) --------------------------LEAP_EOC_BIO_SIS1
+		-points earned
+		-percent correct
+	-Life Science (strand 3) --------------------------------LEAP_EOC_BIO_LSS3
+		-points earned
+		-percent correct
+	-Earth and Space Science (strand 4)----------------------LEAP_EOC_BIO_ESSS4
+		-points earned
+		-percent correct
+
+
+
+
+EnglishIII ------------------------------------------------------LEAP_EOC_ENGIII_OVERALL
+-Total MC Score
+-Total CR Score
+-Total Test Score
+-Percent Correct
+-Reportable Status
+-Scale Score
+-Achievement Level
+
+	-Writing Standard 2 ------------------------LEAP_EOC_ENGIII_WS2
+		-points earned
+		-percent correct
+	-Proofreading Standard 3 -------------------------------------------------LEAP_EOC_ENGIII_PRS3
+		-points earned
+		-percent correct
+	-Reading and Responding Standards 1&6 ------------------------------------------------LEAP_EOC_ENGIII_RRS1S6
+		-points earned
+		-percent correct
+	-Using Information Resources Standard 5 ------------------------------------------------LEAP_EOC_ENGIII_UIRS5
+		-points earned
+		-percent correct

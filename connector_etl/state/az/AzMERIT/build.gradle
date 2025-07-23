@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'state.az.AzMERIT'
+mavenVersion = '2.4.10' + getWorkingBranch()

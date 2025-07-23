@@ -1,0 +1,3 @@
+StudentLocalID,Student Texas Unique ID,ACT ID,Last Name,First Name,MI,State ID,Local ID,Test Date,Test Location,District Name,School Name,School Code,DOB,Grade,Composite Score,Math Score,Science Score,STEM Score,English Score,Reading Score,Writing Score,ELA Score
+10001,5841322699,87838389,Aabram,Hannah,BD,,,April 2021,,CORPUS CHRISTI INDEPENDENT SCHOOL DISTRICT,Redwood High School,300,07/23/1996,College Student,16,16,18,17,12,16,,
+10002,6796856228,60474281,Ajala,Sherin,CC,,,December 2020,,CORPUS CHRISTI INDEPENDENT SCHOOL DISTRICT,Redwood High School,300,03/17/2003,12th,34,34,35,35,35,30,9,30

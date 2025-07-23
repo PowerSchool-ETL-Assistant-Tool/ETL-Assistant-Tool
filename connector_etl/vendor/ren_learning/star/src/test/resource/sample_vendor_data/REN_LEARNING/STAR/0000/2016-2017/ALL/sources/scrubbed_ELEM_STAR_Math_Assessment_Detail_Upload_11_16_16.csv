@@ -1,0 +1,4 @@
+StudentId,StudentGUID,FirstName,MiddleName,LastName,BirthDate,ExportGrade,Gender,Ethnicity,Characteristics,StateStudentID,SchoolName,TeacherFirstName,TeacherMiddleName,TeacherLastName,CourseName,ClassName,DateTaken,AssessmentGrade,GP,SS,GE,PR,NCE
+13363,04909af6-d703-4a9c-8578-975467497b20,Madilyn,DD,Martinez,06/25/2011,3,F,White,##,13363,MS Dogwood Elementary School,Candace,A,Mikkelsen,Homeroom Grade 3,"Mikkelsen, Candace - 3",04/11/2016 11:44,3,3.21,505,2.9,41,45.2
+13364,fb092cd1-4dfc-4e98-95fe-2fdf92e125d1,Joel,CB,Melchor,07/23/2011,2,F,White,##,13364,MS Dogwood Elementary School,Kimberly,S,Moran,Homeroom Grade 2,"Moran, Kimberly - 5",08/11/2016 12:28,2,2.22,349,1.5,15,28.2
+13365,a9282369-cb8f-4519-beaf-71a8c7e4cd37,TreShunna,BB,Mendoza,01/28/2011,5,F,White,##,13365,MS Dogwood Elementary School,David,B,Gessner,Homeroom Grade 5,"Gessner, David - 2",01/11/2016 14:55,5,5.2,660,4.8,47,48.4

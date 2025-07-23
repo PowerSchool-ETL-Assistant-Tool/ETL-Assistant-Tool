@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'vendor.college_board.psat_sat_redesign'
+mavenVersion = '6.0.3' + getWorkingBranch()

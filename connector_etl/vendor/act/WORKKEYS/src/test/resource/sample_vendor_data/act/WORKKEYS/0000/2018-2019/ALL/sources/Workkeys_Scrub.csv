@@ -1,0 +1,6 @@
+school_year,certificate_issue_date,certificate_level,last_name,first_name,student_id,am_test_score,gl_test_score,wd_test_score,DateUploaded,SYSTEMCODE,SCHOOLCODE
+2019,01042019,SILVER,Aabram,Hannah,10001,4,5,4,6/12/2021 12:00:00 AM,002,300
+2019,,,Ajala,Sherin,10002,3,3,0,6/12/2021 12:00:00 AM,002,300
+2019,01042019,BRONZE,Akinsanya,Joe,10003,3,5,4,6/12/2021 12:00:00 AM,002,300
+2019,01042019,PLATINUM,Alba,Ellen,10004,7,6,6,6/12/2021 12:00:00 AM,002,300
+2019,01042019,GOLD,Alldredge,JordAnn,10005,6,6,5,6/12/2021 12:00:00 AM,002,300

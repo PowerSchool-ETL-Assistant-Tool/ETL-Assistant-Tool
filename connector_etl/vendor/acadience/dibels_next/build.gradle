@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'vendor.acadience.dibels_next'
+mavenVersion = '4.0.2' + getWorkingBranch()

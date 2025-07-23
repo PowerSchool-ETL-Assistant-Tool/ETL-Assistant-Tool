@@ -1,0 +1,7 @@
+Student ID,Student Name,Home School,Testing School,Grade,Birth Date,Administration (S=Spring or F=Fall),Content Area (E=ELA/L or M=Mathematics),Test Code of Test Taken/To Be Taken,Test Format Taken/To Be Taken,Overall Scale Score (Range 650 - 850,Performance Level *,Reading Scale Score (Range 10-90) OR Mathematics Subclaim: Major Content*,Reading Subclaim: Literary Text* OR Mathematics Subclaim: Expressing Mathematical Reasoning*,Reading Subclaim: Informational Text* OR Mathematics Subclaim: Modeling & Application*,Reading Subclaim: Vocabulary* OR Mathematics Subclaim: Additional & Supporting Content*,Writing Scale Score (Range 10-60),Writing Subclaim: Writing Expression*,Writing Subclaim: Knowledge and Use of Language Conventions*,Number of Test Items Attempted,Total Number of Test Items,Reason for No Valid Test Attempt*, Report Suppression Action*,Student Growth Percentile,Error Code*
+13770,"Nick, Leland",100,100,8,1/28/2004,S,M,MAT08,O,694,1,3,3,3,3,,,,43,45,,,34,
+13770,"Nick, Leland",100,100,8,1/28/2004,S,E,ELA08,O,737,3,46,1,3,2,32,2,2,31,31,,,71,
+13944,"Durand, Frank",100,100,5,6/15/2007,S,M,MAT05,O,730,3,3,3,1,1,,,,49,49,,,6,
+13944,"Durand, Frank",100,100,5,6/15/2007,S,E,ELA05,O,767,4,53,1,1,1,41,1,1,31,31,,,81,
+14185,"Conejo, Brittney",100,100,4,11/13/2007,S,M,MAT04,O,n/a,n/a,,,,,,,,0,0,19,,,
+14185,"Conejo, Brittney",100,100,4,11/13/2007,S,E,ELA04,O,n/a,n/a,,,,,,,,0,0,19,,,

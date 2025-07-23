@@ -1,0 +1,89 @@
+Spring 2013 iLEAP_FileLayout_Staff_Contractors
+
+ILEAP
+
+
+English ------------------------------------------ILEAP_ENG_OVERALL
+-Raw Score Total - ELA
+-Scaled Score - ELA
+-Assessment Achievement Level - ELA
+-Total Score for Writing
+-Non-Score Code for Writing
+
+
+	-Standard 1: Read, comprehend, and respond  -------------------ILEAP_ENG_S1RCR
+	-Standard 2: Write competently---------------------------------ILEAP_ENG_S2WC
+	-Standard 3: Use conventions of language-----------------------ILEAP_ENG_S3UCL
+	-Standard 4: Not assessed--------------------------------------ILEAP_ENG_S4NA
+	-Standard 5: Locate, select, and synthesize information -------ILEAP_ENG_S5LSSI
+	-Standard 6: Read, analyze, and respond to literature----------ILEAP_ENG_S6RARL
+	-Standard 7: Apply reasoning and problem solving skills--------ILEAP_ENG_S7ARPSS
+
+
+	-Dimension 1: Composing-------------------------ILEAP_ENG_DIM1C
+	-Dimension 2: Style/audience awareness----------ILEAP_ENG_DIM2SAA
+	
+	>Raw Score
+	-Spelling---------------------------------------ILEAP_ENG_SPL
+	-Capitalization---------------------------------ILEAP_ENG_CAP
+	-Punctuation------------------------------------ILEAP_ENG_PUN
+	-Usage and Expression---------------------------ILEAP_ENG_UE
+
+	-Multiple-Choice Items--------------------------ILEAP_ENG_MCI
+	-Constructed-Response Items --------------------ILEAP_ENG_CRI
+
+	-Raw Score Total - Reading Subscore
+	-Scaled Score - Reading Subscore
+	-Assessment Achievement Level - Reading Subscore
+
+
+
+
+Math -----------------------------------------------ILEAP_MA_OVERALL
+-Raw Score Total - Math
+-Scaled Score - Math
+-Assessment Achievement Level - Math
+
+	>Reporting Category: 
+	-Fractions ------------------------------------ILEAP_MA_RCF
+	-Measurement, Data, and Geometry---------------ILEAP_MA_RCMDG
+	-Multiplication and Division-------------------ILEAP_MA_RCMD
+	-Number----------------------------------------ILEAP_MA_RCN
+	-Number and Operations-------------------------ILEAP_MA_RCNO
+	-Number System---------------------------------ILEAP_MA_RCNS
+	-Ratio, Proportion, and Algebra----------------ILEAP_MA_RCRPA
+
+	-Subtest 1: Multiple-Choice Items----------------ILEAP_MA_SUB1MCI
+	-Subtest 2: Constructed-Response Items-----------ILEAP_MA_SUB2CRI
+
+
+
+
+SCIENCE -------------------------------------------ILEAP_SCI_OVERALL
+-Raw Score Total - Science
+-Scaled Score - Science
+-Assessment Achievement Level - Science
+
+	-Standard 1: Science as Inquiry-----------------ILEAP_SCI_S1SI
+	-Standard 2: Physical Science-------------------ILEAP_SCI_S2PS
+	-Standard 3: Life Science-----------------------ILEAP_SCI_S3LS
+	-Standard 4: Earth and Space Science------------ILEAP_SCI_S4ESS
+	-Standard 5: Science and the Environment--------ILEAP_SCI_S5SE
+
+	-Subtest 1: Multiple-Choice Items---------------ILEAP_SCI_SUB1MCI
+
+
+
+
+SOCIAL STUDIES -------------------------------------ILEAP_SS_OVERALL
+-Raw Score Total - Social Studies
+-Scaled Score - Social Studies
+-Assessment Achievement Level - Social Studies
+
+	-Standard 1: Geography ------------------------ILEAP_SS_S1G
+	-Standard 2: Civics----------------------------ILEAP_SS_S2C
+	-Standard 3: Economics-------------------------ILEAP_SS_S3E
+	-Standard 4: History---------------------------ILEAP_SS_S4H
+
+	-Subtest 1: Multiple-Choice Items---------------ILEAP_SS_SUB1MCI
+

@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'vendor.horizon.HORIZON_ACT'
+mavenVersion = '1.1.5' + getWorkingBranch()

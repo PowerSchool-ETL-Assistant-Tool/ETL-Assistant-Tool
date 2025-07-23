@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'vendor.curriculum_associates.iready'
+mavenVersion = '3.5.3' + getWorkingBranch()

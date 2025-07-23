@@ -1,0 +1,2 @@
+Version: 1.1.2
+Application-name: state.az.A-F_STATIC_FILE

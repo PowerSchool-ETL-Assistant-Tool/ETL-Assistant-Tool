@@ -1,0 +1,18 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'vendor.nsc.nsc'
+mavenVersion = '3.8.9' + getWorkingBranch()
+
+
+
+
+/**
+ * Uses data.gov API to get newest school data
+ */
+task GetNSCEntityData(type: JavaExec, group: 'connector', description: 'Get school data') {
+    classpath configurations.test
+    main = 'com.versifit.jesse.Main'
+    args = [
+            "-s", "${rootProject.buildDir}/install/tmp/jesse/GetNSCEntityData.js"
+            , "-p", "APP_PATH=${rootProject.projectDir}/"
+    ]
+}

@@ -1,0 +1,28 @@
+Spring 2011 LAA1_FileLayout_Staff_Contractors
+
+LAA1
+
+
+Math--------------------------------------------LAA1_MA_OVERALL
+-Raw Score Total - Math
+-Scaled Score - Math
+-Assessment Achievement Level - Math
+-Accountability Achievement Level - Math
+
+	-Listening Raw Score -----------------------LAA1_MA_LIS
+	-Reading Raw Score--------------------------LAA1_MA_RD
+	-Using Information Resources Raw Score------LAA1_MA_UIR
+	-Writing Raw Score--------------------------LAA1_MA_WR
+
+
+
+SCIENCE---------------------------------------------------LAA1_SCI_OVERALL
+-Raw Score Total - Science
+-Scaled Score - Science
+-Assessment Achievement Level - Science
+-Accountability Achievement Level - Science
+
+	-Earth, Space, and Environmental Science Raw Score------LAA1_SCI_ESES
+	-Life Science Raw Score---------------------------------LAA1_SCI_LS
+	-Physical Science Raw Score-----------------------------LAA1_SCI_PS
+	-Science as Inquiry Raw Score---------------------------LAA1_SCI_SI

@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'vendor.classic_learning_initiatives.CLT'
+mavenVersion = '1.0.5' + getWorkingBranch()

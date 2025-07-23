@@ -1,0 +1,7 @@
+schoolyear,compositeschoolid,institution_name,ssid,subjectarea,score,performancelevel,Gender,EverLowIncome,EverSpecialEd,Race
+2021,12210523161,Google Redwood High School,13381,Numeracy,55,3,M,0,0,W
+2021,12210523161,Google Redwood High School,13382,Literacy,53,1,M,0,0,W
+2021,12210523161,Google Redwood High School,13383,Literacy,99,3,M,0,1,W
+2021,12210523161,Google Redwood High School,13384,Numeracy,41,2,F,0,1,W
+2021,12210523161,Google Redwood High School,13385,Literacy,88,2,M,0,0,W
+2021,12210523161,Google Redwood High School,13386,Numeracy,18,1,M,1,0,H

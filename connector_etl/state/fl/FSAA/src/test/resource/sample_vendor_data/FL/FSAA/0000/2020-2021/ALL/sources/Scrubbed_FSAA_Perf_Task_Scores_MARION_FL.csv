@@ -1,0 +1,5 @@
+AdminYear,FLEID,Discode,Schcode,SchType,Lname,Fname,MI,StuGrade,DOB,Grade,Subject,PartStatus,TestAttempt,ScaledScore,ScaledScore_Low,ScaledScore_High,AchLevel,ItemSet01,ItemSet02,ItemSet03,ItemSet04,ItemSet05,ItemSet06,ItemSet07,ItemSet08,ItemSet09,ItemSet10,ItemSet11,ItemSet12,ItemSet13,ItemSet14,ItemSet15,ItemSet16,WritingMC01,WritingMC02,WritingMC03,WritingMC04,WritingMC05,WritingOR01,WritingOR02,WritingOR03,WritingOR04,Task01_NCorrect,Task01_Nquestions,Task02_NCorrect,Task02_Nquestions,Task03_NCorrect,Task03_Nquestions,Task01Scaffold_NCorrect,Task01Scaffold_Nquestions,Test Date
+1718,FL0000013113,42,0331,,Porter,Kerry,BB,,06/10/2010,12,al1,,,820,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-02-26
+1718,FL0000013114,64,3839,,Price,Kiley,BB,,02/16/2010,12,al1,,,824,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-02-26
+1819,FL0000013115,42,0661,,Askew,Wilford,CB,,01/11/2010,10,al1,,,782,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-02-25
+1819,FL0000013116,60,3001,,Ray,Kacy,BB,,02/19/2010,09,al1,,,482,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-05-13

@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'state.fl.FAST_STAR'
+mavenVersion = '1.1.1' + getWorkingBranch()

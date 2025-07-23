@@ -1,0 +1,94 @@
+Spring 2010 LAA2 LDESTDI_SQL FileLayout
+
+LAA2
+
+
+English------------------------------------------------------LAA2_ENG_OVERALL
+-Raw Score Total - ELA
+-Scaled Score - ELA
+-Assessment Achievement Level - ELA
+-Total Score for Writing
+-Non-Score Code for Writing
+
+	> Raw Score
+	-Standard1ReadComprehendRespond-------------------------LAA2_ENG_S1RCR
+	-Standard2WriteCompetently------------------------------LAA2_ENG_S2WC
+	-Standard3UseConventionsOfLanguage----------------------LAA2_ENG_S3UCL
+	-Standard4NotAssessed-----------------------------------LAA2_ENG_S4NA
+	-Standard5LocateSelectSynthesizeInfo--------------------LAA2_ENG_S5LSSI
+	-Standard6ReadAnalyzeRespondToLiterature----------------LAA2_ENG_S6RARL
+	-Standard7ApplyReasoningProblemSolvingSkills------------LAA2_ENG_S7ARPSS
+	
+	>Raw Score
+	-Subtest1Writing---------------------------------------LAA2_ENG_SUB1W
+	-Subtest2UsingInformationResources---------------------LAA2_ENG_SUB2UIR
+	-Subtest3ReadingResponding-----------------------------LAA2_ENG_SUB3RR
+	-Subtest4Proofreading----------------------------------LAA2_ENG_SUB4PR
+
+	>WritingRawScore
+	-Dimension1Composing--------------------LAA2_ENG_DIM1C
+	-Dimension2StyleAudienceAwareness-------LAA2_ENG_DIM2SAA
+
+	>ELARawScoreItemType
+	-MultipleChoiceItems----------------LAA2_ENG_MCI
+	-ConstructedResponseItems-----------LAA2_ENG_CRI
+
+
+
+
+Math-----------------------------------------------------------LAA2_MA_OVERALL
+-Raw Score Total - Math 
+Scaled Score - Math
+Assessment Achievement Level - Math
+
+	>MathRawScore
+	-Standard1NumberAndNumberRelations ------------------LAA2_MA_S1NNR
+	-Standard2Algebra------------------------------------LAA2_MA_S2A
+	-Standard3Measurement--------------------------------LAA2_MA_S3M
+	-Standard4Geometry-----------------------------------LAA2_MA_S4G
+	-Standard5DataAnalysisProbabilityDiscreteMath--------LAA2_MA_S5DAPDM
+	-Standard6PatternsRelationsFunctions-----------------LAA2_MA_S6PRF
+
+	>MathRawScore
+	-Subtest1MultipleChoiceItems------------------------LAA2_MA_SUB1MCI
+	-Subtest2ConstructedResponseItems-------------------LAA2_MA_SUB2CRI
+
+
+
+SCIENCE----------------------------------------------LAA2_SCI_OVERALL
+-Raw Score Total - Science 
+-Scaled Score - Science
+-Assessment Achievement Level - Science
+
+	>ScienceRawScore
+	-Standard1ScienceAsInquiry----------------------LAA2_SCI_S1SI
+	-Standard2PhysicalScience-----------------------LAA2_SCI_S2PS
+	-Standard3LifeScience---------------------------LAA2_SCI_S3LS
+	-Standard4EarthSpaceScience---------------------LAA2_SCI_S4ESP
+	-Standard5ScienceEnvironment--------------------LAA2_SCI_S5SE
+
+	>ScienceRawScore
+	-Subtest1MultipleChoiceItems--------------------LAA2_SCI_SUB1MCI
+	-Subtest2ShortAnswerItems-----------------------LAA2_SCI_SUB2SAI
+
+	>ScienceRawScoreItemType
+	-MultipleChoiceItems----------------------------LAA2_SCI_MCI
+	-ConstructedResponseItems-----------------------LAA2_SCI_CRI
+
+
+
+
+Social Studies---------------------------------------LAA2_SS_OVERALL
+-Raw Score Total - Social Studies
+-Scaled Score - Social Studies
+-Assessment Achievement Level - Social Studies
+	
+	>SocialStudiesRawScore
+	-Standard1Geography-----------------------------LAA2_SS_S1G
+	-Standard2Civics--------------------------------LAA2_SS_S2C
+	-Standard3Economics-----------------------------LAA2_SS_S3E
+	-Standard4History-------------------------------LAA2_SS_S4H
+
+	>SocialStudiesRawScore
+	-Subtest1MultipleChoiceItems--------------------LAA2_SS_SUB1MCI
+	-Subtest2ConstructedResponseItems---------------LAA2_SS_SUB2CRI

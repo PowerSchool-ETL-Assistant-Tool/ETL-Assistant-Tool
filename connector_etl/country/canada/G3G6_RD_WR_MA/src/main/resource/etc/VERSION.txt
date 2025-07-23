@@ -1,0 +1,2 @@
+Version: 1.0.4
+Application-name: country.canada.G3G6_RD_WR_MA

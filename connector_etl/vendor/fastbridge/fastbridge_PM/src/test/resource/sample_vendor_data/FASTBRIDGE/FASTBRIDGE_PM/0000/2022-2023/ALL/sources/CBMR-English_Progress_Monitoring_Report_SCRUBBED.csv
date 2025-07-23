@@ -1,0 +1,3 @@
+Assessment,State,District,School,Student Id,Student State Id,Fast ID,First Name,Last Name,Gender,BirthDate,Race,SpecialEdStatus,Grade,AssessmentDate,ScoreMetric,Score,Start Goal,End Goal
+CBM-R,MN,SIS Gold Google,Google Redwood High School,10022,2118,10022,Brady,Barksdale,M,9/18/2010,White,,1,03-09-2021,Total Accuracy,99,75,126
+CBM-R,MN,SIS Gold Google,Google Redwood High School,10023,2118,10023,Camden,Barone,M,7/20/2012,White,,1,03-09-2021,Total Words Read,88,75,126

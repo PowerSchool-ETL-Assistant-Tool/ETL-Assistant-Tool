@@ -1,0 +1,3 @@
+state_student_id,district_student_id,student_first_name,student_last_name,student_middle_name,student_birthdate,student_grade,school_year,state_school_id,district_school_id,school_name,teacher_employee_no,teacher_name,admin_date,admin_period,hoonuit_test_number,hoonuit_test_class,raw_score,proficiency_level,test_result,test_passed_yn,growth,growth_status
+13999,8080,Joshua,Gregory,BB,10/26/2013,03,2023,100,8080,Bonsai Elementary School,309545,"Dallin,Rebecca",05/01/2023,EOY,ACADIENCE_MATH_AM_COMPOSITE_3,Composite,80,2,Below Benchmark,No,1,Well Below
+13987,8080,Nelson,Butler,Corinne,11/28/2013,03,2023,100,8080,Bonsai Elementary School,309545,"Dallin,Rebecca",05/01/2023,EOY,ACADIENCE_MATH_CA_3,Strand,40,2,Below Benchmark,No,,

@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'state.tx.STAAR_EOC'
+mavenVersion = '1.8.1' + getWorkingBranch()

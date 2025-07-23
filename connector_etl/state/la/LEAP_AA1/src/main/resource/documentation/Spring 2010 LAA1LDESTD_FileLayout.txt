@@ -1,0 +1,39 @@
+Spring 2010 LAA1LDESTD_FileLayout
+
+LAA1
+
+English -----------------------------------------LAA1_ENG_OVERALL
+-ELA Raw Score Total 
+-ELA Scaled Score
+-ELA Assessment Achievement Level
+-Accountability Achievement Level - ELA
+-SEM
+	-Listening Raw Score -----------------------LAA1_ENG_LIS
+	-Reading Raw Score--------------------------LAA1_ENG_RD
+	-Using Information Resources Raw Score------LAA1_ENG_UIR
+	-Writing Raw Score--------------------------LAA1_ENG_WR
+
+
+
+Math--------------------------------------------LAA1_MA_OVERALL
+-Raw Score Total - Math
+-Scaled Score - Math
+-Assessment Achievement Level - Math
+-Accountability Achievement Level - Math
+-SEM
+	-Algebra and Patterns Raw Score------------LAA1_MA_AP
+	-Data Raw Score----------------------------LAA1_MA_DAT
+	-Measurement and Geometry Raw Score -------LAA1_MA_MG
+	-Numbers Raw Score-------------------------LAA1_MA_NUM
+
+
+SCIENCE---------------------------------------------------LAA1_SCI_OVERALL
+-Raw Score Total - Science
+-Scaled Score - Science
+-Assessment Achievement Level - Science
+-Accountability Achievement Level - Science
+
+	-Earth, Space, and Environmental Science Raw Score------LAA1_SCI_ESES
+	-Life Science Raw Score---------------------------------LAA1_SCI_LS
+	-Physical Science Raw Score-----------------------------LAA1_SCI_PS
+	-Science as Inquiry Raw Score---------------------------LAA1_SCI_SI

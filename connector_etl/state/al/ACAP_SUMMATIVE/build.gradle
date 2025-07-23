@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'state.al.ACAP_SUMMATIVE'
+mavenVersion = '1.3.7' + getWorkingBranch()

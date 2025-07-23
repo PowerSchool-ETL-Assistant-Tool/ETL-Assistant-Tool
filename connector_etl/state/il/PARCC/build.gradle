@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'state.il.PARCC'
+mavenVersion = '1.0.4' + getWorkingBranch()

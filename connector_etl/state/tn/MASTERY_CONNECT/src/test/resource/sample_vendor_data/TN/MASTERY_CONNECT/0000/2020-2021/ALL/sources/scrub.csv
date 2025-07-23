@@ -1,0 +1,3 @@
+test_id,school_id,test_date,tch_name,teacher_id,grade,student_id,fname,lname,perc_cor,ach_lev,ach_lev_ext,A.CED,A.REI,A.SSE,F.IF,N.Q
+tnmalg2020cdomtr01oakr,25,09-27-2019,Mr.Riojas,45162,08,240000220,"Alick",CC,84.3333333333333,4,4-,3,2,4,3.67,4
+tnmalg2020cdomtr01oakr,25,09-27-2019,Mr. David Tracey,45062,07,250000399,Senaida,BB,83.3333333333333,4,4-,4,2,4,3.33,4

@@ -1,0 +1,101 @@
+TestID,SchID,TchName,Period,StudentID,Fname,Lname,PercCorr,AchLev,AchLevExt,SuggNMark,SuggLMark
+ncccm12022cdomfs01cumb,300,Anna Ruff,1,10114,Erika,Gonzalez,54.2857142857143,3,3,74,C
+ncccm12022cdomfs01cumb,300,Anna Ruff,1,10034,Cory,Bleak,40,2,2,62,D
+ncccm12022cdomfs01cumb,300,Anna Ruff,1,10030,Jordan,Benson,22.8571428571429,2,2-,52,F
+ncccm12022cdomfs01cumb,300,Anna Ruff,1,10061,Juan,Conner,42.8571428571429,2,2,65,D
+ncccm12022cdomfs01cumb,300,Anna Ruff,1,10068,Kristin,Cuney,28.5714285714286,2,2-,54,F
+ncccm12022cdomfs01cumb,300,Anna Ruff,1,10100,John,Fredericks,22.8571428571429,2,2-,52,F
+ncccm12022cdomfs01cumb,300,Anna Ruff,1,10116,Brianna,Gregg,45.7142857142857,2,2+,67,D
+ncccm12022cdomfs01cumb,300,Anna Ruff,1,10052,DeAngelo,Chatmon,5.71428571428571,2,2-,50,F
+ncccm12022cdomfs01cumb,300,Anna Ruff,1,10069,Jennifer,Dahl,42.8571428571429,2,2,65,D
+ncccm12022cdomfs01cumb,300,Anna Ruff,1,10163,Alexus,Khan,20,2,2-,52,F
+ncccm12022cdomfs01cumb,300,Anna Ruff,1,10098,Osiris,Flores Morales,65.7142857142857,4,4,83,B
+ncccm12022cdomfs01cumb,300,Anna Ruff,1,10121,Kellie,Hagen,37.1428571428571,2,2,60,D
+ncccm12022cdomfs01cumb,300,Anna Ruff,1,10162,Hannah,Khan,20,2,2-,52,F
+ncccm12022cdomfs01cumb,300,Anna Ruff,1,10117,Ananya,Gregory,34.2857142857143,2,2-,58,F
+ncccm12022cdomfs01cumb,300,Anna Ruff,1,10039,Zakeith,Bradford,11.4285714285714,2,2-,51,F
+ncccm12022cdomfs01cumb,300,Anna Ruff,1,10152,Lindsay,Kadrie,25.7142857142857,2,2-,52,F
+ncccm12022cdomfs01cumb,300,Anna Ruff,1,10084,Sydney,Doll,40,2,2,62,D
+ncccm12022cdomfs01cumb,300,Anna Ruff,1,10053,Nathan,Chen,8.57142857142857,2,2-,51,F
+ncccm12022cdomfs01cumb,300,Anna Ruff,1,10062,Sarah,Cotton,48.5714285714286,2,2+,69,D
+ncccm12022cdomfs01cumb,300,Ariel Goslee,1,10007,Abra,Alvarez,8.57142857142857,2,2-,51,F
+ncccm12022cdomfs01cumb,300,Ariel Goslee,2,10066,Erick,Creasser,2.85714285714286,2,2-,50,F
+ncccm12022cdomfs01cumb,300,Ariel Goslee,2,10020,Amanda,Banerjee,25.7142857142857,2,2-,52,F
+ncccm12022cdomfs01cumb,300,Ariel Goslee,2,10085,Vicki,Donnell,17.1428571428571,2,2-,51,F
+ncccm12022cdomfs01cumb,300,Ariel Goslee,2,10093,Katelyn,Estell,20,2,2-,52,F
+ncccm12022cdomfs01cumb,300,Ariel Goslee,2,10014,Jake,Attridge,17.1428571428571,2,2-,51,F
+ncccm12022cdomfs01cumb,300,Ariel Goslee,2,10045,Camryn,Cabezas,31.4285714285714,2,2-,56,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,1,10040,Alazie,Brophy,42.8571428571429,2,2,65,D
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,1,20190018,Student,Tes YET,28.5714285714286,2,2-,54,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,1,10060,Kyle,Collier,17.1428571428571,2,2-,51,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,1,10035,Lacy,Booz,17.1428571428571,2,2-,51,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,1,10031,Jonathan,Berman,42.8571428571429,2,2,65,D
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,1,10015,Michael,Attridge,60,4,4-,80,B
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,1,10129,Raisa,Herrera,42.8571428571429,2,2,65,D
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,1,10037,Audrey,Bowles,31.4285714285714,2,2-,56,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,1,10144,Arturo,Johnson,28.5714285714286,2,2-,54,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,1,10157,Seth,Kelly,22.8571428571429,2,2-,52,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,1,10110,Larry,Gessel,31.4285714285714,2,2-,56,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,1,10142,Sarrah,Janousek,31.4285714285714,2,2-,56,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,1,10111,Madison,Gipson,34.2857142857143,2,2-,58,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,1,10083,Destiny,Doina,82.8571428571429,5,5-,92,A
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,1,10022,Brady,Barksdale,17.1428571428571,2,2-,51,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,1,10011,Jocelyn,"As""cen""ci\o",31.4285714285714,2,2-,56,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,1,10149,Diego,Jordet,62.8571428571429,4,4-,81,B
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,1,10013,"J""ai""","A""sp""er",22.8571428571429,2,2-,52,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,1,10058,Sarah,Cleckley,42.8571428571429,2,2,65,D
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,1,10118,Nathan,Grunder,51.4285714285714,3,3-,71,C
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,1,10113,Daniel,Gomez,45.7142857142857,2,2+,67,D
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,2,10036,Jessica,Bowles,14.2857142857143,2,2-,51,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,2,10137,Gabriela,Hui,51.4285714285714,3,3-,71,C
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,2,10082,Michea,Diwanji,37.1428571428571,2,2,60,D
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,2,10050,Jairo,Cellum,28.5714285714286,2,2-,54,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,2,10126,Jonathan,Harris,37.1428571428571,2,2,60,D
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,2,10086,Hira,Dooley,2.85714285714286,2,2-,50,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,2,10038,Kade,Boyd,48.5714285714286,2,2+,69,D
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,2,20190000,Donte,Longway,20,2,2-,52,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,2,10153,Jerica,Kay,22.8571428571429,2,2-,52,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,2,10151,Jose,Juarez,37.1428571428571,2,2,60,D
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,2,10025,Heather,Bateman,40,2,2,62,D
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,2,10023,Camden,Barone,20,2,2-,52,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,2,10009,"Sav""ann\ah","An""th""ony",34.2857142857143,2,2-,58,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,2,10012,Justin,As\hcr\oft,22.8571428571429,2,2-,52,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,2,10071,Nathan,Davis,42.8571428571429,2,2,65,D
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,2,10006,Jakari,Alvarado,40,2,2,62,D
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,2,10047,Brandon,Camacho,37.1428571428571,2,2,60,D
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,2,10021,Jocelyne,Banks,34.2857142857143,2,2-,58,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,2,10105,Kendall,Garcia,25.7142857142857,2,2-,52,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,2,10104,Chase,Garcia,37.1428571428571,2,2,60,D
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,3,10143,Heather,Jeppson,34.2857142857143,2,2-,58,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,3,10072,Randal,Dejay,62.8571428571429,4,4-,81,B
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,3,10078,Richard,Desai,34.2857142857143,2,2-,58,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,3,10087,Roxana,Douglas,31.4285714285714,2,2-,56,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,3,10033,Kelli,Bharde,17.1428571428571,2,2-,51,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,3,10169,Greta,Lawrence,28.5714285714286,2,2-,54,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,3,10048,Alexis,Campbell,28.5714285714286,2,2-,54,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,3,10032,Asim,Bezner,25.7142857142857,2,2-,52,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,3,10067,Andrew,Crowder,31.4285714285714,2,2-,56,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,3,10150,Nelson,Juarez,25.7142857142857,2,2-,52,F
+ncccm12022cdomfs01cumb,2181455,Mr. Hiwon Woo,3,20190021,student1,google student1,28.5714285714286,2,2-,54,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,3,10168,Chad,Larson,22.8571428571429,2,2-,52,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,3,10026,Rebecca,Bauch,22.8571428571429,2,2-,52,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,3,10097,Yash,Fisseler,22.8571428571429,2,2-,52,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,3,10139,Natnael,Jalbert,57.1428571428571,3,3+,77,C
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,3,10095,Andrew,Faus,54.2857142857143,3,3,74,C
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,3,10070,Nick,Danger,34.2857142857143,2,2-,58,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,3,10127,Scott,Hart,42.8571428571429,2,2,65,D
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,3,10148,Steven,Jones,34.2857142857143,2,2-,58,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,4,10120,Benito,Guzman,14.2857142857143,2,2-,51,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,4,10005,JordAnn,Alldredge,20,2,2-,52,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,4,10109,Abimbola,Garza,31.4285714285714,2,2-,56,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,4,10140,Yasmeen,Jamoussi,65.7142857142857,4,4,83,B
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,4,10049,Justin,Carr,20,2,2-,52,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,4,10161,Carla,Khajeh,48.5714285714286,2,2+,69,D
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,4,10096,Nichole,Ferguson,31.4285714285714,2,2-,56,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,4,10164,Dilmira,Kosley,45.7142857142857,2,2+,67,D
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,4,10112,Matthew,Goff,22.8571428571429,2,2-,52,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,4,10059,Kemya,Coline,22.8571428571429,2,2-,52,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,4,10138,Christian,Huynh,20,2,2-,52,F
+ncccm12022cdomfs01cumb,300,Mr. Hiwon Woo,4,10165,Crystal,Krahenbuhl,22.8571428571429,2,2-,52,F
+ncccm12022cdomfs01cumb,300,Jamaal Darden,1,10128,Garrison,Hennemann,17.1428571428571,2,2-,51,F
+ncccm12022cdomfs01cumb,300,Jamaal Darden,2,10099,Raina,Flynn,20,2,2-,52,F

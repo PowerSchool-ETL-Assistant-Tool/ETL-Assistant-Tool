@@ -1,0 +1,101 @@
+TestID,SchID,TchName,Period,StudentID,Fname,Lname,PercCorr,AchLev,AchLevExt,SuggNMark,SuggLMark
+ncsci82022sdomtr01cumb,300,Mrs. Felicia Grady,1,10026,Rebecca,Bauch,28,2,2 - ,55,F
+ncsci82022sdomtr01cumb,300,Mrs. Felicia Grady,1,10061,Juan,Conner,24,2,2 - ,52,F
+ncsci82022sdomtr01cumb,300,Mrs. Felicia Grady,1,10148,Steven,Jones,12,2,2 - ,51,F
+ncsci82022sdomtr01cumb,300,Mrs. Felicia Grady,1,10050,Jairo,Cellum,24,2,2 - ,52,F
+ncsci82022sdomtr01cumb,300,Mrs. Felicia Grady,1,10023,Camden,Barone,28,2,2 - ,55,F
+ncsci82022sdomtr01cumb,300,Mrs. Felicia Grady,1,10069,Jennifer,Dahl,32,2,2 - ,59,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,1,10113,Daniel,Gomez,40,2,2+,66,D
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,1,10230,Ana,Ortega,64,4,4,85,B
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,1,10171,Zekia,LeGrange,36,2,2,62,D
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,1,10020,Amanda,Banerjee,40,2,2+,66,D
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,1,10087,Roxana,Douglas,20,2,2 - ,52,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,1,10170,Kathryn,Legrande,40,2,2+,66,D
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,1,10162,Hannah,Khan,44,3,3 - ,70,C
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,1,10096,Nichole,Ferguson,48,3,3,74,C
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,1,10142,Sarrah,Janousek,20,2,2 - ,52,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,1,10140,Yasmeen,Jamoussi,60,4,4 -,82,B
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,1,10049,Justin,Carr,28,2,2 - ,55,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,1,10138,Christian,Huynh,20,2,2 - ,52,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,1,10030,Jordan,Benson,20,2,2 - ,52,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,1,10221,Briana,Nieto,20,2,2 - ,52,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,1,10182,Charisse,Maroulis,84,5,5,95,A
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,2,10105,Kendall,Garcia,32,2,2 - ,59,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,2,10235,Jason,Pascoe,36,2,2,62,D
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,2,10187,Sierra,Matamoras,16,2,2 - ,51,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,2,10163,Alexus,Khan,48,3,3,74,C
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,2,10150,Nelson,Juarez,20,2,2 - ,52,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,2,10206,Ryan,Moore,68,4,4+,87,B
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,2,10227,Yesenia,Ocampo,16,2,2 - ,51,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,2,10072,Randal,Dejay,48,3,3,74,C
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,2,10207,DeAunja,Moreno,28,2,2 - ,55,F
+ncsci82022sdomtr01cumb,2181455,Mrs. Katherine Cuffe,2,20190021,student1,google student1,52,3,3+,78,C
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,2,10201,Peter,Mitchell,68,4,4+,87,B
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,2,10111,Madison,Gipson,20,2,2 - ,52,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,2,10229,Kaylie,Onyenwe,48,3,3,74,C
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,2,10126,Jonathan,Harris,64,4,4,85,B
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,2,10047,Brandon,Camacho,24,2,2 - ,52,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,2,20190018,Student,Tes YET,16,2,2 - ,51,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,2,10218,Erin,Nielsen,36,2,2,62,D
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,2,10220,Charise,Nieto,24,2,2 - ,52,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,2,10062,Sarah,Cotton,28,2,2 - ,55,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,3,10109,Abimbola,Garza,48,3,3,74,C
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,3,10078,Richard,Desai,60,4,4 -,82,B
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,3,10226,Sam,Nylander,56,4,4 -,80,B
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,3,10129,Raisa,Herrera,32,2,2 - ,59,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,3,10168,Chad,Larson,24,2,2 - ,52,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,3,10060,Kyle,Collier,28,2,2 - ,55,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,3,10181,Jordyn,Manalo,16,2,2 - ,51,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,3,10189,Savannah,Mathews,40,2,2+,66,D
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,3,10059,Kemya,Coline,64,4,4,85,B
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,3,10217,Marissa,Nick,52,3,3+,78,C
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,3,10151,Jose,Juarez,44,3,3 - ,70,C
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,3,10052,DeAngelo,Chatmon,52,3,3+,78,C
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,3,10015,Michael,Attridge,56,4,4 -,80,B
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,3,10099,Raina,Flynn,40,2,2+,66,D
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,3,10192,Mohammad,McDonald,20,2,2 - ,52,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,3,10172,Timothy,Liaw,44,3,3 - ,70,C
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,3,10200,Noe,Miller,48,3,3,74,C
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,3,10209,Shayna,Murphy,60,4,4 -,82,B
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,3,20190000,Donte,Longway,32,2,2 - ,59,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,4,10183,Alexander,Martin,32,2,2 - ,59,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,4,10094,Eric,Evans,36,2,2,62,D
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,4,10058,Sarah,Cleckley,12,2,2 - ,51,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,4,10198,Aris,Meyer,48,3,3,74,C
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,4,10208,Keenan,Mukherjee,48,3,3,74,C
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,4,10236,Blake,Paynter,64,4,4,85,B
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,4,10184,Cherre,Martinez,40,2,2+,66,D
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,4,10097,Yash,Fisseler,64,4,4,85,B
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,4,10086,Hira,Dooley,32,2,2 - ,59,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,4,10070,Nick,Danger,24,2,2 - ,52,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,4,10178,Matthew,Madsen,28,2,2 - ,55,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,4,10219,Jeffrey,Nielsen,36,2,2,62,D
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,4,10149,Diego,Jordet,40,2,2+,66,D
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,4,10100,John,Fredericks,24,2,2 - ,52,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,4,10104,Chase,Garcia,68,4,4+,87,B
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,4,10228,Mahek,Ontiveros,28,2,2 - ,55,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,4,10098,Osiris,Flores Morales,48,3,3,74,C
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,4,10037,Audrey,Bowles,48,3,3,74,C
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,4,10143,Heather,Jeppson,28,2,2 - ,55,F
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,4,10068,Kristin,Cuney,52,3,3+,78,C
+ncsci82022sdomtr01cumb,300,Mrs. Katherine Cuffe,4,10074,Adam,Demie,40,2,2+,66,D
+ncsci82022sdomtr01cumb,300,Mrs. Talicia Smith,1,10139,Natnael,Jalbert,64,4,4,85,B
+ncsci82022sdomtr01cumb,300,Mrs. Talicia Smith,1,10007,Abra,Alvarez,48,3,3,74,C
+ncsci82022sdomtr01cumb,300,Mrs. Talicia Smith,1,10120,Benito,Guzman,56,4,4 -,80,B
+ncsci82022sdomtr01cumb,300,Mrs. Talicia Smith,1,10110,Larry,Gessel,52,3,3+,78,C
+ncsci82022sdomtr01cumb,300,Mrs. Talicia Smith,1,10169,Greta,Lawrence,40,2,2+,66,D
+ncsci82022sdomtr01cumb,300,Mrs. Talicia Smith,1,10112,Matthew,Goff,32,2,2 - ,59,F
+ncsci82022sdomtr01cumb,300,Mrs. Talicia Smith,1,10021,Jocelyne,Banks,48,3,3,74,C
+ncsci82022sdomtr01cumb,300,Mrs. Talicia Smith,1,10048,Alexis,Campbell,80,5,5 - ,93,A
+ncsci82022sdomtr01cumb,300,Mrs. Talicia Smith,1,10114,Erika,Gonzalez,40,2,2+,66,D
+ncsci82022sdomtr01cumb,300,Mrs. Talicia Smith,1,10237,Mia,Perez,20,2,2 - ,52,F
+ncsci82022sdomtr01cumb,300,Mrs. Talicia Smith,1,10179,Kristophe,Magee,32,2,2 - ,59,F
+ncsci82022sdomtr01cumb,300,Mrs. Talicia Smith,1,10137,Gabriela,Hui,48,3,3,74,C
+ncsci82022sdomtr01cumb,300,Mrs. Talicia Smith,1,10153,Jerica,Kay,24,2,2 - ,52,F
+ncsci82022sdomtr01cumb,300,Mrs. Talicia Smith,1,10053,Nathan,Chen,40,2,2+,66,D
+ncsci82022sdomtr01cumb,300,Mrs. Talicia Smith,1,10022,Brady,Barksdale,60,4,4 -,82,B
+ncsci82022sdomtr01cumb,300,Mrs. Talicia Smith,1,10128,Garrison,Hennemann,60,4,4 -,82,B
+ncsci82022sdomtr01cumb,300,Mrs. Talicia Smith,1,10095,Andrew,Faus,32,2,2 - ,59,F
+ncsci82022sdomtr01cumb,300,Mrs. Talicia Smith,1,10121,Kellie,Hagen,36,2,2,62,D
+ncsci82022sdomtr01cumb,300,Mrs. Talicia Smith,1,10191,Dusty,McBride,28,2,2 - ,55,F
+ncsci82022sdomtr01cumb,300,Mrs. Talicia Smith,1,10152,Lindsay,Kadrie,32,2,2 - ,59,F

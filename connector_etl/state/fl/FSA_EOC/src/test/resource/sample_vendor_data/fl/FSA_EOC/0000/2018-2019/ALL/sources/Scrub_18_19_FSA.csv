@@ -1,0 +1,4 @@
+Mode,SchoolYear,DisName,SchName,Dis,Sch,SchType,Sgrade,TestName,LastName,FirstName,MI,FLEID,TestForm,CoreTestForm,UIN,CBTFlag,DisUse,DOB,Sex,SessionID,ReportRace,EthHisp,RaceI,RaceA,RaceB,RaceP,RaceW,ELL,PES,S504,CurrGp,StdCurr,Acc_TTS,Acc_Mask,Acc_PassBklt,Acc_ASL,AccomPlan,TestGroup1,TestGroup2,PreID,SecBar,TestStatus,ScoreFlag,RptStatus,RetakerStatus,APS,RAWSCORE,ScaleScore,ScaleScoreSEM,ScaleScoreUL,ScaleScoreLL,PerformanceLevel,THETA,THETASEM,PtPos1,Earn1,PtPos2,Earn2,PtPos3,Earn3,PtPos4,Earn4,Pass,Discrepant,Wave,FileDate,EndDis,Test Date
+,1819,,,42,100,,06,FSA EOC ALG 1 RETAKE,,,,12911,,,,,12911,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,9,465,,,,1,,,24,3,23,5,11,1,,,N,,,,$,30/11/2018
+,2018-2019,,,59,100,,02,FSA EOC ALG 2,,,,13950,,,,,13950,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11,492,,,,3,,,,,,,,,,,,,,,$,2018-05-01
+,1819,,,42,100,,07,FSA EOC ALG 1,,,,12437,,,,,12437,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,32,515,,,,3,,,24,14,24,11,12,7,,,Y,,,,$,

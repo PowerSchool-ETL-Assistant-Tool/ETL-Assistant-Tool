@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'vendor.achieve3000.achieve3000'
+mavenVersion = '1.5.1' + getWorkingBranch()

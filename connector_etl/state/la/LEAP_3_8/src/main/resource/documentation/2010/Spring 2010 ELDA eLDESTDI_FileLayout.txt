@@ -1,0 +1,27 @@
+Spring 2010 ELDA eLDESTDI_FileLayout
+
+----ELDA--------------------------------------ELDA_OVERALL
+-Production Level
+-Comprehension Level
+-Composite Level
+
+	Reading---------------------------------------ELDA_RD
+	-ReadingRawScore
+	-ReadingScaledScore
+	-ReadingProficiencyLevel
+
+
+	Writing -------------------------------------ELDA_WT
+	-WritingRawScore
+	-WritingScaledScore
+	-WritingProficiencyLevel
+
+	Listening------------------------------------ELDA_LIS
+	-ListeningRawScore
+	-ListeningScaledScore
+	-ListeningProficiencyLevel
+
+	Speaking-------------------------------------ELDA_SPK
+	-SpeakingRawScore
+	-SpeakingScaledScore
+	-SpeakingProficiencyLevel

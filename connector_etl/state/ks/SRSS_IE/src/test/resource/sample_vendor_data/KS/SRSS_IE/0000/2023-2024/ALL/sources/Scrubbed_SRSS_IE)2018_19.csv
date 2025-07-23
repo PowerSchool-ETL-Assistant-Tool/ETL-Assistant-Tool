@@ -1,0 +1,3 @@
+SchoolYear,Season,Building,Grade,TeacherId,StudentId,Internalizing Score,Exernalizing Score,Total,Intenalizing Risk Level,Externalizing Risk Level,CreatedDate
+2019,screenfall,1,13,6869,13976,1,0,1,LOW,LOW,10/22/2018
+2019,screenspring,1,17,6869,13976,0,0,0,LOW,LOW,05/01/2019

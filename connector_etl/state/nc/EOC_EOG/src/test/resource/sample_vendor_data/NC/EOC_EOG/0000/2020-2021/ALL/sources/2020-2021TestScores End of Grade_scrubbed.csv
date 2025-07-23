@@ -1,0 +1,10 @@
+SchoolID,Student_Number,last_name,first_name,Grade_Level,Year,BOG3_scale,BOG3_level,EOGRD_scale,EOGRD_level,EOGMA_scale,EOGMA_level,EOGSci_scale,EOGSci_level
+300,10001,Aabram,Hannah,3,2020-2021,413,1,421,1,535,Not Proficient,,
+300,10002,Ajala,Sherin,3,2020-2021,431,1,428,1,531,Not Proficient,,
+300,10003,Akinsanya,Joe,3,2020-2021,430,1,437,2,546,Level 3,,
+300,10004,Alba,Ellen,3,2020-2021,,,432,2,545,Level 3,,
+300,10005,Alldredge,JordAnn,3,2020-2021,441,3,446,4,557,Level 4,,
+300,10006,Alvarado,Jakari,3,2020-2021,434,2,449,4,560,Level 5,,
+300,10007,Alvarez,Abra,3,2020-2021,437,2,444,4,546,Level 3,,
+300,10008,Anderson,Bruce,3,2020-2021,444,4,452,5,570,Level 5,,
+300,10009,Anthony,Savannah,3,2020-2021,443,4,458,5,563,Level 5,,

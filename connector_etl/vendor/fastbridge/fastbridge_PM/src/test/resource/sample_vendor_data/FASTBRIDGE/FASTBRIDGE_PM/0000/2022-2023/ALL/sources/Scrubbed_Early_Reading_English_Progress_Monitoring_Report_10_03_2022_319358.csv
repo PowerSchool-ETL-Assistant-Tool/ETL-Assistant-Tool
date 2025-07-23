@@ -1,0 +1,6 @@
+Assessment,State,District,School,Student Id,Student State Id,Fast ID,First Name,Last Name,Gender,BirthDate,Race,SpecialEdStatus,Grade,AssessmentDate,ScoreMetric,Score,Start Goal,End Goal,Goal Start Date,Goal End Date,Assessment Level
+ERAS-drw,AZ,Apple Grove Unified Schools,Bonsai Elementary School,13259,16675218,4021263,Lucinda,Beedy,,"07/23/2012",,,02,09/20/2022,Total Accuracy,17.0,0.0,14.95,09/11/2022,12/11/2022,N/A
+ERAS-drw,AZ,Apple Grove Unified Schools,Bonsai Elementary School,13951,62338516,4017888,Lucas,Laghari,,"06/15/2015",,,03,09/12/2022,Total Accuracy,35.0,0.0,41.399998,09/11/2022,05/25/2023,N/A
+ERAS-drw,AZ,Apple Grove Unified Schools,Bonsai Elementary School,14459,58993596,4755524,"Amir",Charlton,,"03/23/2008",,,03,09/12/2022,Total Accuracy,22.0,0.0,41.399998,09/11/2022,05/25/2023,N/A
+ERAS-drw,AZ,Apple Grove Unified Schools,Bonsai Elementary School,13524,58645589,4755525,Brock,Rowley,,"12/31/2012",,,01,09/12/2022,Total Accuracy,11.0,0.0,41.399998,09/11/2022,05/25/2023,N/A
+ERAS-drw,AZ,Apple Grove Unified Schools,Bonsai Elementary School,14467,41553196,5495778,"Davis",Lockliear,,"09/21/2007",,,03,09/12/2022,Total Accuracy,76.0,0.0,41.399998,09/11/2022,05/25/2023,N/A

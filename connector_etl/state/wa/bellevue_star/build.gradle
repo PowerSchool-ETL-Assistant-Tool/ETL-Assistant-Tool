@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'state.wa.bellevue_star'
+mavenVersion = '1.2.4' + getWorkingBranch()

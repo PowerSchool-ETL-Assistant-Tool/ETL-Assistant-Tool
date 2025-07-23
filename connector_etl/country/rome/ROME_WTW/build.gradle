@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'country.rome.ROME_WTW'
+mavenVersion = '1.0.2' + getWorkingBranch()

@@ -1,0 +1,51 @@
+LAA1_SPRING_2017_FileLayout_Staff_Contractors
+
+LAA1
+
+English --------------------------------------------LAA1_ELA_OVERALL
+-Raw Score Total
+-Scaled Score
+-Assessment Achievement Level - ELA
+-Accountability Achievement Level - ELA
+
+	-Listening -------------------------------------LAA1_ELA_LIS
+		-Raw Score
+	-Reading ---------------------------------------LAA1_ELA_RD
+		-Raw Score
+	-Using Information Resources -------------------LAA1_ELA_UIR
+		-Raw Score
+	-Writing ---------------------------------------LAA1_ELA_WT
+		-Raw Score
+		
+		
+Math ----------------------------------------------LAA1_MA_OVERALL
+-Raw Score Total - Math
+-Scaled Score - Math
+-Assessment Achievement Level - Math
+-Accountability Achievement Level - Math
+
+	-Algebra and Patterns -------------------------LAA1_MA_AP
+		-Raw Score
+	-Data -----------------------------------------LAA1_MA_DATA
+		-Raw Score
+	-Measurement and Geometry ---------------------LAA1_MA_MG
+		-Raw Score
+	-Numbers --------------------------------------LAA1_MA__NUM
+		-Raw Score
+
+
+SCIENCE -------------------------------------------LAA1_SCI_OVERALL
+-Raw Score Total - Science
+-Scaled Score - Science
+-Assessment Achievement Level - Science
+-Accountability Achievement Level - Science
+
+	-Earth, Space, and Environmental Science -----LAA1_SCI_ESES
+		-Raw Score
+	-Life Science --------------------------------LAA1_SCI_LS
+		-Raw Score
+	-Physical Science ----------------------------LAA1_SCI_PS
+		-Raw Score
+	-Science as Inquiry --------------------------LAA1_SCI_SI
+		-Raw Score
+

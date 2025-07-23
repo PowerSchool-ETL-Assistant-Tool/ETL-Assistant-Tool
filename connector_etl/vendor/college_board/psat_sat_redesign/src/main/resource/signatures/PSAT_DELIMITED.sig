@@ -1,0 +1,1259 @@
+{
+  "encoding": "UTF-8",
+  "fileExtensions": [
+    ".csv"
+  ],
+  "format": {
+    "@type": "Delimited",
+    "formatName": "PSAT_DELIMITED",
+    "quoteDelim": "\"",
+    "fieldDelim": ",",
+    "recordLength": "",
+    "hasHeader": true,
+    "naturalKey": [],
+    "fields": [
+      {
+        "physicalName": "Student Name",
+        "otherPossibleNames": [],
+        "logicalName": "STUDENT_NAME",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 1
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "State_StudentNumber",
+        "otherPossibleNames": [],
+        "logicalName": "STUDENT_VENDOR_ID",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 2
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Student_Number",
+        "otherPossibleNames": [],
+        "logicalName": "STUDENT_NUMBER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 3
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Sex",
+        "otherPossibleNames": [],
+        "logicalName": "SEX",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 4
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Ethnicity",
+        "otherPossibleNames": [],
+        "logicalName": "ETHNICITY",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 5
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Date of Birth",
+        "otherPossibleNames": [],
+        "logicalName": "STUDENT_DOB",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 6
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Grade",
+        "otherPossibleNames": [],
+        "logicalName": "GRADE",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 7
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Assessment",
+        "otherPossibleNames": [],
+        "logicalName": "ASSESSMENT",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 8
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Administration",
+        "otherPossibleNames": [],
+        "logicalName": "ADMINISTRATION",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 9
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Registration #",
+        "otherPossibleNames": [],
+        "logicalName": "REGISTRATION_#",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 10
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Test Date",
+        "otherPossibleNames": [],
+        "logicalName": "TEST_DATE",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 11
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Administered Test Center Name",
+        "otherPossibleNames": [],
+        "logicalName": "ADMINISTERED_TEST_CENTER_NAME",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 12
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Administered Test Center City",
+        "otherPossibleNames": [],
+        "logicalName": "ADMINISTERED_TEST_CENTER_CITY",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 13
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Absent Indicator",
+        "otherPossibleNames": [],
+        "logicalName": "ABSENT_INDICATOR",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 14
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Test Fee Waiver Indicator",
+        "otherPossibleNames": [],
+        "logicalName": "TEST_FEE_WAIVER_INDICATOR",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 15
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Accommodations",
+        "otherPossibleNames": [],
+        "logicalName": "ACCOMMODATIONS",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 16
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "College Score Sends",
+        "otherPossibleNames": [],
+        "logicalName": "COLLEGE_SCORE_SENDS",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 17
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Total Scores",
+        "otherPossibleNames": [],
+        "logicalName": "LATEST_SAT_TOTAL",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 18
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "EBRW Score",
+        "otherPossibleNames": [],
+        "logicalName": "LATEST_SAT_EBRW",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 19
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Math Score",
+        "otherPossibleNames": [],
+        "logicalName": "LATEST_SAT_MATH_SECTION",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 20
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Reading",
+        "otherPossibleNames": [],
+        "logicalName": "LATEST_SAT_READING",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 21
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Writing and Language",
+        "otherPossibleNames": [],
+        "logicalName": "LATEST_SAT_WRIT_LANG",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 22
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Math",
+        "otherPossibleNames": [],
+        "logicalName": "LATEST_SAT_MATH_TEST",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 23
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Analysis in Science",
+        "otherPossibleNames": [],
+        "logicalName": "LATEST_SAT_SCI_CROSS",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 24
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Analysis in History/Social Studies",
+        "otherPossibleNames": [],
+        "logicalName": "LATEST_SAT_HIST_SOCST_CROSS",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 25
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Command of Evidence",
+        "otherPossibleNames": [],
+        "logicalName": "LATEST_SAT_COMM_EVIDENCE",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 26
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Words in Context",
+        "otherPossibleNames": [],
+        "logicalName": "LATEST_SAT_WORDS_CONTEXT",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 27
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Expression of Ideas",
+        "otherPossibleNames": [],
+        "logicalName": "LATEST_SAT_EXPR_IDEAS",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 28
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Standard English Conventions",
+        "otherPossibleNames": [],
+        "logicalName": "LATEST_SAT_ENG_CONVENT",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 29
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Heart of Algebra",
+        "otherPossibleNames": [],
+        "logicalName": "LATEST_SAT_HEART_ALGEBRA",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 30
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Problem Solving and Data Analysis",
+        "otherPossibleNames": [],
+        "logicalName": "LATEST_SAT_PROBSLV_DATA",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 31
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Passport to Advanced Mathematics",
+        "otherPossibleNames": [],
+        "logicalName": "LATEST_SAT_ADV_MATH",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 32
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Reading1",
+        "otherPossibleNames": [],
+        "logicalName": "LATEST_SAT_ESSAY_READING",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 33
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Analysis1",
+        "otherPossibleNames": [],
+        "logicalName": "LATEST_SAT_ESSAY_ANALYSIS",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 34
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Writing1",
+        "otherPossibleNames": [],
+        "logicalName": "LATEST_SAT_ESSAY_WRITING",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 35
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Met ERW",
+        "otherPossibleNames": [],
+        "logicalName": "EBRW_CCR_BENCHMARK",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 36
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Met Math",
+        "otherPossibleNames": [],
+        "logicalName": "MATH_CCR_BENCHMARK",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 37
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Total Score National Percentile ",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATREP_SAT_TOTAL",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 38
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "EBRW Score National Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATREP_SAT_EBRW",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 39
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Math Score National Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATREP_SAT_MATH_SECTION",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 40
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Reading National Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATREP_SAT_READING",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 41
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Writing and Language National Percentile ",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATREP_SAT_WRIT_LANG",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 42
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Math National Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATREP_SAT_MATH_TEST",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 43
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Analysis in Science National Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATREP_SAT_SCI_CROSS",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 44
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Analysis in History/Social Studies National Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATREP_SAT_HIST_SOCST_CROSS",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 45
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Words in Context National Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATREP_SAT_WORDS_CONTEXT",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 46
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Command of Evidence National Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATREP_SAT_COMM_EVIDENCE",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 47
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Expression of Ideas National Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATREP_SAT_EXPR_IDEAS",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 48
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Standard English Conventions National Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATREP_SAT_ENG_CONVENT",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 49
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Heart of Algebra National Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATREP_SAT_HEART_ALGEBRA",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 50
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Problem Solving and Data Analysis National Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATREP_SAT_PROBSLV_DATA",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 51
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Passport to Advanced Mathematics National Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATREP_SAT_ADV_MATH",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 52
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Total Score User Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATUSER_SAT_TOTAL",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 53
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "EBRW Score User Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATUSER_SAT_EBRW",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 54
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Math Score User Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATUSER_SAT_MATH_SECTION",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 55
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Reading User Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATUSER_SAT_READING",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 56
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Writing and Language User Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATUSER_SAT_WRIT_LANG",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 57
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Math User Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATUSER_SAT_MATH_TEST",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 58
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Analysis in Science User Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATUSER_SAT_SCI_CROSS",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 59
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Analysis in History/Social Studies User Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATUSER_SAT_HIST_SOCST_CROSS",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 60
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Words in Context User Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATUSER_SAT_WORDS_CONTEXT",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 61
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Command of Evidence User Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATUSER_SAT_COMM_EVIDENCE",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 62
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Expression of Ideas User Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATUSER_SAT_EXPR_IDEAS",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 63
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Standard English Conventions User Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATUSER_SAT_ENG_CONVENT",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 64
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Heart of Algebra User Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATUSER_SAT_HEART_ALGEBRA",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 65
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Problem Solving and Data Analysis User Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATUSER_SAT_PROBSLV_DATA",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 66
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Passport to Advanced Mathematics User Percentile",
+        "otherPossibleNames": [],
+        "logicalName": "PERCENTILE_NATUSER_SAT_ADV_MATH",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 67
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "AP Potential",
+        "otherPossibleNames": [],
+        "logicalName": "AP_POTENTIAL",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 68
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      },
+      {
+        "physicalName": "Student Search Service Opt In",
+        "otherPossibleNames": [],
+        "logicalName": "STUDENT_SEARCH_SERVICE_OPT_IN",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 69
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": null
+      }
+    ]
+  }
+}

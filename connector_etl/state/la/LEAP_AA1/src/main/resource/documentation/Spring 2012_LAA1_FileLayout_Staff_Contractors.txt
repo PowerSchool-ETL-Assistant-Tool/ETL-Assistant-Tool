@@ -1,0 +1,27 @@
+Spring 2012_LAA1_FileLayout_Staff_Contractors
+
+LAA1
+
+
+Math--------------------------------------------LAA1_MA_OVERALL
+-Raw Score Total - Math
+-Scaled Score - Math
+-Assessment Achievement Level - Math
+-Accountability Achievement Level - Math
+
+	-Algebra and Patterns Raw Score------------LAA1_MA_AP
+	-Data Raw Score----------------------------LAA1_MA_DAT
+	-Measurement and Geometry Raw Score -------LAA1_MA_MG
+	-Numbers Raw Score-------------------------LAA1_MA_NUM
+
+
+SCIENCE---------------------------------------------------LAA1_SCI_OVERALL
+-Raw Score Total - Science
+-Scaled Score - Science
+-Assessment Achievement Level - Science
+-Accountability Achievement Level - Science
+
+	-Earth, Space, and Environmental Science Raw Score------LAA1_SCI_ESES
+	-Life Science Raw Score---------------------------------LAA1_SCI_LS
+	-Physical Science Raw Score-----------------------------LAA1_SCI_PS
+	-Science as Inquiry Raw Score---------------------------LAA1_SCI_SI

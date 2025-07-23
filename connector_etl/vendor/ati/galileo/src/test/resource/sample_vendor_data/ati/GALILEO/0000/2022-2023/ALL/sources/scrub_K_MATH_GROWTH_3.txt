@@ -1,0 +1,5 @@
+STUDENT ID	FIRST NAME	LAST NAME	MIDDLE NAME	SSN	BIRTH DATE	GENDER	GRADE LEVEL	STATE ID	SCHOOL 	CLASS/INTERVENTION GROUP 	TEACHER 	TEACHER ID	TEST 	APPROACHES DL 	MEETS DL 	EXCEEDS DL 	TEST DATE	DL SCORE	PERFORMANCE	OBSERVED GROWTH	EXPECTED GROWTH
+155393	Joshua	Butler	---	---	---	---	1	85726524	Pathfinder Academy	English Language Arts 1 - Faulkner - 1B	---	---	2022-23 AZ Grade 01 ELA Benchmark 1	533	571	645	8/16/2022	520	MP	N/A	N/A
+150932	Areli	Allred	---	---	10/24/2015	---	1	85181369	Sequoia Pathfinder Academy (Verrado Way and I-10) ELEM	English Language Arts 1 - Bliss - 1B	Stephany Bliss	Bliss	2022-23 AZ Grade 01 ELA Benchmark 1	533	571	645	8/25/2022	533	PP	N/A	N/A
+149664	Brian	Gregory	---	---	3/31/2015	---	1	67588762	Pathfinder Academy	English Language Arts 1 - Powell - 1C	---	---	2022-23 AZ Grade 01 ELA Benchmark 1	533	571	645	8/16/2022	629	P	N/A	N/A
+150620	John	Paul	---	---	3/28/2016	---	1	68538659	Caurus Academy K-5	English Language Arts 1 - White - 1B	Megan White	Megan	2022-23 AZ Grade 01 ELA Benchmark 1	533	571	645	8/16/2022	508	MP	N/A	N/A

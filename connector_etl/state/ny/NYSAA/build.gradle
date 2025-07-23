@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'state.ny.NYSAA'
+mavenVersion = '1.0.4' + getWorkingBranch()

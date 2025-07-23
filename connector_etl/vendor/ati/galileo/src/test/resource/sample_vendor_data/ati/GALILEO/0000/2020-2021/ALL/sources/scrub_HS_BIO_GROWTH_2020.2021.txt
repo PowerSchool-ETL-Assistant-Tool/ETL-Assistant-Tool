@@ -1,0 +1,5 @@
+STUDENT ID	FIRST NAME	LAST NAME	MIDDLE NAME	SSN	BIRTH DATE	GENDER	GRADE LEVEL	STATE ID	SCHOOL 	CLASS 	TEACHER 	TEACHER ID	TEST 	DL SCORE	OBSERVED GROWTH	EXPECTED GROWTH
+13976	Joshua	Gregory	---	---	---	---	1	31839538	Pathfinder Academy	English Language Arts 1 - Stapleton - 1B	Deidre Stapleton	7715	2020-21 ATI AzM2 ELA 01 Gr. CBAS #1 TR Only	518	N/A	N/A
+13977	Areli	Butler Larios	---	---	1/1/1949	---	1	15657934	Sequoia Charter Elementary School	SEI - Rdg-Eng Conv-Vocab - Wheat - 1C	Lydia Wheat	9982	2020-21 ATI AzM2 ELA 01 Gr. CBAS #1 TR Only	548	N/A	N/A
+13978	Brian	Paul	---	---	1/1/1949	---	1	59297212	Sequoia Charter Elementary School	English Language Arts 1 - Clayborne - 1A	Devanie Clayborne	Clayborne	2020-21 ATI AzM2 ELA 01 Gr. CBAS #1 TR Only	518	N/A	N/A
+13979	John	Allred	---	---	1/1/1949	---	1	14626811	Arizona Conservatory for Arts and Academics Elementary	English Language Arts 1 - Sexton - 1B	Kathryn Sexton	Kathryn	2020-21 ATI AzM2 ELA 01 Gr. CBAS #1 TR Only	432	N/A	N/A

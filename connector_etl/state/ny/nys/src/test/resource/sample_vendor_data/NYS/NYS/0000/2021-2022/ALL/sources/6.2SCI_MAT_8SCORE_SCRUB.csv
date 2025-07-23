@@ -1,0 +1,6 @@
+Building ID,Building Name,Student ID,Student Name,DOB,Gender,Ethnicity,ELL,Special Ed,School Year,Assessment Name,Testing Period Start Date,Scale Score,Raw Score,Not Tested,Performance Level
+100,Bonsai Elementary School,13999,"Gregory, Joshua",06/08/2014,M,Hispanic or Latino,Not ELL Eligible,Regular Ed,2020,Grade 8 Math,04/26/2022,588,15,,Level 1
+130,Cherry Elementary School,13362,"Barras, Nabila",03/20/2013,F,White,Not ELL Eligible,Special Ed,2020,Grade 4 Sci: Scale,05/24/2022,74,,Level 3
+120,Google Magnolia Elementary School,14294,"Perrow, Kamari",03/07/2010,M,White,Not ELL Eligible,Regular Ed,2022,Grade 8 Math,04/26/2022,,,96,Refusal
+130,Google Cherry Elementary School,14232,"Tafoya, Cynthia",01/22/2016,F,White,Not ELL Eligible,Special Ed,2022,Grade 4 Sci: Scale,05/24/2022,,93,Medically excused
+140,Google Dogwood Elementary School,13555,"Thornhill, Canaan",04/08/2008,M,White,Not ELL Eligible,Regular Ed,2022,Grade 8 Sci: Scale,05/24/2022,81,,Level 3

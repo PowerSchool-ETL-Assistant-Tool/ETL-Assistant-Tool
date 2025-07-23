@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'state.ms.MS_MAAP'
+mavenVersion = '1.1.3' + getWorkingBranch()

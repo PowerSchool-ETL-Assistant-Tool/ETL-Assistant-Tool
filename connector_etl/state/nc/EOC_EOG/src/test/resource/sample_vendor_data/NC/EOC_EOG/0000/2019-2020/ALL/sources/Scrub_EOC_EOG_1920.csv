@@ -1,0 +1,7 @@
+student_id,School_id,School_Name,test_date,grade_level,test_code,test_type,perf_level,scale_score
+10707,200,MS Maple Middle School,20200301,10,NCEXTEND 1 Grade 11,X1,3,22
+10709,200,MS Maple Middle School,20200101,10,Biology End of Course,RG,2,236
+10717,200,MS Maple Middle School,20200101,10,English II End of Course,RG,2,534
+10719,200,MS Maple Middle School,20200101,10,NC Math 3 End of Course,RG,2,538
+10720,200,MS Maple Middle School,20200101,10,Math I End of Course,RG,2,535
+10721,200,MS Maple Middle School,20200301,10,4th Grade Math,RG,3,547

@@ -1,0 +1,7 @@
+SchoolYear,AssessmentWindow,LocalStudentID,StudentStateID,SchoolName,SchoolNumber,SchoolNumberStateID,StudentLastName,StudentFirstName,BirthDate,Grade,AssessmentDate,SignficantReadingDeficiency,CompositeScore,AssessmentName
+2022_2023,Mid-Year,13999,13999,Bonsai Elementary School,100,100,Gregory,Joshua,06/08/2014,02,01/11/2023,False,52,PALS
+2022_2023,Spring,13987,13987,Bonsai Elementary School,100,100,Butler,Nelson,12/12/2007,02,05/03/2023,True,55,PALS
+2020_2021,Fall,13515,13515,Bonsai Elementary School,100,100,Paul,Brian,04/05/2012,04,09/16/2020,False,78,PALS
+2023_2024,Fall,13976,13976,Bonsai Elementary School,100,100,Allred,John,10/12/2014,02,08/25/2023,True,285,DIBELS
+2023_2024,Fall,13753,13753,Bonsai Elementary School,100,100,Avent,Riley,03/04/2013,03,08/25/2023,False,348,DIBELS
+2023_2024,Fall,12455,12455,Bonsai Elementary School,100,100,Gruber,Maxwell,7/22/2007,07,08/29/2023,True,318,DIBELS

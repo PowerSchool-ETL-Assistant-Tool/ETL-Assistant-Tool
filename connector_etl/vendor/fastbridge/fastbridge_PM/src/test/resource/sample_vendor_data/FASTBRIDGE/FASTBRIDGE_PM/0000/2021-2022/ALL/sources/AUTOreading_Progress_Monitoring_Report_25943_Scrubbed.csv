@@ -1,0 +1,4 @@
+Assessment,State,District,School,Student Id,Student State Id,Fast ID,First Name,Last Name,Gender,BirthDate,Race,SpecialEdStatus,Grade,AssessmentDate,ScoreMetric,Score,Start Goal,End Goal
+Auto Reading - Decoding,AZ,SIS Gold Google,Google Redwood High School,10050,10050,4020282,Jairo,Cellum,Male,,,,03,08/30/2021,IC per minute,11.67,0.0,9.0
+Auto Reading - Decoding,AZ,SIS Gold Google,Google Redwood High School,10051,10051,4020282,JingLing,Cerritos,Female,,,,03,08/30/2021,Items Correct,21.0,0.0,9.0
+Auto Reading - Decoding,AZ,SIS Gold Google,Google Redwood High School,10052,10052,4020282,DeAngelo,Chatmon,Male,,,,03,08/30/2021,Total Items,30.0,0.0,9.0

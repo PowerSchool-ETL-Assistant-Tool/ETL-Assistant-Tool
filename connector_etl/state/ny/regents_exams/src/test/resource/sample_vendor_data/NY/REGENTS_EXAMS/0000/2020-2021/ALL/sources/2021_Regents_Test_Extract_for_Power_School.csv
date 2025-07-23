@@ -1,0 +1,3 @@
+Student_Number,SchoolName,LastFirst,Grade_Level,Course_Name,Course_Number,Teacher_Name,Grade,Percent,Credit_Type,ExcludeFromClassRank,ExcludeFromGPA,ExcludeFromHonorRoll,StoreCode,TermID
+10066,Google Redwood High School,"Creasser, Erick",10,Regents Common Core Algebra I - Aug,02052CC,"Staff, Staff",E,,EXAM,1,1,1,R8,2900
+10067,Google Redwood High School,"Crowder, Andrew",9,ALGEBRA 1,0337,"Verdi, Laurie",62,62,EXAM,1,1,1,R6,2900

@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'state.tx.TELPAS'
+mavenVersion = '1.6.2' + getWorkingBranch()

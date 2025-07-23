@@ -1,0 +1,4 @@
+SchoolID,School,Student ID,Grade,Gender,SPED,Ethnicity,Race,ELL,Last Name,First Name,BASIC MATH,BASIC MATH Percentile,PROF MATH,PROF MATH Percentile,Risk
+100,Bonsai Elementary School,14301,4,M,N,Not Hispanic/Latino,5,N,Aust,Zachary,,,27,42,Low
+100,Bonsai Elementary School,14176,4,F,N,Not Hispanic/Latino,5,N,Rodriguez,Katharina,,,29,55,Low
+100,Bonsai Elementary School,13485,4,M,N,Not Hispanic/Latino,5,N,Hart,Duncan,,,29,55,Low

@@ -1,0 +1,101 @@
+TestID,SchID,TchName,Period,StudentID,Fname,Lname,PercCorr,AchLev,AchLevExt,SuggNMark,SuggLMark
+ncrea32022ccomtr01cumb,300,Joycelyn Reilly,1,10026,Rebecca,Bauch,63.33,3,3+,79,C
+ncrea32022ccomtr01cumb,300,Joycelyn Reilly,1,10061,Juan,Conner,56.67,3,3 - ,72,C
+ncrea32022ccomtr01cumb,300,Joycelyn Reilly,1,10148,Steven,Jones,26.67,2,2 -,52,F
+ncrea32022ccomtr01cumb,300,Joycelyn Reilly,1,10050,Jairo,Cellum,26.67,2,2 -,52,F
+ncrea32022ccomtr01cumb,300,Joycelyn Reilly,1,10023,Camden,Barone,70.00,4,4 -,82,B
+ncrea32022ccomtr01cumb,300,Joycelyn Reilly,1,10069,Jennifer,Dahl,36.67,2,2 -,59,F
+ncrea32022ccomtr01cumb,300,Joycelyn Reilly,1,10113,Daniel,Gomez,60.00,3,3,76,C
+ncrea32022ccomtr01cumb,300,Joycelyn Reilly,1,10230,Ana,Ortega,50.00,2,2+,67,D
+ncrea32022ccomtr01cumb,300,Joycelyn Reilly,1,10171,Zekia,LeGrange,30.00,2,2 -,54,F
+ncrea32022ccomtr01cumb,300,Joycelyn Reilly,1,10020,Amanda,Banerjee,20.00,2,2 -,52,F
+ncrea32022ccomtr01cumb,300,Joycelyn Reilly,1,10087,Roxana,Douglas,50.00,2,2+,67,D
+ncrea32022ccomtr01cumb,300,Joycelyn Reilly,1,10170,Kathryn,Legrande,80.00,4,4+,87,B
+ncrea32022ccomtr01cumb,300,Joycelyn Reilly,1,10162,Hannah,Khan,53.33,2,2+,69,D
+ncrea32022ccomtr01cumb,300,Joycelyn Reilly,1,10096,Nichole,Ferguson,80.00,4,4+,87,B
+ncrea32022ccomtr01cumb,300,Lori Watkins,1,10142,Sarrah,Janousek,53.33,2,2+,69,D
+ncrea32022ccomtr01cumb,300,Lori Watkins,1,10140,Yasmeen,Jamoussi,26.67,2,2 -,52,F
+ncrea32022ccomtr01cumb,300,Lori Watkins,1,10049,Justin,Carr,23.33,2,2 -,52,F
+ncrea32022ccomtr01cumb,300,Miss Georgiana Moore,1,10138,Christian,Huynh,53.33,2,2+,69,D
+ncrea32022ccomtr01cumb,300,Miss Georgiana Moore,1,10030,Jordan,Benson,53.33,2,2+,69,D
+ncrea32022ccomtr01cumb,300,Miss Georgiana Moore,1,10221,Briana,Nieto,36.67,2,2 -,59,F
+ncrea32022ccomtr01cumb,300,Miss Georgiana Moore,1,10182,Charisse,Maroulis,50.00,2,2+,67,D
+ncrea32022ccomtr01cumb,300,Miss Georgiana Moore,1,10105,Kendall,Garcia,23.33,2,2 -,52,F
+ncrea32022ccomtr01cumb,300,Miss Georgiana Moore,1,10235,Jason,Pascoe,16.67,2,2 -,51,F
+ncrea32022ccomtr01cumb,300,Miss Georgiana Moore,1,10187,Sierra,Matamoras,60.00,3,3,76,C
+ncrea32022ccomtr01cumb,300,Miss Georgiana Moore,1,10163,Alexus,Khan,40.00,2,2,61,D
+ncrea32022ccomtr01cumb,300,Miss Georgiana Moore,1,10150,Nelson,Juarez,30.00,2,2 -,54,F
+ncrea32022ccomtr01cumb,300,Miss Georgiana Moore,1,10206,Ryan,Moore,76.67,4,4,86,B
+ncrea32022ccomtr01cumb,300,Miss Georgiana Moore,1,10227,Yesenia,Ocampo,60.00,3,3,76,C
+ncrea32022ccomtr01cumb,300,Miss Georgiana Moore,1,10072,Randal,Dejay,40.00,2,2,61,D
+ncrea32022ccomtr01cumb,300,Miss Georgiana Moore,1,10207,DeAunja,Moreno,43.33,2,2,62,D
+ncrea32022ccomtr01cumb,2181455,Miss Georgiana Moore,1,20190021,student1,google student1,46.67,2,2,65,D
+ncrea32022ccomtr01cumb,300,Miss Georgiana Moore,1,10201,Peter,Mitchell,60.00,3,3,76,C
+ncrea32022ccomtr01cumb,300,Miss Georgiana Moore,1,10111,Madison,Gipson,60.00,3,3,76,C
+ncrea32022ccomtr01cumb,300,Mrs. Sarah Dawson,1,10229,Kaylie,Onyenwe,93.33,5,5,97,A
+ncrea32022ccomtr01cumb,300,Mrs. Sarah Dawson,1,10126,Jonathan,Harris,16.67,2,2 -,51,F
+ncrea32022ccomtr01cumb,300,Mrs. Sarah Dawson,1,10047,Brandon,Camacho,46.67,2,2,65,D
+ncrea32022ccomtr01cumb,300,Mrs. Sarah Dawson,1,20190018,Student,Tes YET,56.67,3,3 - ,72,C
+ncrea32022ccomtr01cumb,300,Mrs. Sarah Dawson,1,10218,Erin,Nielsen,60.00,3,3,76,C
+ncrea32022ccomtr01cumb,300,Mrs. Sarah Dawson,1,10220,Charise,Nieto,40.00,2,2,61,D
+ncrea32022ccomtr01cumb,300,Mrs. Sarah Dawson,1,10062,Sarah,Cotton,40.00,2,2,61,D
+ncrea32022ccomtr01cumb,300,Mrs. Sarah Dawson,1,10109,Abimbola,Garza,73.33,4,4,84,B
+ncrea32022ccomtr01cumb,300,Mrs. Sarah Dawson,1,10078,Richard,Desai,70.00,4,4 -,82,B
+ncrea32022ccomtr01cumb,300,Mrs. Sarah Dawson,1,10226,Sam,Nylander,36.67,2,2 -,59,F
+ncrea32022ccomtr01cumb,300,Mrs. Sarah Dawson,1,10129,Raisa,Herrera,33.33,2,2 -,56,F
+ncrea32022ccomtr01cumb,300,Mrs. Sarah Dawson,1,10168,Chad,Larson,40.00,2,2,61,D
+ncrea32022ccomtr01cumb,300,Mrs. Sarah Dawson,1,10060,Kyle,Collier,70.00,4,4 -,82,B
+ncrea32022ccomtr01cumb,300,Mrs. Sarah Dawson,1,10181,Jordyn,Manalo,56.67,3,3 - ,72,C
+ncrea32022ccomtr01cumb,300,Mrs. Sarah Dawson,1,10189,Savannah,Mathews,60.00,3,3,76,C
+ncrea32022ccomtr01cumb,300,Mrs. Sarah Dawson,1,10059,Kemya,Coline,83.33,5,5 - ,90,A
+ncrea32022ccomtr01cumb,300,Olivia Norris,1,10217,Marissa,Nick,26.67,2,2 -,52,F
+ncrea32022ccomtr01cumb,300,Olivia Norris,1,10151,Jose,Juarez,36.67,2,2 -,59,F
+ncrea32022ccomtr01cumb,300,Olivia Norris,1,10052,DeAngelo,Chatmon,30.00,2,2 -,54,F
+ncrea32022ccomtr01cumb,300,Olivia Norris,1,10015,Michael,Attridge,73.33,4,4,84,B
+ncrea32022ccomtr01cumb,300,Olivia Norris,1,10099,Raina,Flynn,60.00,3,3,76,C
+ncrea32022ccomtr01cumb,300,Olivia Norris,1,10192,Mohammad,McDonald,46.67,2,2,65,D
+ncrea32022ccomtr01cumb,300,Olivia Norris,1,10172,Timothy,Liaw,56.67,3,3 - ,72,C
+ncrea32022ccomtr01cumb,300,Olivia Norris,1,10200,Noe,Miller,63.33,3,3+,79,C
+ncrea32022ccomtr01cumb,300,Olivia Norris,1,10209,Shayna,Murphy,23.33,2,2 -,52,F
+ncrea32022ccomtr01cumb,300,Olivia Norris,1,20190000,Donte,Longway,56.67,3,3 - ,72,C
+ncrea32022ccomtr01cumb,300,Olivia Norris,1,10183,Alexander,Martin,70.00,4,4 -,82,B
+ncrea32022ccomtr01cumb,300,Olivia Norris,1,10094,Eric,Evans,36.67,2,2 -,59,F
+ncrea32022ccomtr01cumb,300,Olivia Norris,1,10058,Sarah,Cleckley,40.00,2,2,61,D
+ncrea32022ccomtr01cumb,300,Olivia Norris,1,10198,Aris,Meyer,70.00,4,4 -,82,B
+ncrea32022ccomtr01cumb,300,Olivia Norris,1,10208,Keenan,Mukherjee,83.33,5,5 - ,90,A
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,1,10236,Blake,Paynter,20.00,2,2 -,52,F
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,1,10184,Cherre,Martinez,30.00,2,2 -,54,F
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,1,10097,Yash,Fisseler,76.67,4,4,86,B
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,1,10086,Hira,Dooley,23.33,2,2 -,52,F
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,1,10070,Nick,Danger,66.67,4,4 -,81,B
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,1,10178,Matthew,Madsen,30.00,2,2 -,54,F
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,1,10219,Jeffrey,Nielsen,56.67,3,3 - ,72,C
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,1,10149,Diego,Jordet,56.67,3,3 - ,72,C
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,1,10100,John,Fredericks,80.00,4,4+,87,B
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,1,10104,Chase,Garcia,53.33,2,2+,69,D
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,1,10228,Mahek,Ontiveros,33.33,2,2 -,56,F
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,1,10098,Osiris,Flores Morales,66.67,4,4 -,81,B
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,1,10037,Audrey,Bowles,33.33,2,2 -,56,F
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,1,10143,Heather,Jeppson,16.67,2,2 -,51,F
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,1,10068,Kristin,Cuney,50.00,2,2+,67,D
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,1,10074,Adam,Demie,23.33,2,2 -,52,F
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,1,10139,Natnael,Jalbert,53.33,2,2+,69,D
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,1,10007,Abra,Alvarez,70.00,4,4 -,82,B
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,1,10120,Benito,Guzman,20.00,2,2 -,52,F
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,1,10110,Larry,Gessel,60.00,3,3,76,C
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,1,10169,Greta,Lawrence,66.67,4,4 -,81,B
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,1,10112,Matthew,Goff,33.33,2,2 -,56,F
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,2,10021,Jocelyne,Banks,33.33,2,2 -,56,F
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,2,10048,Alexis,Campbell,40.00,2,2,61,D
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,2,10114,Erika,Gonzalez,26.67,2,2 -,52,F
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,2,10237,Mia,Perez,40.00,2,2,61,D
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,2,10179,Kristophe,Magee,43.33,2,2,62,D
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,2,10137,Gabriela,Hui,76.67,4,4,86,B
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,2,10153,Jerica,Kay,56.67,3,3 - ,72,C
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,2,10053,Nathan,Chen,23.33,2,2 -,52,F
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,2,10022,Brady,Barksdale,80.00,4,4+,87,B
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,2,10128,Garrison,Hennemann,50.00,2,2+,67,D
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,2,10095,Andrew,Faus,36.67,2,2 -,59,F
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,2,10121,Kellie,Hagen,63.33,3,3+,79,C
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,2,10191,Dusty,McBride,56.67,3,3 - ,72,C
+ncrea32022ccomtr01cumb,300,Kristine Fidanza,2,10152,Lindsay,Kadrie,43.33,2,2,62,D

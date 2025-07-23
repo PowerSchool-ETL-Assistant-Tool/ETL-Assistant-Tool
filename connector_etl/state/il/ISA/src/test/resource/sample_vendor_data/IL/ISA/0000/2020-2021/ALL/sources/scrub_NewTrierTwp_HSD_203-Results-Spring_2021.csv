@@ -1,0 +1,5 @@
+RCDTS,School,StudentId,FirstName,MiddleName,LastName,Gender,Race,DateOfBirth,Grade,IEP,FRL,EL,Migrant,Homeless,ScaleScore,PerformanceBand,RFNVTA
+RCDTS:050162030170001,Redwood High School,10001,Hannah,BD,Aabram,F,White,06/11/2005,9,N,N,N,N,N,660,Exemplary,
+RCDTS:050162030170001,Redwood High School,10002,Sherin,CC,Ajala,F,White,11/13/2005,10,Y,N,N,N,N,553,Emerging,
+RCDTS:050162030170001,Redwood High School,10003,Joe,DC,Akinsanya,M,White,03/21/2005,11,N,N,N,N,N,622,Proficient,
+RCDTS:050162030170001,Redwood High School,10004,Ellen,CB,Alba,F,White,01/30/2005,12,Y,N,N,N,N,593,Developing,

@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'vendor.college_board.ap'
+mavenVersion = '3.8.1' + getWorkingBranch()

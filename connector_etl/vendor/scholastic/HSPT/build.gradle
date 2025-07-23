@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'vendor.scholastic.HSPT'
+mavenVersion = '1.1.2' + getWorkingBranch()

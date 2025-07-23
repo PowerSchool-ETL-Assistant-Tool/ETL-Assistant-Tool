@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'state.ca.pft'
+mavenVersion = '2.6.5' + getWorkingBranch()

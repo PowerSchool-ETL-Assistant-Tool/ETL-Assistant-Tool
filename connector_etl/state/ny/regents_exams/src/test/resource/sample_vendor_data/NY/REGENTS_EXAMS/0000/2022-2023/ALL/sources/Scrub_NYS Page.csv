@@ -1,0 +1,4 @@
+Student_Number,Name,School,MeasureCode,TestDescription,ItemDescription,DateOfAdministration,Alpha,Num,StandardAchievedCategory,StandardMet,TestModificationID,LanguageCode,created_on,created_by
+14358,"Sakrismo,Blair",Bonsai Elementary School,08340,Regents,Regents Common Core ELA - Aug,2023-08-16,,33,Regents,31,,ENG,2023-11-09,import
+14358,"Sakrismo,Blair",Bonsai Elementary School,08306,Regents,Regents Common Core Algebra II - Aug,2023-08-16,,74,Regents,33,,ENG,2023-11-09,import
+14358,"Sakrismo,Blair",Bonsai Elementary School,08208,Regents,Regents NF Global History - Aug,2023-08-16,,68,Regents,33,,ENG,2023-11-09,import

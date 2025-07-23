@@ -1,0 +1,13 @@
+Last_Name,First_Name,Student_Number,SchoolID,Grade_Level,AlphaScore,Tested Grade Level,Test_Date,Test Name,Score Name,Year
+Dinh,Elizabeth,10081,2118,,427,3,9/1/2017,BOG 3rd Grade Reading,BOG_3rd_Grade_Reading_Scale,2017-2018
+Dinh,Elizabeth,10081,2118,,I,3,9/1/2017,BOG 3rd Grade Reading,BOG_3rd_Grade_Reading_Achieve_Lev,2017-2018
+Dinh,Elizabeth,10081,2118,,32,3,9/1/2017,BOG 3rd Grade Reading,BOG_3rd_Grade_Reading_Percentile,2017-2018
+Diwanji,Michea,10082,2118,,NA,0,5/1/2018,3rd Grade Math,3rd_Grade_Math_Percentile,2017-2018
+Diwanji,Michea,10082,2118,,NA,0,5/1/2018,3rd Grade Math,3rd_Grade_Math_Achievement_Level,2017-2018
+Diwanji,Michea,10082,2118,,NA,0,5/1/2018,3rd Grade Math,3rd_Grade_Math_Development_Scale,2017-2018
+Doina,Destiny,10083,2118,,,810,5/1/2018,8th Grade Reading,8th_Grade_Read_Pass_Fail,2017-2018
+Doina,Destiny,10083,2118,,,810,5/1/2018,8th Grade Reading,8th_Grade_Read_Percentile,2017-2018
+Doina,Destiny,10083,2118,,H,810,5/1/2018,8th Grade Reading,8th_Grade_Read_Achievement_Level,2017-2018
+Doll,Sydney,10084,2118,,35,5,5/1/2018,5th Grade Science,5th_Grade_Science_Percentile,2017-2018
+Doll,Sydney,10084,2118,,II,5,5/1/2018,5th Grade Science,5th_Grade_Science_Achievement_Level,2017-2018
+Doll,Sydney,10084,2118,,247,5,5/1/2018,5th Grade Science,5th_Grade_Science_Scale,2017-2018

@@ -1,0 +1,104 @@
+Spring 2013 LEAP_3-8_FileLayout_Assessment_Accountability
+
+ILEAP
+
+
+ELA ------------------------------------------LEAP_3-8_ELA_OVERALL
+-Raw Score Total - ELA
+-Scaled Score - ELA
+-Standard Error of Measurement of ELA
+-Upper bound scaled score - ELA
+-Lower bound scaled score - ELA
+-Assessment Achievement Level - ELA
+-Total Score for Writing
+-Non-Score Code for Writing
+-ELA Test Form
+
+	-Standard 1: Read, comprehend, and respond---------------------LEAP_3-8_ELA_S1RCR
+	-Standard 2: Write competently --------------------------------LEAP_3-8_ELA_S2WTCOMP
+	-Standard 3: Use conventions of language-----------------------LEAP_3-8_ELA_S3UCLANG
+	-Standard 4: Not assessed--------------------------------------LEAP_3-8_ELA_S4NA
+	-Standard 5: Locate, select, and synthesize information--------LEAP_3-8_ELA_S5LSSI
+	-Standard 6: Read, analyze, and respond to literature----------LEAP_3-8_ELA_S6RARL
+	-Standard 7: Apply reasoning and problem solving skills--------LEAP_3-8_ELA_S7ARPSS
+
+
+	-Dimension 1: Composing-------------------------LEAP_3-8_ELA_DIM1C
+	-Dimension 2: Style/audience awareness----------LEAP_3-8_ELA_DIM2SAA
+	
+	-Spelling RAW SCORE ---------------------------LEAP_3-8_ELA_SPEL
+	-Capitalization -------------------------------LEAP_3-8_ELA_CAP
+	-Punctuation-----------------------------------LEAP_3-8_ELA_PUNC
+	-Usage and Expression--------------------------LEAP_3-8_ELA_USEEXP
+	
+	-Reading Subscore -----------------------------LEAP_3-8_ELA_RDSUB
+	-Raw score
+	-Scaled Score
+	-Assessment Achievement Level
+
+	-Multiple-Choice Items--------------------------LEAP_3-8_ELA_MCI
+	-Constructed-Response Items --------------------LEAP_3-8_ELA_CRI
+
+
+
+
+Math -----------------------------------------------LEAP_3-8_MA_OVERALL
+-Raw Score Total - Math
+-Scaled Score - Math
+-Standard Error of Measurement of Math
+-Upper bound scaled score - Math
+-Lower bound scaled score - Math
+-Assessment Achievement Level - Math
+-Math Test Form
+
+	>Reporting Category: 
+	-Fractions ---------------------------------------------------LEAP_3-8_MA_REPCATFRAC
+	-Measurement, Data, and Geometry----------LEAP_3-8_MA_REPCATMDG
+	-Multiplication and Division -------------LEAP_3-8_MA_REPCATMD
+	-Number-----------------------------------LEAP_3-8_MA_REPCATNUM
+	-Number and Operations--------------------LEAP_3-8_MA_REPCATNOP
+	-Number System----------------------------LEAP_3-8_MA_REPCATNUMSYS
+	-Ratio, Proportion, and Algebra ----------LEAP_3-8_MA_REPCATRPA
+
+	-Subtest 1: Multiple-Choice Items----------------LEAP_3-8_MA_SUB1MCI
+	-Subtest 2: Constructed-Response Items-----------LEAP_3-8_MA_SUB2CRI
+
+
+
+
+SCIENCE -------------------------------------------LEAP_3-8_SCI_OVERALL
+-Raw Score Total - Science
+-Scaled Score - Science
+-Standard Error of Measurement of Science
+-Upper bound scaled score - Science
+-Lower bound scaled score - Science
+-Assessment Achievement Level - Science
+-Science Test Form
+
+	-Standard 1: Science as Inquiry-----------------LEAP_3-8_SCI_S1SI
+	-Standard 2: Physical Science-------------------LEAP_3-8_SCI_S2PS
+	-Standard 3: Life Science-----------------------LEAP_3-8_SCI_S3LS
+	-Standard 4: Earth and Space Science------------LEAP_3-8_SCI_S4ESS
+	-Standard 5: Science and the Environment--------LEAP_3-8_SCI_S5SE
+
+	-Subtest 1: Multiple-Choice Items---------------LEAP_3-8_SCI_SUB1MCI
+
+
+
+
+SOCIAL STUDIES -------------------------------------LEAP_3-8_SS_OVERALL
+-Raw Score Total - Social Studies
+-Scaled Score - Social Studies
+-Standard Error of Measurement of Social Studies
+-Upper bound scaled score - Social Studies
+-Lower bound scaled score - Social Studies
+-Assessment Achievement Level - Social Studies
+-Social Studies Test Form
+
+	-Standard 1: Geography ------------------------LEAP_3-8_SS_S1G
+	-Standard 2: Civics----------------------------LEAP_3-8_SS_S2C
+	-Standard 3: Economics-------------------------LEAP_3-8_SS_S3E
+	-Standard 4: History---------------------------LEAP_3-8_SS_S4H
+
+	-Subtest 1: Multiple-Choice Items---------------LEAP_3-8_SS_SUB1MCI
+

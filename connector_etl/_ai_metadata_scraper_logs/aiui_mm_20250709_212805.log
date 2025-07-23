@@ -1,0 +1,104 @@
+2025-07-09 15:58:05,431 - INFO - Starting Assessment Metadata Manager
+...with reduced in-memory file storage and streaming results to temp file and streaming to merge file
+[32m****************************************************************************************************
+*     Single Mode Connector Name is: state.id.isat
+****************************************************************************************************[0m
+
+2025-07-09 15:58:05,467 - INFO - Log cleanup message:
+Logfile Cleanup:
+...Delete Rules: filename of form aiui_mm*.log AND older than 7 days old BUT always keep at least 5 logs
+...about to delete 1 file(s)
+...deleting file: aiui_mm_20250620_022442.log...file deleted
+
+2025-07-09 15:58:05,467 - INFO - Starting ConfigService Validation()
+2025-07-09 15:58:05,494 - INFO - Finished ConfigService validation with status: valid 
+Config Details:
+.....Missing/Unused AppConfig variable list has 6 missing variable(s)
+..........exportMetadataScriptDirectorySnowflake  String        Optional    - full path where app will drop Snowflake version of metadata in merge sql scripts
+..........exportMetadataScriptDirectoryDbAgnostic String        Optional    - full path where app will drop Db Agnostic version of metadata in merge sql scripts that contain templates
+..........ignoreInvalidSignatureConnectorNameList           Array<String>   Optional    - feature flag: bypass Signature validation failures for specific connectors.  flag will give team chance to fix broken things as time and process permits
+..........ignoreInvalidTestMetaConnectorNameList            Array<String>   Optional    - feature flag: bypass Test Meta validation failures for specific connectors.  flag will give team chance to fix broken things as time and process permits
+..........ignoreInvalidBenchmarkConnectorNameList           Array<String>   Optional    - feature flag: bypass Benchmark validation failures for specific connectors.  flag will give team chance to fix broken things as time and process permits
+..........isShowValidConnectorDetailsInLog                  Boolean         Optional    - used to show detailed validation information in log...validateAllConnectors...not in pipeline 
+.....***** force-setting isOnlyValidateAssessmentEtl to True because isSingleConnectorValidationMode is True *****
+.....isOnlyValidateAssessmentEtl: true
+
+AppConfig Variable validation:
+.....Assessment_ETL/connector_etl directory is: C:/Users/Mohammed.Junaid/ETL/Assessment_ETL/connector_etl
+.....Successfully verified Assessment_ETL connector directories (base, state, vendor)
+.....Verifying (initially optional) country directory looking for country-named subfolders - country/canada/ccrce is the first one
+..........found the top level 'country' folder
+..........found country folder named: canada
+..........found country folder named: international
+..........found country folder named: rome
+..........found country folder named: uae
+.....IgnoredConnectorNameList has 0 items.  If configured, Delete Processing will be allowed to run
+.....isExportSignatureToCsv: false
+.....isExportSignatureToMsExcel: false
+.....not checking exportSignatureCsvDirectory since isExportSignatureToCsv set to false
+.....not checking exportSignatureMsExcelDirectory since isExportSignatureToMsExcel set to false
+.....logfileDirectory: C:/Users/Mohammed.Junaid/ETL/Assessment_ETL/connector_etl/_ai_metadata_scraper_logs
+.....LogLevel: info
+.....SchoolYear wildcard value: *
+.....forceCurrentSchoolYearPlusOne: false
+.....SchoolYear used for wildcard: 2025-2026
+.....allowSchoolYearWriteBack: false
+.....isFailAppOnInvalidSignature: true
+.....ignoredSigPhysicalNameList: 8 patterns
+........StartsWith compare: Filler*
+..............LIKE compare: *do not use*
+..............LIKE compare: *not in use*
+.............EQUAL compare: Blank
+..........EndsWith compare: *Filler
+..........skipping invalid compare value in ignoredSigPhysicalNameList: **
+..........found ignore-by-connector-name tag: connector_name_list:vendor.example.connectorname;state.wy.WYTOPP
+.............ignore-by-connector-name: vendor.example.connectorname
+.............ignore-by-connector-name: state.wy.WYTOPP
+..........found ignore-by-sigfile-name tag: sigfile_name_list:example_sigfilename.sig;WYTOPP_STUDENT_170COL.sig
+.............ignore-by-sigfile-name: example_sigfilename.sig
+.............ignore-by-sigfile-name: WYTOPP_STUDENT_170COL.sig
+.....isFailAppOnNoTestMetaFileFound: false
+.....isFailAppOnNoBenchmarkMetaFileFound: false
+.....feature flag ignoreInvalidSignatureConnectorNameList is empty as it should be.  Well done!
+.....feature flag ignoreInvalidTestMetaConnectorNameList is empty as it should be.  Well done!
+.....feature flag ignoreInvalidBenchmarkConnectorNameList is empty as it should be.  Well done!
+.....isShowValidConnectorDetailsInLog: false
+.....skipping validating all config not directly related to Assessment_ETL project validation
+..........this means that no data will be saved to master database and that no SQL meta scripts or the signature zip file will be exported
+..........this mode is ONLY used to help Assessment_ETL developers validate their work.  :)
+Valid app config - finished application config validation
+
+2025-07-09 15:58:09,965 - INFO - Found 348 connectors (config.js) files from the Assessment_ETL project
+
+2025-07-09 15:58:10,264 - INFO - Beginning connector validation
+2025-07-09 15:58:24,520 - INFO - ...50 connectors validated
+2025-07-09 15:58:30,463 - INFO - ...100 connectors validated
+2025-07-09 15:58:38,503 - INFO - ...150 connectors validated
+2025-07-09 15:58:43,339 - INFO - ...200 connectors validated
+2025-07-09 15:58:53,617 - INFO - ...250 connectors validated
+2025-07-09 15:59:00,054 - INFO - ...300 connectors validated
+2025-07-09 15:59:06,021 - INFO - ...348 connectors validated in 00:00:55.55740
+2025-07-09 15:59:06,023 - INFO - Successfully completed validation on all 348 assessment connectors.  64 are Broken!!!
+2025-07-09 15:59:06,033 - INFO - [32mConnector List:   ( filtered: to only display [33mstate.id.isat[32m details by SingleConnectorValidationMode config )
+[0m[34m==================================================
+= state.id.ISAT connector  -  LogTag
+==================================================
+[0m          C:\Users\Mohammed.Junaid\ETL\Assessment_ETL\connector_etl\state\id\ISAT\src\main\resource\etc\config.js
+          - All Signature files are valid  -  LogTag
+          - All Test Metadata is valid  -  LogTag
+          - Benchmark Metadata file is empty (Not an Error)  -  LogTag
+
+[32m****************************************************************************************************
+*     Finished ValidateConnector: state.id.ISAT
+*
+*          Success!  No errors with this connector
+*
+*          Please verify connector name was removed from Assessment_ETL/gitlab-ci.yml file
+*
+*     highlight 'LogTag', hit CTRL-F, Enter to loop thru details
+****************************************************************************************************
+[0m
+2025-07-09 15:59:06,034 - ERROR - Broken Connector List has 64 broken connector(s).  Please read log from top to find specific error(s).
+2025-07-09 15:59:06,035 - INFO - ..... skipping error, single-connector-validation-mode enabled and connector passed testing
+2025-07-09 15:59:06,035 - INFO - Exiting app after Assessment_ETL validation by AppConfig
+2025-07-09 15:59:06,037 - INFO - Successfully finished Assessment Metadata Manager work in 00:01:01.1154

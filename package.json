@@ -1,0 +1,28 @@
+{
+  "name": "etl-signature-matcher",
+  "version": "1.0.0",
+  "description": "ETL Signature Matcher - Automatically matches CSV headers with signature files",
+  "main": "signature-matcher.js",
+  "scripts": {
+    "start": "node signature-matcher.js",
+    "test": "node test-matcher.js",
+    "generate-catalog": "node generate-catalog.js"
+  },
+  "keywords": [
+    "etl",
+    "signature",
+    "matching",
+    "csv",
+    "data-mapping"
+  ],
+  "author": "ETL Assistant Tool",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csv-parser": "^3.2.0",
+    "express": "^5.1.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

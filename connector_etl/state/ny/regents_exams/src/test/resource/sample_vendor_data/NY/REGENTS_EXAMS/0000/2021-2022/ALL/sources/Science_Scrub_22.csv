@@ -1,0 +1,5 @@
+STUDENT_ID,STUDENT_ID_ALT,STUDENT_NAME,CURR_GRADE_LVL,STUDENT_GENDER,ETHNIC_DESC_DETAIL,LEP_ELIGIBIL_CODE,FORMER_LEP,FORMER_SWD,POVERTY_CODE,MIGRANT,CHALLENGE_TYPE,HOMELESS,FOSTER_CARE,PARENT_ARMED_FORCES,TEST_DATE,ITEM_NAME,NUMERIC_SCORE,STANDARD_ACHIEVED,EXEMPT_EXAM,EXEMPT_DATE
+13999,8603032454,"Gregory, Joshua",9,Male,Hispanic or Latino,N/A,,,N/A,,,,,,06/01/2022,Regents Phy Set/Earth Sci,56,Level 2,,
+13987,6231380602,"Butler, Nelson",9,Male,Black or African American,N/A,,,198,,,,,,06/01/2022,Regents Phy Set/Earth Sci,39,Level 1,,
+13515,3726650811,"Paul, Brian",9,Male,Black or African American,N/A,,,198,,Other Health Impairment,,,,06/01/2022,Regents Phy Set/Earth Sci,74,Level 3,,
+13976,2851057672,"Allred, John",9,Male,Black or African American,N/A,,,N/A,,,,,,06/01/2022,Regents Phy Set/Earth Sci,85,Level 4,,

@@ -1,0 +1,2 @@
+Version: 1.3.2
+Application-name: vendor.fastbridge.CBM-Math

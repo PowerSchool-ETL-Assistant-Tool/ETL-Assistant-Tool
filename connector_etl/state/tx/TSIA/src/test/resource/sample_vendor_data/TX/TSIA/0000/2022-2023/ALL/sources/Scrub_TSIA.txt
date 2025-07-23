@@ -1,0 +1,4 @@
+StudentLocalID,Student Texas Unique ID,Test Start,Last Name,First Name,Middle Initial,Student ID,Birth Date,Site ID,Inst ID,Site Name,Grade Level,TSIA2 English Language Arts and Reading College and Career Readiness,TSIA2 English Language Arts and Reading Diagnostic,Text Analysis and Synthesis,Content Revision and Editing for Conventions,TSIA2 WritePlacer,TSIA2 Mathematics College and Career Readiness,TSIA2 Mathematics Diagnostic,Quantitative Reasoning,Algebraic Reasoning,Geometric and Spatial Reasoning,Probabilistic and Statistical Reasoning,No Data,County District Campus Number
+13999,13999,02/21/2019,Gregory,Joshua,BB,13999,01/21/2000,011630-002,100,Bonsai Elementary School,12,343,,,,3,310,4,,,,,,8080
+13987,13987,03/28/2019,Butler,Nelson,Corinne,13987,08-09-1999,011630-007,100,Bonsai Elementary School,12,326,5,,,3,325,4,,,,,,8080
+13515,13515,10/25/2018,Paul,Brian,CC,13515,08/15/1998,011630-009,100,Bonsai Elementary School,12,940,5,,,6,951,6,,,,,,8080

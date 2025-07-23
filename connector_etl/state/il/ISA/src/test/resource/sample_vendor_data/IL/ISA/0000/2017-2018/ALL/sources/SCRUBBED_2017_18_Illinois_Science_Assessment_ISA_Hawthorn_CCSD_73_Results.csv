@@ -1,0 +1,4 @@
+RCDTS,School,StudentId,FirstName,MiddleName,LastName,Gender,Race,DateOfBirth,Grade,IEP,FRL,EL,Migrant,Homeless,ScaleScore,PerformanceBand,RFNVTA
+RCDTS:340490730042007,Google Redwood High School,10040,Alazie,AD,Brophy,F,Hispanic,6/15/2007,5,N,Y,Y,N,N,247,Not Proficient,
+RCDTS:340490730042007,Google Redwood High School,10041,Ana,BA,Brown,M,White,4/9/2007,5,N,N,N,N,N,274,Not Proficient,
+RCDTS:340490730042007,Google Redwood High School,10042,Jed,DC,Brush,F,White,4/9/2007,5,N,N,N,N,N,282,Not Proficient,

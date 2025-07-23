@@ -1,0 +1,7 @@
+schoolyear,compositeschoolid,institution_name,ssid,subjectarea,score,performancelevel,Gender,EverLowIncome,EverSpecialEd,Race
+2019,12210523161,Google New School,13363,Literacy,106,3,F,1,0,W
+2019,12210523161,Google New School,13364,Literacy,85,2,M,0,0,H
+2019,12210523161,Google New School,13365,Literacy,65,1,F,1,0,H
+2019,12210523161,Google New School,13366,Numeracy,55,3,M,1,0,W
+2019,12210523161,Google New School,13367,Numeracy,34,2,F,1,0,W
+2019,12210523161,Google New School,13368,Numeracy,27,1,F,1,0,H

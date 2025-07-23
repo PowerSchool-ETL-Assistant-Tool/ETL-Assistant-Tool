@@ -1,0 +1,5 @@
+School,Teacher,Student,Student_ID,TestDate,SEL_StudentAge,GP,SS,SEL_SubDomain_AP_AlphabeticPrinciple,SEL_SubDomain_CW_ConceptOfWord,SEL_SubDomain_VS_VisualDiscrimination,SEL_SubDomain_PA_PhonemicAwareness,SEL_SubDomain_PH_Phonics,SEL_SubDomain_SA_StructuralAnalysis,SEL_SubDomain_VO_Vocabulary,SEL_SubDomain_SC_SentenceLevelComprehension,SEL_SubDomain_PC_ParagraphLevelComprehension,SEL_SubDomain_EN_EarlyNumeracy,SEL_LiteracyClassification
+School: Google Redwood High School,"Teacher: Whitworth, Jamie","Hernandez, Quincy",15233,9/8/2020,4.63,-0.98,510,61,63,73,37,35,26,38,29,28,58,Late Emergent Reader
+School: Google Redwood High School,"Teacher: James, Mandy","Montemayor, Ali",15234,9/8/2020,4.81,-0.98,479,56,57,67,32,29,22,33,24,24,52,Early Emergent Reader
+School: Google Redwood High School,"Teacher: Whitworth, Jamie","Rodriguez, Tyra",15235,9/8/2020,4.94,-0.98,432,45,46,57,24,21,15,25,16,18,42,Early Emergent Reader
+School: Google Redwood High School,"Teacher: Wilfawn, Angie","Keen, Myah",15236,9/9/2020,4.82,-0.98,677,84,85,90,64,63,55,65,58,53,82,Transitional Reader

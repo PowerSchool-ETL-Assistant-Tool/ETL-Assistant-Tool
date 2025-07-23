@@ -1,0 +1,8 @@
+STUDENT ID	FIRST NAME	LAST NAME	MIDDLE NAME	SSN	BIRTH DATE	GENDER	GRADE LEVEL	STATE ID	SCHOOL 	CLASS/INTERVENTION GROUP 	TEACHER 	TEACHER ID	TEST 	APPROACHES DL 	MEETS DL 	EXCEEDS DL 	TEST DATE	DL SCORE	SUM SCORE	INCOMPLETE	PERCENTILE RANK	PERCENT CORRECT	PERFORMANCE	OBSERVED GROWTH	EXPECTED GROWTH
+159317	Brian	Paul	---	---	---	---	K	61798297	Bonsai Elementary School	Math Grade K - Abramson - 10	Avent Maxwell	92	2023-24 AZ Math-00 Benchmark #1 KG Flipbook	458	509	567	8/9/2023	567	25		88	75.8	HP	N/A	N/A
+155207	John	Allred	---	---	---	---	K	36477733	Bonsai Elementary School	Math Grade K - Abramson - 10	Avent Maxwell	92	2023-24 AZ Math-00 Benchmark #1 KG Flipbook	458	509	567	8/9/2023	567	25		88	75.8	HP	N/A	N/A
+159551	Riley	Avent	---	---	---	---	K	57154545	Bonsai Elementary School	AM Attendance Grade K - Divins - 10	Avent Maxwell	Deborah	2023-24 AZ Math-00 Benchmark #1 KG Flipbook	458	509	567	8/14/2023	579	26		91	78.8	HP	N/A	N/A
+159183	Maxwell	Gruber	---	---	---	---	K	31847696	Bonsai Elementary School	AM Attendance Grade K - Divins - 10	Avent Maxwell	Deborah	2023-24 AZ Math-00 Benchmark #1 KG Flipbook	458	509	567	8/14/2023	567	25		88	75.8	HP	N/A	N/A
+159667	Abhilash	Holik	---	---	---	---	K	38692419	Bonsai Elementary School	Math Grade K - Abramson - 10	Avent Maxwell	92	2023-24 AZ Math-00 Benchmark #1 KG Flipbook	458	509	567	8/9/2023	458	15		35	45.5	PP	N/A	N/A
+159037	Joshua	Hansen	---	---	---	---	K	21859173	Bonsai Elementary School	Math Grade K - Gooslin - 10	Avent Maxwell	Gooslin	2023-24 AZ Math-00 Benchmark #1 KG Flipbook	458	509	567	8/11/2023	499	19		55	57.6	PP	N/A	N/A
+ 

@@ -1,0 +1,109 @@
+ITBS Vocabulary(SS) ITED Test V (SS)
+ITBS Vocabulary (Index) ITED Test V (Index)
+ITBS Vocabulary(NPR) ITED Test V (NPR)
+ITBS Vocabulary(Sta9) ITED Test V (NPR)
+
+ITBS Reading Comprehension (SS)
+ITBS Reading Comprehension (Index)
+ITBS Reading Comprehension (NPR)
+ITBS Reading Comprehension (Sta9)
+
+ITBS and ITED Reading Total (SS)
+ITBS and ITED Reading Total (Index)
+ITBS and ITED Reading Total (NPR)
+ITBS and ITED Reading Total (Sta9)
+
+ITBS Spelling (SS)
+Spelling (Index)
+Spelling (NPR)
+Spelling (Sta9)
+
+ITBS Capitalization (SS)
+Capitalization (Index)
+Capitalization (Sta9)
+Capitalization (NPR)
+
+ITBS Punctuation (SS)
+Punctuation (Index)
+Punctuation (NPR)
+Punctuation (Sta9)
+
+ITBS Usage and Expression (SS)
+Usage and Expression (Index)
+Usage and Expression (Sta9)
+Usage and Expression (NPR)
+
+ITBS LanguageTotal (SS)
+Language Total (Index)
+Language Total (Sta9)
+Language Total (NPR)
+
+ITBS Int Writing Adv Skills (SS) ITED Expression Adv Skills (SS)
+ITBS Int Writing Adv Skills (Index)ITED Express Adv Skills (Index)
+ITBS Int Writing Adv Skills (NPR))ITED Express Adv Skills (NPR))
+ITBS Int Writing Adv Skills (Sta9) ITED Express Adv Skills (Sta9)
+
+ITBS Int Writing Totals (SS) ITED Test E (SS)
+ITBS Int Writing Totals (Index) ITED Test E (Index)
+ITBS Int Writing Totals (NPR)) ITED Test E (NPR))
+ITBS Int Writing Totals (Sta9) ITED Test E (Sta9)
+
+ITBS Math Concepts & Est (SS)
+ITBS Math Concpts & Est (Index)
+ITBS Math Concpts & Est (NPR)
+ITBS Math Concpts & Est (Sta9)
+
+ITBS Math Probs/Data Interp (SS)ITED Quant Thinking Skills (SS)
+ITBS Math Probs/Data Int (Index) ITED Quant Think Skills (Index)
+ITBS Math Probs/Data Int (NPR) ITED Quant Think Skills (NPR)
+ITBS Math Probs/Data Int (Sta9) ITED Quant Think Skills (Sta9)
+
+ITBS Math Total (SS) ITED Test Q (SS)
+ITBS Math Total (Index) ITED Test Q (Index)
+ITBS Math Total (NPR) ITED Test Q (NPR)
+ITBS Math Total (Sta9) ITED Test Q (Sta9)
+
+ITBS and ITED Core Battery (SS)
+ITBS and ITED Core Battery (Index)
+ITBS and ITED Core Battery (NPR)
+ITBS and ITED Core Battery (Sta9)
+
+ITBS Social Studies (SS) ITED Test SS (SS)
+ITBS Social Studies (Index) ITED Test SS (Index)
+ITBS Social Studies (NPR) ITED Test SS (NPR)
+ITBS Social Studies (Sta9) ITED Test SS (Sta9)
+
+ITBS Science (SS) ITED Test SC (SS)
+ITBS Science (SS) ITED Test SC (SS)
+ITBS Science (NPR) ITED Test SC (NPR)
+ITBS Science (Sta9) ITED Test SC (Sta9)
+
+ITBS Maps and Diagrams (SS)
+ITBS Maps and Diagrams (Index)
+ITBS Maps and Diagrams (NPR)
+ITBS Maps and Diagrams (Sta9)
+
+ITBS Reference Materials (SS)
+ITBS Reference Materials (Index)
+ITBS Reference Materials (NPR)
+ITBS Reference Materials (Sta9)
+
+ITBS and ITED Sources of Info Total (SS)
+ITBS and ITED Sources of Info Total (Index)
+ITBS and ITED Sources of Info Total (NPR)
+ITBS and ITED Sources of Info Total (Sta9)
+
+ITBS and ITED Composite (SS)
+ITBS and ITED Composite (Index)
+ITBS and ITED Composite (NPR)
+ITBS and ITED Composite (Sta9)
+
+ITBS Math Computation (SS)
+ITBS Math Computation (Index)
+ITBS Math Computation (NPR)
+ITBS Math Computation (Sta9)
+
+ITED Test L (SS)
+ITED Test L (Index)
+ITED Test L (NPR)
+ITED Test L (Sta9)

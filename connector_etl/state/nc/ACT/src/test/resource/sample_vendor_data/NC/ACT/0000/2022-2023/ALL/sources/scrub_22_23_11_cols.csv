@@ -1,0 +1,4 @@
+school_code,student_id,last_name,first_name,middle_name,grade,english_score,math_score,reading_score,science_score,composite_score
+100,13489,Frkovich,Joshua,BC,04,16,16,24,20,19
+100,13762,Dunn,Miles,AB,03,11,14,19,18,16
+100,13761,Mogensen,Peter,BB,03,27,33,23,28,28

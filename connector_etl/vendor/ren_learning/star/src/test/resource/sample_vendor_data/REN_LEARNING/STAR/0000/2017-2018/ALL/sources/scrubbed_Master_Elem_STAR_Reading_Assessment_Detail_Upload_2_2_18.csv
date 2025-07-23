@@ -1,0 +1,4 @@
+StudentId,StudentGUID,FirstName,MiddleName,LastName,BirthDate,ExportGrade,Gender,Ethnicity,Characteristics,StateStudentID,SchoolName,TeacherFirstName,TeacherMiddleName,TeacherLastName,CourseName,ClassName,DateTaken,AssessmentGrade,GP,SS,GE,PR,NCE,IRL,LowerZPD,UpperZPD
+13357,818d8028-9101-4eb0-9508-0b12a7e694fd,Braeden,BB,Mack,02/05/2011,6,M,White,##,13357,MS Dogwood Elementary School,Sanford,,Watanabe,Reading,"Watanabe, Sanford - 5",1/25/2018 14:43,6,6.48,67,0.5,1,1,-1,0.5,1.5
+13358,8c00518d-9fd7-43ee-8593-27d2a23821fb,Isabell,CD,Lee,09/29/2011,5,M,White,##,13358,MS Dogwood Elementary School,Erin,N,Pace,Homeroom Grade 5,"Pace, Erin - 2",1/26/2018 11:19,5,5.48,361,3.3,9,21.8,3.1,2.7,3.8
+13359,fad9b8e8-200c-4818-90d8-4c6437c79940,Christian,BA,Pierce,06/11/2011,6,M,Black,##,13359,MS Dogwood Elementary School,Michele,,Jangula,Homeroom Grade 6,"Jangula, Michele - 3",08/01/2018 13:29,6,6.42,879,7.4,65,58.1,6.7,4.4,7.4

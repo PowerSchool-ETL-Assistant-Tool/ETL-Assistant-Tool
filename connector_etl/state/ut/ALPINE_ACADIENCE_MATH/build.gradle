@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'state.ut.ALPINE_ACADIENCE_MATH'
+mavenVersion = '1.0.2' + getWorkingBranch()

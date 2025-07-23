@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'vendor.literacy_squared.LITERACY_SQUARED'
+mavenVersion = '1.0.1' + getWorkingBranch()

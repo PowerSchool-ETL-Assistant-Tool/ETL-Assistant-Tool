@@ -1,0 +1,77 @@
+Ignore Item Responses
+
+
+Label buckets in file 1-30, ex RAW_SCORE_01
+Translate buckets to TEST_NUMBERs based on their Appendix A Key, so RAW_SCORE_01 belongs to ITBS_M1 in the year 2000 and ITBS_LT in 2005
+
+2000
+	NUMBER:"01","KEY":"RV","VALUE":"Vocabulary"
+	
+2005
+	"01":"RV" --Vocabulary
+
+IOWA 
+    ITBS
+        Slots 1-30, translations in appendix A          see above - based on Key
+            -Raw Score
+            -Standard Score (scale score?)
+            -National Percentile Rank (percentile score)
+            -NCE (NCE score)
+            -National Stanine (stanine score)
+        SAT Predictions
+            Verbal                                      ITBS_SAT_VERB
+                -High
+                -Low
+            Math                                        ITBS_SAT_MATH
+                -High
+                -Low
+        ACT Predictions                                 ITBS_ACT
+            -High
+            -Low
+        Index Scores -- Scale scores
+            Reading                                     ITBS_INDEX_RD
+                -score
+            Language                                    ITBS_INDEX_LANG
+                -score
+            Math                                        ITBS_INDEX_MATH
+                -score
+            Social Studies                              ITBS_INDEX_SS
+                -score
+            Science                                     ITBS_INDEX_SCI
+                -score
+            Sources                                     ITBS_INDEX_SRC
+                -score
+            Composite                                   ITBS_INDEX_COMP
+                -score
+    ITED
+        Slots 1-30, translations in appendix A          see top
+            -Raw Score
+            -Standard Score (scale score?)
+            -National Percentile Rank (percentile score)
+            -NCE (NCE score)
+            -National Stanine (stanine score)
+        SAT Predictions
+            Verbal                                      ITED_SAT_VERB
+                -High
+                -Low
+            Math                                        ITED_SAT_MATH
+                -High
+                -Low
+        ACT Predictions                                 ITED_ACT
+            -High
+            -Low
+        Index Scores
+            Reading                                     ITED_INDEX_RD
+                -score
+            Language                                    ITED_INDEX_LANG
+                -score
+            Math                                        ITED_INDEX_MATH
+                -score
+            Social Studies                              ITED_INDEX_SS
+                -score
+            Science                                     ITED_INDEX_SCI
+                -score
+            Sources                                     ITED_INDEX_SRC
+                -score
+            Composite                                   ITED_INDEX_COMP
+                -score

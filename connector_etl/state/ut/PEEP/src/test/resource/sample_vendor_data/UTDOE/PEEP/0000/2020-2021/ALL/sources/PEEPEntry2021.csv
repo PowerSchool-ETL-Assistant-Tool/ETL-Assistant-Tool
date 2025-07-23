@@ -1,0 +1,5 @@
+ssid,schoolyear,subjectarea,score,maximumpoints,performancelevel,institution_name,race,everlowincome,everspecialed,everenglishlearner,gender
+10006,2021,Numeracy,7,32,1,Google Maple Middle School,W,1,0,0,M
+10007,2021,Numeracy,29,32,2,Google Maple Middle School,W,0,1,0,M
+10008,2021,Literacy,5,31,1,Google Maple Middle School,H,0,0,0,F
+10009,2021,Literacy,23,31,2,Google Maple Middle School,W,1,0,0,F

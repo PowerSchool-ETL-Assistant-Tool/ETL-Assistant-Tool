@@ -1,0 +1,3 @@
+StudentLocalID,Student Texas Unique ID,Reporting Year ID,Last Name,First Name,Middle Initial,ACT ID,Administration Date,Expanded Test Date,Test Location,School Org Number,School Name,County District Campus Number,Gender,DOB,Grade Level Tested,ACT English score,ACT math score,ACT reading score,ACT science score,ACT composite score
+10003,2552645232,19,Akinsanya,Joe,DC,-56533227,0219,201902,,300,Redwood High School,178904001,F,090700,12,12,17,12,15,14
+10004,3469564752,19,Alba,Ellen,CB,-54949735,1018,201810,,300,Redwood High School,178904008,F,032901,12,20,16,21,18,19

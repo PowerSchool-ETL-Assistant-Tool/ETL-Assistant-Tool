@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'vendor.instructure.GAP_BENCHMARK'
+mavenVersion = '1.5.8' + getWorkingBranch()

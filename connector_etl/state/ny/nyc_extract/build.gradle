@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'state.ny.nyc_extract'
+mavenVersion = '1.1.4' + getWorkingBranch()

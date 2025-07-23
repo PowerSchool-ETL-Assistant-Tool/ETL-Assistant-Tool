@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'vendor.drc.las_links'
+mavenVersion = '1.8.1' + getWorkingBranch()

@@ -1,0 +1,6 @@
+student_id,School_id,School_Name,test_date,english,math,reading,science,writing,composite
+14193,130,MS Cherry Elementary School,20220301,20,18,21,19,11,20
+14046,130,MS Cherry Elementary School,20220301,11,14,17,17,12,15
+13839,130,MS Cherry Elementary School,20220301,08,15,14,06,13,11
+14195,130,MS Cherry Elementary School,20220301,25,23,24,30,14,26
+13857,130,MS Cherry Elementary School,20220301,07,12,08,13,15,10

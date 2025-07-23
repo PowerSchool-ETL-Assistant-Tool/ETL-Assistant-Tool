@@ -1,0 +1,9 @@
+Student ID,Student Name,Home School,Testing School,Grade,Birth Date,Content Area (E=ELA/L or M=Mathematics),Test Taken/To Be Taken,Test Format Taken/To Be Taken ,Overall Scale Score (Range 650 - 850),Performance Level,Reading Scale Score (Range 10-90) OR Mathematics Subclaim: Major Content,Reading Subclaim: Literary Text* OR Mathematics Subclaim: Expressing Mathematical Reasoning,Reading Subclaim: Informational Text* OR Mathematics Subclaim: Modeling & Application,Reading Subclaim: Vocabulary* OR Mathematics Subclaim: Additional & Supporting Content,Writing Scale Score (Range 10-60),Writing Subclaim: Writing Expression*,Writing Subclaim: Knowledge and Use of Language Conventions*,Number of Test Items Attempted,Total Number of Test Items,Reason for No Valid Test Attempt*,Report Suppression Action*,Student Growth Percentile,Error Code*
+13230,"Lawrence, Ollie",100,100,3,05/31/2011,M,MAT03,O,719,2,3,1,2,3,,,,42,42,,,NA,
+13230,"Lawrence, Ollie",100,100,3,05/31/2011,E,ELA03,O,729,3,47,3,3,1,25,3,1,19,19,,,NA,
+13478,"Sanchez,Serena",100,100,5,06/25/2007,M,MAT05,O,713,2,3,3,3,2,,,,40,40,,,57,
+13478,"Sanchez, Serena",100,100,5,06/25/2007,E,ELA05,O,728,3,42,1,3,3,29,3,3,25,25,,,59,
+13978,"Palmer, Bhrennan",100,100,6,05/23/2014,M,MAT06,O,700,2,3,3,3,3,,,,38,38,,,14,
+13978,"Palmer, Bhrennan",100,100,6,05/23/2014,E,ELA06,O,726,3,45,2,2,2,10,3,3,25,25,,,22,
+13528,"Desocio, Ziare",100,100,3,04/27/2007,M,MAT03,,n/a,n/a,,,,,,,,0,0,10,,,
+13528,"Desocio, Ziare",100,100,3,04/27/2007,E,ELA03,,n/a,n/a,,,,,,,,0,0,10,,,

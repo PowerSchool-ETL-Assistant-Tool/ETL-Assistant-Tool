@@ -1,0 +1,4 @@
+Assessment,State,District,School,Student Id,Student State Id,Fast ID,First Name,Last Name,Gender,BirthDate,Race,SpecialEdStatus,Grade,AssessmentDate,ScoreMetric,Score,Start Goal,End Goal,Goal Start Date,Goal End Date,Assessment Level
+COMP_EFFICIENCY,MN,Apple Grove Unified Schools,Bonsai Elementary School,v13999,v13999,4409299,Joshua,Gregory,Male,07/22/2016,White,,02,11/13/2023,Text and text text Accuracy,81.82,62,88,10/29/2023,05/17/2024,02
+COMP_EFFICIENCY,MN,Apple Grove Unified Schools,Bonsai Elementary School,v13987,v13987,4160693,Nelson,Butler,Male,05-10-2016,White,,02,11-02-2023,CompEff Sentences RPM,2.7350428,65,88,10/29/2023,05/17/2024,02
+COMP_EFFICIENCY,MN,Apple Grove Unified Schools,Bonsai Elementary School,v13515,v13515,4160736,Brian,Paul,Male,07/23/2015,White,,02,11-01-2023,Text text IC Per Minute,5.4545455,103,100,10/29/2023,05/17/2024,02

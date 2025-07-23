@@ -1,0 +1,4 @@
+SchoolYear,AssessmentName,ContentArea,DistrictCode,SchoolCode,SchoolName,ID,StudentName,Grade,LearningLocation,Gender,RaceEDEN,SPEDCode,ELL,GapGroup,EligibleCount,ParticipateCount,AchievementLevel,ScaleScore,ExclusionReason
+2024,SBAC,ELA,421,100,Bonsai Elementary School,14169,"Andrew,Norris",3,In-Person,M,5,0,N,N,1,1,4,2517,
+2024,SBAC,ELA,421,100,Bonsai Elementary School,14005,"Anne,Langston",3,In-Person,F,2,0,N,Y,1,1,2,2425,
+2024,SBAC,ELA,421,100,Bonsai Elementary School,13202,"Camera,Bootz",3,In-Person,M,5,0,N,N,1,1,2,2376,

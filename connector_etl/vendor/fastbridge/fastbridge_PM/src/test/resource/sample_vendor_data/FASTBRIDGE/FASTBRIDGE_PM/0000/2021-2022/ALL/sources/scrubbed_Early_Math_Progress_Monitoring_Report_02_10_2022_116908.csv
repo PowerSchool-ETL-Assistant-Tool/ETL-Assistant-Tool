@@ -1,0 +1,12 @@
+Assessment,State,District,School,Student Id,Student State Id,Fast ID,First Name,Last Name,Gender,BirthDate,Race,SpecialEdStatus,Grade,AssessmentDate,ScoreMetric,Score,Start Goal,End Goal,Goal Start Date,Goal End Date,Assessment Level
+"EMATH-ident-KG""",AZ,SIS Gold MS,MS Dogwood Elementary School,13128,97832423,4758227,Brian,Jorgensen,,11/10/2010,,,KG,11/22/2021,Total Items,25.0,17.189999,21.0,11/14/2021,12/17/2021,N/A
+EMATH-ident-KG,AZ,SIS Gold MS,MS Dogwood Elementary School,13128,97832423,4758227,Brian,Jorgensen,,11/10/2010,,,KG,12/07/2021,IC per minute,15.0,20.189999,44.0,12/05/2021,05/16/2022,N/A
+EMATH-ident-KG,AZ,SIS Gold MS,MS Dogwood Elementary School,13128,97832423,4758227,Brian,Jorgensen,,11/10/2010,,,KG,11/22/2021,Items Correct,13.0,17.189999,21.0,11/14/2021,12/17/2021,N/A
+EMATH-ident-KG,AZ,SIS Gold MS,MS Dogwood Elementary School,13128,97832423,4758227,Brian,Jorgensen,,11/10/2010,,,KG,12/07/2021,Total Accuracy,63.0,20.189999,44.0,12/05/2021,05/16/2022,N/A
+EMATH-ident-KG,AZ,SIS Gold MS,MS Dogwood Elementary School,13128,97832423,4758227,Brian,Jorgensen,,11/10/2010,,,KG,12/07/2021,Total Items,24.0,20.189999,44.0,12/05/2021,05/16/2022,N/A
+EMATH-matchq,AZ,SIS Gold MS,MS Dogwood Elementary School,13129,92355932,4758226,Charles,Villanueva,,09/19/2010,,,KG,11/22/2021,IC per minute,14.0,18.0,19.0,11/21/2021,12/17/2021,N/A
+EMATH-numseq-KG,AZ,SIS Gold MS,MS Dogwood Elementary School,13129,92355932,4758226,Charles,Villanueva,,09/19/2010,,,KG,11/22/2021,IC per minute,1.67,14.0,15.0,11/21/2021,12/17/2021,N/A
+EMATH-numseq-KG,AZ,SIS Gold MS,MS Dogwood Elementary School,13129,92355932,4758226,Charles,Villanueva,,09/19/2010,,,KG,11/22/2021,Items Correct,7.0,14.0,15.0,11/21/2021,12/17/2021,N/A
+EMATH-numseq-KG,AZ,SIS Gold MS,MS Dogwood Elementary School,13129,92355932,4758226,Charles,Villanueva,,09/19/2010,,,KG,11/22/2021,Total Items,13.0,14.0,15.0,11/21/2021,12/17/2021,N/A
+EMATH-matchq,AZ,SIS Gold MS,MS Dogwood Elementary School,13129,92355932,4758226,Charles,Villanueva,,09/19/2010,,,KG,11/22/2021,Total Items,14.0,18.0,19.0,11/21/2021,12/17/2021,N/A
+EMATH-matchq,AZ,SIS Gold MS,MS Dogwood Elementary School,13129,92355932,4758226,Charles,Villanueva,,09/19/2010,,,KG,12/06/2021,IC per minute,8.0,18.0,19.0,11/21/2021,12/17/2021,N/A

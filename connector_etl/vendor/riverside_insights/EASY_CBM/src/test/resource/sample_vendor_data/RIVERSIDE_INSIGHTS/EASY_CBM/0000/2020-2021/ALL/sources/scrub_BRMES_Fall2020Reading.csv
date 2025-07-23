@@ -1,0 +1,4 @@
+SchoolID,School,Student ID,Grade,Gender,SPED,Ethnicity,Race,ELL,Last Name,First Name,LN,LN Percentile,LS,LS Percentile,PS,PS Percentile,Risk
+100,Bonsai Elementary School,12823,2,M,N,Not Hispanic/Latino,5,N,Snarr,Soraya,19,47,0,25,,,Some
+100,Bonsai Elementary School,12940,2,F,N,Not Hispanic/Latino,5,N,Gonzales,Rian,24,55,6,55,,,Low
+100,Bonsai Elementary School,13491,2,F,N,Not Hispanic/Latino,5,N,Hicks,Yvette,38,83,14,77,,,Low

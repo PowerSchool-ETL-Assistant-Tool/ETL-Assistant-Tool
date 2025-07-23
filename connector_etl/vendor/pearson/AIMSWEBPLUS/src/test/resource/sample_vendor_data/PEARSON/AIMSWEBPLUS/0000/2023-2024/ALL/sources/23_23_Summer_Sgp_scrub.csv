@@ -1,0 +1,3 @@
+Districtuid,DistrictName,Schooluid,SchoolName,Teacheruid,TeacherName,Studentuid,StudentName,Grade,Period,Type,IsBatteryScore,RelatedForm,MeasureName,FormCode,Score,VerticalScore,AdministrationDate,StudentGrade,FallWinSgp,WinSprSgp,FallSprSgp,FallSumSgp,WinSumSgp,SprSumSgp,Natl,RiskStatus,Accuracy
+8080,Apple Grove Unified Schools,100,Bonsai Elementary School,,,13999,Joshua Gregory,8,Spring,BM,false,ORF,Oral Reading Fluency,DRF_ORF0803,160,NA,2024-03-26 00:00:00.000,8,,,,,,,48,,98
+8080,Apple Grove Unified Schools,100,Bonsai Elementary School,,,13987,Corrine Butler,4,Spring,BM,false,NCF-T,Number Comparison Fluency-Triads,AWM04NSF301,0,NA,2024-03-27 00:00:00.000,4,25,15,15,,14,3,,17

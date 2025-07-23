@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'vendor.pearson.BASC'
+mavenVersion = '1.1.4' + getWorkingBranch()

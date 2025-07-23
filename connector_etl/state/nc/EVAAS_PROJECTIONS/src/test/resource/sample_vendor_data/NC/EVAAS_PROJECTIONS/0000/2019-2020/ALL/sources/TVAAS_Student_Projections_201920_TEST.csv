@@ -1,0 +1,6 @@
+Student,Student ID,District (Tested),School (Tested),Grade (Tested),Projection,Projected State Percentile,Probability of scoring Level 3 or above
+"Gregory, Joshua BB",13999,Apple Grove Unified Schools,Bonsai Elementary School,2,EOC Algebra I (Approaching),25,14.5
+"Butler, Nelson Corinne",13987,Apple Grove Unified Schools,Bonsai Elementary School,2,EOC Algebra I (On Track),25,2
+"Paul, Brian CC",13515,Apple Grove Unified Schools,Bonsai Elementary School,4,EOC Algebra I (Mastered),25,0.1
+"Allred, John CC",13976,Apple Grove Unified Schools,Bonsai Elementary School,2,EOC English II (Approaching),22,62.8
+"Avent, Riley BB",13753,Apple Grove Unified Schools,Bonsai Elementary School,3,EOC English II (On Track),22,3.6

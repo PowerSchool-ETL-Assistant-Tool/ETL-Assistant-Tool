@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'state.az.A-F_STATIC_FILE'
+mavenVersion = '1.1.2' + getWorkingBranch()

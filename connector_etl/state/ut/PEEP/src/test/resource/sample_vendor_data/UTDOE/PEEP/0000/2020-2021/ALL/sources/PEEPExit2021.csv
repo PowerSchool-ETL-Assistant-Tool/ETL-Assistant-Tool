@@ -1,0 +1,7 @@
+ssid,schoolyear,subjectarea,score,maximumpoints,performancelevel,institution_name,race,everlowincome,everspecialed,everenglishlearner,gender
+10014,2021,Literacy,41,108,2,Google Oak Middle School,W,1,0,0,M
+10015,2021,Literacy,47,108,3,Google Oak Middle School,W,0,1,0,M
+10016,2021,Numeracy,34,36,3,Google Oak Middle School,W,0,1,0,M
+10017,2021,Numeracy,28,36,2,Google Oak Middle School,H,0,1,0,M
+10018,2021,Literacy,13,108,1,Google Oak Middle School,H,0,0,0,F
+10019,2021,Numeracy,11,36,1,Google Oak Middle School,H,0,0,0,F

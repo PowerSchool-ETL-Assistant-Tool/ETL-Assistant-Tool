@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'state.va.VAAP'
+mavenVersion = '1.2.55' + getWorkingBranch()

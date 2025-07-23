@@ -1,0 +1,103 @@
+Spring 2014 LEAP_EOC_FileLayout_Staff_Contractors
+
+LEAP_EOC
+
+
+English ------------------------------------------LEAP_EOC_ENG_OVERALL
+-Raw Score Total - ELA
+-Scaled Score - ELA
+-Assessment Achievement Level - ELA
+-Accountability Achievement Level
+
+	> RAW SCORE
+	-Standard 1: Read, comprehend, and respond / Test Session: Reading and Responding -----LEAP_EOC_ENG_S1RCRTSRR
+	-Standard 2: Write competently / Test Session: Research to Build Knowledge-------------LEAP_EOC_ENG_S2WCTSRBK
+	-Standard 3: Use conventions of language / Test Session: Writing-----------------------LEAP_EOC_ENG_S3UCLTSW
+	-Standard 4: Not assessed / Test Session: Language-------------------------------------LEAP_EOC_ENG_S4NATSL
+	-Standard 5: Locate, select, and synthesize information -------------------------------LEAP_EOC_ENG_S5LSSI
+	-Standard 6: Read, analyze, and respond to literature ---------------------------------LEAP_EOC_ENG_S6RARL
+	-Standard 7: Apply reasoning and problem-solving skills--------------------------------LEAP_EOC_ENG_S7ARPSS
+
+	-Subtest 1: Writing -------------------------------------------------------------------LEAP_EOC_ENG_SUB1WR
+	-Subtest 2: Using Information Resources -----------------------------------------------LEAP_EOC_ENG_SUB2UIR
+	-Subtest 3: Reading and Responding-----------------------------------------------------LEAP_EOC_ENG_SUB3RR
+	-Subtest 4: Proofreading --------------------------------------------------------------LEAP_EOC_ENG_SUB4PRD
+
+	-Dimension 1: Composing----------------------------------------------------------------LEAP_EOC_ENG_DIM1COMP
+	-Dimension 2: Style/audience awareness---------------LEAP_EOC_ENG_DIM2SAA
+	-Dimension 3: Sentence formation---------------------LEAP_EOC_ENG_DIM3SENTFORM
+	-Dimension 4: Usage----------------------------------LEAP_EOC_ENG_DIM4USG
+	-Dimension 5: Mechanics------------------------------LEAP_EOC_ENG_DIM5MECH
+	-Dimension 6: Spelling-------------------------------LEAP_EOC_ENG_DIM6SPEL
+
+	-Multiple-Choice Items--------------------------LEAP_EOC_ENG__MCI
+	-Constructed-Response Items --------------------LEAP_EOC_ENG_CRI
+
+
+
+
+Math -----------------------------------------------LEAP_EOC_MA_OVERALL
+-Raw Score Total - Math
+-Scaled Score - Math
+-Assessment Achievement Level - Math
+-Accountability Achievement Level
+
+	> RAW SCORE
+	-Standard 1: Number and number relations / Domain: Operations and Algebraic Thinking------------------LEAP_EOC_MA_S1NNRDOMOAT
+	-Standard 2: Algebra / Domain: Number and Operations in Base Ten--------------------------------------LEAP_EOC_MA_S2ADOMNOBTEN
+	-Standard 3: Measurement / Domain: Number and Operationsâ€”Fractions------------------------------------LEAP_EOC_MA_S3MDOMNOF
+	-Standard 4: Geometry / Domain: Measurement and Data -------------------------------------------------LEAP_EOC_MA_S4GDOMMD
+	-Standard 5: Data analysis, probability, & discrete math / Domain: Geometry---------------------------LEAP_EOC_MA_S5DAPDMDOMGEOM
+	-Standard 6: Patterns, Relations, & Functions / Domain: Number System / Expressions and Equations-----LEAP_EOC_MA_S6PRFDOMNSEE
+	-Domain: Functions----------------------LEAP_EOC_DOMFUNC
+	-Domain: Statistics and Probability-----LEAP_EOC_DOMSP
+
+
+	-Subtest 1: Multiple-Choice Items----------------LEAP_EOC_MA_SUB1MCI
+	-Subtest 2: Constructed-Response Items-----------LEAP_EOC_MA_SUB2CRI
+
+
+
+
+SCIENCE -------------------------------------------LEAP_EOC_SCI_OVERALL
+-Raw Score Total - Science
+-Scaled Score - Science
+-Assessment Achievement Level - Science
+-Accountability Achievement Level
+
+	> RAW SCORE
+	-Standard 1: Science as Inquiry-----------------LEAP_EOC_SCI_S1SI
+	-Standard 2: Physical Science-------------------LEAP_EOC_SCI_S2PS
+	-Standard 3: Life Science-----------------------LEAP_EOC_SCI_S3LS
+	-Standard 4: Earth and Space Science------------LEAP_EOC_SCI_S4ESS
+	-Standard 5: Science and the Environment--------LEAP_EOC_SCI_S5SE
+
+	-Subtest 1: Multiple-Choice Items---------------LEAP_EOC_SCI_SUB1MCI
+	-Subtest 2: Short Answer Items------------------LEAP_EOC_SCI_SUB2SAI
+	-Subtest 3: Task Items--------------------------LEAP_EOC_SCI_SUB3TI
+
+	-Multiple-Choice Items--------------------------LEAP_EOC_SCI_MCI
+	-Constructed-Response Items --------------------LEAP_EOC_SCI_CRI
+
+
+
+
+SOCIAL STUDIES -------------------------------------LEAP_EOC_SS_OVERALL
+-Raw Score Total - Social Studies
+-Scaled Score - Social Studies
+-Assessment Achievement Level - Social Studies
+-Accountability Achievement Level
+
+	> RAW SCORE
+	-Standard 1: Geography ------------------------LEAP_EOC_SS_S1G
+	-Standard 2: Civics----------------------------LEAP_EOC_SS_S2C
+	-Standard 3: Economics-------------------------LEAP_EOC_SS_S3E
+	-Standard 4: History---------------------------LEAP_EOC_SS_S4H
+
+	-Subtest 1: Multiple-Choice Items---------------LEAP_EOC_SS_SUB1MCI
+	-Subtest 2: Constructed-Response Items ---------LEAP_EOC_SS_SUB2CRI
+	-Subtest 2: Task Items--------------------------LEAP_EOC_SS_SUB3TI
+
+	-Multiple-Choice Items -------------------------LEAP_EOC_SS_MCI
+	-Constructed-Response Items --------------------LEAP_EOC_SS_CRI
+

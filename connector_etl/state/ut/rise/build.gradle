@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'state.ut.rise'
+mavenVersion = '1.2.9' + getWorkingBranch()

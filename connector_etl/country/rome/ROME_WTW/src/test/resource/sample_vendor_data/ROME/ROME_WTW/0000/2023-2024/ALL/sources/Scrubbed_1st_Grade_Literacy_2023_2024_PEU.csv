@@ -1,0 +1,6 @@
+SchoolID,Current Grade Level,Test Administered Grade Level,Home_Room,First_Name,Last_Name,Student_Number,DOB,Administrated Period,Administrated Date,Assessment Level,Words Spelled Correctly,Feature Points,Total Points,Spelling Stage,Proficiency Level
+300,1,1,1S,Shayna,Murphy,10209,07/04/2004,Fall,09/23,Primary,3,21,24,Letter-Name Alphabetic (Middle),4
+300,1,1,1S,Shayna,Murphy,10209,07/04/2004,Spring,01/24,Primary,0,6,6,Letter-Name Alphabetic (Early),1
+300,1,1,1S,Leah,Nelson,10214,08/09/2004,Fall,09/23,Primary,8,34,42,Within Word Pattern (Early),4
+300,1,1,1S,Leah,Nelson,10214,08/09/2004,Spring,01/24,Primary,9,37,46,Within Word Pattern (Early),3
+300,1,1,1D,Atogatog,Atog,10147,05/15/1994,Fall,09/23,Primary,19,51,70,Within Word Pattern (Late),4

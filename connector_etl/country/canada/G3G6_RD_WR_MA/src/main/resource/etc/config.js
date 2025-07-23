@@ -1,0 +1,28 @@
+var AppAssessmentConfig = (function() {
+    return {
+        VENDOR_SCHOOL_ID_TYPE: "",
+        VENDOR_NAME: "Canada",
+        PRODUCT_NAME: "G3G6_RD_WR_MA",
+        CONNECTOR_NAME: "country.canada.G3G6_RD_WR_MA",
+        PRODUCT_LIST: [
+            {
+                UI_DISPLAY_NAME: "country canada G3G6_RD_WR_MA",
+                VENDOR_FOLDER_NAME: "country_canada_G3G6_RD_WR_MA",
+                PRODUCT_FOLDER_NAME: "G3G6_RD_WR_MA",
+                PERIODS:  ["ALL","FALL","WINTER","SPRING"],
+                SIGNATURES: [
+                    {
+                        YEARS: ["2016-2017","2017-2018","2018-2019","2019-2020","2020-2021","2021-2022","2022-2023","2023-2024","2024-2025","2025-2026","*"],
+                        SIGNATURE_FILE: "G3G6_112COLS.sig",
+                        CLIENT_CODE: ["ALL"]
+                    },
+                    {
+                        YEARS: ["2016-2017","2017-2018","2018-2019","2019-2020","2020-2021","2021-2022","2022-2023","2023-2024","2024-2025","2025-2026","*"],
+                        SIGNATURE_FILE: "G3G6_128COLS.sig",
+                        CLIENT_CODE: ["ALL"]
+                    }
+                ]
+            }
+        ]
+    }
+}());

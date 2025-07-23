@@ -1,0 +1,2 @@
+Version: 1.7.3
+Application-name: vendor.iStation.iStation

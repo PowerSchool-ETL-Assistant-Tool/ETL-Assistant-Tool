@@ -1,0 +1,5 @@
+StudentIdentifier,FirstName,LastOrSurname,SubmitDateTime,TestSessionId,SchoolName,SchoolYear,AssessmentType,AssessmentName,Subject,GradeLevelWhenAssessed,Status,ScaleScoreAchievementLevel,Reporting Category,ScaleScore,Error Band Min,Error Band Max,MigrantStatus,EnglishLanguageAcquisitionStatus,Language,HispanicOrLatinoEthnicity,AmericanIndianOrAlaskaNative,Asian,BlackOrAfricanAmerican,White,NativeHawaiianOrOtherPacificIslander,DemographicRaceTwoOrMoreRaces,Filipino,AssignedAccommodationList
+14169,Andrew,Norris,"Apr 7, 2022",,Woodland Senior High,2021-22,Summative,Grade HS CSA Summative,CSA,G11,Valid,Range 2,,957,,,No,English Learner,Spanish,Yes,,,,,,,,
+14005,Anne,Langston,"May 23, 2022",,Woodland Senior High,2021-22,Summative,Grade HS CSA Summative,CSA,G11,Valid,Range 1,,924,,,No,English Learner,Spanish,Yes,,,,,,,,
+13466,Kacie,Lane,"Apr 7, 2022",,Woodland Senior High,2021-22,Summative,Grade HS CSA Summative,CSA,G11,Valid,Range 1,,935,,,No,English Learner,Spanish,Yes,,,,,,,,
+13202,Camera,Bootz,"Apr 7, 2022",,Woodland Senior High,2021-22,Summative,Grade HS CSA Summative,CSA,G11,Valid,Range 3,,961,,,No,English Learner,Spanish,Yes,,,,,,,,

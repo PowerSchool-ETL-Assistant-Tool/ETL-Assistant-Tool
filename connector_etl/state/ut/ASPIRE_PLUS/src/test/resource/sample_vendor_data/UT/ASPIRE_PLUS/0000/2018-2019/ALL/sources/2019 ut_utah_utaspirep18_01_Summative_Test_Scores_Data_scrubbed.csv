@@ -1,0 +1,3 @@
+DistrictNumber,SchoolNumber,StatewideStudentID,CompositeEventID,TestEventID,SubjectArea,RecordTypeCode,RecordTypeLabel,RawScore,ThetaScore,ScaleScore,ProficiencyLevel,ThetaScoreCSEM,ScaleScoreCSEM
+1,300,10174,0001fcc4-338e-4035-8f2b-b7dc52e06c8b,220d6ca5-7a79-4bc7-83ba-031f24339b7d,Science,R,ILO 1,5,-1.7484,156,3,0.727,18.2
+1,300,10175,0001fcc4-338e-4035-8f2b-b7dc52e06c8b,220d6ca5-7a79-4bc7-83ba-031f24339b7d,,R,ILO 3,1,-1.5998,160,13-18,1.2293,30.7

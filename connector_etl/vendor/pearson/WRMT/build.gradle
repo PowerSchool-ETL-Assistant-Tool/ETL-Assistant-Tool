@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'vendor.pearson.WRMT'
+mavenVersion = '1.0.5' + getWorkingBranch()

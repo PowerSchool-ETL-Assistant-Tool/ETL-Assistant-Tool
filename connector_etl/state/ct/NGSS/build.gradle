@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'state.ct.NGSS'
+mavenVersion = '1.6.2' + getWorkingBranch()

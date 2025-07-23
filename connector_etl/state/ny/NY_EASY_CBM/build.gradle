@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'state.ny.NY_EASY_CBM'
+mavenVersion = '1.0.3' + getWorkingBranch()

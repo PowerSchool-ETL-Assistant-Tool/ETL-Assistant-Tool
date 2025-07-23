@@ -1,0 +1,9 @@
+RCDTS,School,StudentId,FirstName,MiddleName,LastName,Gender,Race,DateOfBirth,Grade,IEP,FRL,EL,Migrant,Homeless,ScaleScore,PerformanceBand,RFNVTA
+RCDTS:440630150041008,Bonsai Elementary School,13517,Zena,DD,Serrano,F,White,5/20/2010,5,N,N,N,N,N,594,Developing,
+RCDTS:440630150041008,Bonsai Elementary School,13798,Zachary,AA,Liu,M,White,5/20/2010,5,N,N,N,N,N,605,Proficient,
+RCDTS:440630150041008,Bonsai Elementary School,12478,Amanda,CC,Toms,F,White,7/14/2010,5,N,N,N,N,N,568,Emerging,
+RCDTS:440630150041008,Bonsai Elementary School,12270,John,CC,Dahnke,F,White,9/24/2009,5,N,N,N,N,N,638,Exemplary,
+RCDTS:440630150041006,Bonsai Elementary School,13946,Jeremiah,AB,Freeman,F,White,12/15/2006,8,N,N,N,N,N,596,Developing,
+RCDTS:440630150041006,Bonsai Elementary School,13261,Davin,Kristen,Baroody,F,White,6/23/2007,8,N,N,N,N,N,609,Proficient,
+RCDTS:440630150041006,Bonsai Elementary School,13244,Chloe',Kristen,Cruz Vega,F,White,7/10/2007,8,N,Y,N,N,N,648,Exemplary,
+RCDTS:440630150041006,Bonsai Elementary School,12992,Jared,Knox,Tomlinson,M,White,11/21/2006,8,Y,N,N,N,N,563,Emerging,

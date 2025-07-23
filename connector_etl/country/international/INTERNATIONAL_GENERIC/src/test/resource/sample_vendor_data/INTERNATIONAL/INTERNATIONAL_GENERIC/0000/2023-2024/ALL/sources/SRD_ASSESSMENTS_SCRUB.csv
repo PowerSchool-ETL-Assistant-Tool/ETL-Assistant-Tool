@@ -1,0 +1,4 @@
+SchoolYear,AssessmentWindow,LocalStudentID,StudentStateID,SchoolName,SchoolNumber,SchoolNumberStateID,StudentLastName,StudentFirstName,BirthDate,Grade,AssessmentDate,SignficantReadingDeficiency,CompositeScore,AssessmentName
+2023_2024,Fall,14462,14462,Bonsai Elementary School,100,100,Allison,Jay,11/09/2016,01,08/18/2023,TRUE,320,SRD--Dibels
+2023_2024,Mid-Year,14462,14462,Bonsai Elementary School,100,100,Allison,Jay,11/09/2016,01,,FALSE,398,SRD--Dibels
+2023_2024,Spring,14462,14462,Bonsai Elementary School,100,100,Allison,Jay,11/09/2016,01,05/07/2024,FALSE,448,SRD--Dibels

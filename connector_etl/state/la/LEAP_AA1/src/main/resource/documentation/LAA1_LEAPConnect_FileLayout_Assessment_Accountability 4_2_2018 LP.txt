@@ -1,0 +1,75 @@
+LAA1_LEAPAA1_FileLayout_Assessment_Accountability 4_2_2018 LP
+Alternate Assessment
+
+
+ELA--------------------------------------------------------LEAP_AA1_ELA_OVERALL
+-Raw Score
+-Scale Score
+-Assessment Achievement Level
+-SEM
+-Accountability Achievement Level - ELA
+
+	> Reporting Category
+	-Reading Foundation Set 1 ----------------------------- LEAP_AA1_ELA_RFS1
+		-Raw Score
+	-Reading Foundation Set 2 ----------------------------- LEAP_AA1_ELA_RFS2
+		-Raw Score
+	-Tier 1 Writing Prompt -------------------------------- LEAP_AA1_ELA_T1WP
+		-Raw Score
+
+
+
+Math - (Total/Overall)-----------------------------------LEAP_AA1_MA_OVERALL
+-Raw Score Total - Math
+-Scaled Score - Math
+-Assessment Achievement Level - Math
+-SEM
+-Accountability Achievement Level - Math
+
+SCIENCE -------------------------------------------------LEAP_AA1_SCI_OVERALL
+-Raw Score Total - Science
+-Scaled Score - Science
+-Assessment Achievement Level - Science
+-SEM
+-Accountability Achievement Level - Science
+
+	-Earth, Space, and Environmental Science ----------- LEAP_AA1_SCI_ESES
+		-Raw Score
+		-Percent Correct
+	-Life Science -------------------------------------- LEAP_AA1_SCI_LS
+		-Raw Score
+		-Percent Correct
+	-Physical Science ---------------------------------- LEAP_AA1_SCI_PS
+		-Raw Score
+		-Percent Correct
+	-Science as Inquiry -------------------------------- LEAP_AA1_SCI_SI
+		-Raw Score
+		-Percent Correct
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

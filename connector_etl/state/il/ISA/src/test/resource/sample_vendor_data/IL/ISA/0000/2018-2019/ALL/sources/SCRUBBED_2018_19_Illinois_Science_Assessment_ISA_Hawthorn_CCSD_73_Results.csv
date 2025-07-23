@@ -1,0 +1,4 @@
+RCDTS,School,StudentId,FirstName,MiddleName,LastName,Gender,Race,DateOfBirth,Grade,IEP,FRL,EL,Migrant,Homeless,ScaleScore,PerformanceBand,RFNVTA
+RCDTS:340490730042007,Google Redwood High School,10050,Jairo,CC,Cellum,F,White,2/18/2008,5,N,N,N,N,N,292,Not Proficient,
+RCDTS:340490730042007,Google Redwood High School,10051,JingLing,BD,Cerritos,F,Asian,11/8/2007,5,N,N,N,N,N,348,Proficient,
+RCDTS:340490730042007,Google Redwood High School,10052,DeAngelo,AA,Chatmon,M,TwoOrMore,7/14/2008,5,N,N,N,N,N,335,Proficient,

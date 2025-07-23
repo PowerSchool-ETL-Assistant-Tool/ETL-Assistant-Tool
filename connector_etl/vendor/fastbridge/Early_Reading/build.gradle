@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'vendor.fastbridge.Early_Reading'
+mavenVersion = '2.1.3' + getWorkingBranch()

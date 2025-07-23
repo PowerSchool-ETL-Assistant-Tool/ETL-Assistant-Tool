@@ -1,0 +1,96 @@
+Spring 2010 iLEAP_Staff Contractors FileLayout
+
+LEAP_GEE
+
+
+English ------------------------------------------LEAP_GEE_ENG_OVERALL
+-Raw Score Total - ELA
+-Scaled Score - ELA
+-Assessment Achievement Level - ELA
+-Total Score for Writing
+-Non-Score Code for Writing
+-ELA Accountability Achievement Level
+
+	-Standard 1: Read, comprehend, and respond -----LEAP_GEE_ENG_S1RCRTSRR
+	-Standard 2: Write competently -------------LEAP_GEE_ENG_S2WCTSRBK
+	-Standard 3: Use conventions of language -----------------------LEAP_GEE_ENG_S3UCLTSW
+	-Standard 4: Not assessed -------------------------------------LEAP_GEE_ENG_S4NATSL
+	-Standard 5: Locate, select, and synthesize information -------------------------------LEAP_GEE_ENG_S5LSSI
+	-Standard 6: Read, analyze, and respond to literature ---------------------------------LEAP_GEE_ENG_S6RARL
+	-Standard 7: Apply reasoning and problem-solving skills--------------------------------LEAP_GEE_ENG_S7ARPSS
+
+	-Dimension 1: Composing----------------------------------------------------------------LEAP_GEE_ENG_DIM1C
+	-Dimension 2: Style/audience awareness---------------LEAP_GEE_ENG_DIM2SAA
+	
+	ELARawScoreStandard3
+		-Spelling--------------------------LEAP_GEE_ENG_SPL
+		-Capitalization--------------------LEAP_GEE_ENG_CAP
+		-Punctuation-----------------------LEAP_GEE_ENG_PUN
+		-UsageExpression-------------------LEAP_GEE_ENG_UEX
+
+	-Multiple-Choice Items--------------------------LEAP_GEE_ENG_MCI
+	-Constructed-Response Items --------------------LEAP_GEE_ENG_CRI
+
+	> ReadingSubscore ------------------------------LEAP_GEE_ENG_RD
+	RawScore
+	ScaledScore
+	AchievementLevel
+
+
+
+
+Math -----------------------------------------------LEAP_GEE_MA_OVERALL
+-Raw Score Total - Math
+-Scaled Score - Math
+-Assessment Achievement Level - Math
+-Math Accountability Achievement Level
+
+	-Standard 1: Number and number relations ------------------LEAP_GEE_MA_S1NNR
+	-Standard 2: Algebra --------------------------------------LEAP_GEE_MA_S2A
+	-Standard 3: Measurement ------------------------------------LEAP_GEE_MA_S3M
+	-Standard 4: Geometry -------------------------------------------------LEAP_GEE_MA_S4G
+	-Standard 5: Data analysis, probability, & discrete math ---------------------------LEAP_GEE_MA_S5DAPDM
+	-Standard 6: Patterns, Relations, & Functions --------------LEAP_GEE_MA_S6PRF
+
+	-Subtest 1: Multiple-Choice Items----------------LEAP_GEE_MA_SUB1MCI
+	-Subtest 2: Constructed-Response Items-----------LEAP_GEE_MA_SUB2CRI
+
+
+
+
+SCIENCE -------------------------------------------LEAP_GEE_SCI_OVERALL
+-Raw Score Total - Science
+-Scaled Score - Science
+-Assessment Achievement Level - Science
+-Science Accountability Achievement Level
+
+	-Standard 1: Science as Inquiry-----------------LEAP_GEE_SCI_S1SI
+	-Standard 2: Physical Science-------------------LEAP_GEE_SCI_S2PS
+	-Standard 3: Life Science-----------------------LEAP_GEE_SCI_S3LS
+	-Standard 4: Earth and Space Science------------LEAP_GEE_SCI_S4ESS
+	-Standard 5: Science and the Environment--------LEAP_GEE_SCI_S5SE
+
+	-Subtest 1: Multiple-Choice Items---------------LEAP_GEE_SCI_SUB1MCI
+	-Subtest 2: Short Answer Items------------------LEAP_GEE_SCI_SUB2SAI
+	-Subtest 3: Task Items--------------------------LEAP_GEE_SCI_SUB3TI
+
+
+
+
+SOCIAL STUDIES -------------------------------------LEAP_GEE_SS_OVERALL
+-Raw Score Total - Social Studies
+-Scaled Score - Social Studies
+-Assessment Achievement Level - Social Studies
+-Social Studies Accountability Achievement Level
+
+	-Standard 1: Geography ------------------------LEAP_GEE_SS_S1G
+	-Standard 2: Civics----------------------------LEAP_GEE_SS_S2C
+	-Standard 3: Economics-------------------------LEAP_GEE_SS_S3E
+	-Standard 4: History---------------------------LEAP_GEE_SS_S4H
+
+	-Subtest 1: Multiple-Choice Items---------------LEAP_GEE_SS_SUB1MCI
+
+
+
+******* NOT SURE ABOUT NRT
+

@@ -1,0 +1,4 @@
+SchoolYear,SystemCode,LastName,FirstName,Middle Name,StateStudentID,LocalStudentID,Grade,Assessment,ContentArea,PointsPossibleRC1,PointsPossibleRC2,PointsPossibleRC3,PointsPossibleRC4,PointsPossibleRC5,PointsPossibleRC6,PointsPossibleRC7,PointsPossibleRC8,PointsPossibleRC9,PointsPossibleRC10,PointsEarnedRC1,PointsEarnedRC2,PointsEarnedRC3,PointsEarnedRC4,PointsEarnedRC5,PointsEarnedRC6,PointsEarnedRC7,PointsEarnedRC8,PointsEarnedRC9,PointsEarnedRC10,PerformanceLevel,ScaleScore,State Percentile Rank,GrowthLevelCode,QuantileScore,LexileScore,ReadingStatus,SchoolCode
+2022,022,Norris,Andrew,BB,14169, ,03,2,Reading,8,21,0,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,1,404,0, , , ,1,100
+2022,022,Langston,Anne,CC,14005, ,02,2,Reading,8,21,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,1,375,0, , , ,1,100
+2022,049,Lane,Kacie,Griffin,13466, ,03,2,Reading,8,21,0,0,0,0,0,0,0,0,2,6,0,0,0,0,0,0,0,0,1,435,0, , , ,1,100

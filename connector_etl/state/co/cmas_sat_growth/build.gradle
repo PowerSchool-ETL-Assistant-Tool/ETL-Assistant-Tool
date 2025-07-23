@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'state.co.cmas_sat_growth'
+mavenVersion = '1.3.5' + getWorkingBranch()

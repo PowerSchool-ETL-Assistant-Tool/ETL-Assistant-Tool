@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'vendor.amplify.TRC_ATLAS'
+mavenVersion = '1.0.4' + getWorkingBranch()

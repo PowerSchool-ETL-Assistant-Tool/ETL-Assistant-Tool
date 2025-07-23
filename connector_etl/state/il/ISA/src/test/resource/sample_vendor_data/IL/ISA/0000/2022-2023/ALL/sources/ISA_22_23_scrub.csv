@@ -1,0 +1,4 @@
+RCDTS,School,StudentId,FirstName,MiddleName,LastName,Gender,Race,DateOfBirth,Grade,IEP,FRL,EL,Migrant,Homeless,ScaleScore,PerformanceBand,RFNVTA
+"RCDTS:560990920022005","Bonsai Elementary School","13269","Rakeem","Temple","Fairburn","M","Hispanic","08/24/2007","5","N","N","N","N","N","705","Exemplary",""
+"RCDTS:560990920022005","Bonsai Elementary School","13254","Kenneth","DA","Streams","M","Hispanic","06/24/2011","11","N","Y","N","N","N","800","Developing",""
+"RCDTS:560990920022005","Bonsai Elementary School","14174","Mercedez","DA","Jalbert","F","Hispanic","11/16/2015","8","Y","N","N","N","N","900","Developing",""

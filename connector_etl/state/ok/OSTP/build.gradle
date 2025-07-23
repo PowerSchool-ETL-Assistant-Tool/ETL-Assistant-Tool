@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'state.ok.OSTP'
+mavenVersion = '1.4.2' + getWorkingBranch()

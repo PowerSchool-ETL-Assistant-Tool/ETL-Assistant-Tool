@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'vendor.houghton_mifflin_harcourt.math_inventory'
+mavenVersion = '1.3.3' + getWorkingBranch()

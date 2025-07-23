@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'state.ca.LA_TRC_PROG_MON_DATA'
+mavenVersion = '1.0.7' + getWorkingBranch()

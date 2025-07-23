@@ -1,0 +1,2 @@
+STI,LocalStuID,DivCode,DivName,SchCode,SchName,StuLastName,StuFirstName,StuMI,DOB,Gender,StuGrade,SOAAdj,StatusRetest,StatusTest,Admin Name,TestDate,TestCode,TestName,TestScore,PassFail,Recovery,RspSchCode,RspSchName,PerfLevel,ParentReq,VerticalScaledScore,TestAdminTimeYear
+13999,72003908,072,Apple Grove Unified Schools,100,Bonsai Elementary School,Gregory,Joshua,BB,01/01/2002,Male,03,,First Time Tester,Test Completed,Spring 2012 Non-Writing,06/06/2012,3123,Gr 3 Mathematics,305,Fail,,100,Apple Grove Unified Schools,5,,1200,

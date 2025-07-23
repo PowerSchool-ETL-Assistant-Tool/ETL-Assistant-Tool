@@ -1,0 +1,4 @@
+StudentIdentifier,CurrentGrade,SchoolName,LaunchDate,CompletedDate,GradePlacement,Grade,ScaledScore,UnifiedScore,GradeEquivalent,PercentileRank,NormalCurveEquivalent,InstructionalReadingLevel,LowerZoneOfProximalDevelopment,UpperZoneOfProximalDevelopment
+13589,8,MS Dogwood Elementary School,2/17/21 21:05,2/17/21 21:19,8.55,8,555,1030,4.9,10,23,4.6,3.4,5.3
+13590,9,MS Dogwood Elementary School,02-05-2021 17:13,02/05/2021 17:45,9.51,9,1013,1129,9,45,47.4,8.8,4.6,9
+13591,9,MS Dogwood Elementary School,02-04-2021 19:10,02/04/2021 19:38,9.51,9,933,1116,8.1,37,43,8.2,4.5,8.1

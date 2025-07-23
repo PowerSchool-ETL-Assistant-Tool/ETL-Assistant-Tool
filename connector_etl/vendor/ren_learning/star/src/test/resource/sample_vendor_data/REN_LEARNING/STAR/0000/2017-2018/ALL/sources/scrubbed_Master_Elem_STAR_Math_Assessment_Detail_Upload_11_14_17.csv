@@ -1,0 +1,4 @@
+StudentId,StudentGUID,FirstName,MiddleName,LastName,BirthDate,ExportGrade,Gender,Ethnicity,Characteristics,StateStudentID,SchoolName,TeacherFirstName,TeacherMiddleName,TeacherLastName,CourseName,ClassName,DateTaken,AssessmentGrade,GP,SS,GE,PR,NCE
+13354,fad9b8e8-200c-4818-90d8-4c6437c79940,Phoebe,AA,Lakhani,03/09/2011,6,M,Black,##,13354,MS Dogwood Elementary School,Michele,,Jangula,Homeroom Grade 6,"Jangula, Michele - 3",10/30/2017 12:06,6,6.19,843,12,90,77
+13355,c80fae5a-41c7-41e5-8f7c-18a6e3ae1ac4,Tyler,BB,Blair,07/04/2011,6,F,White,##,13355,MS Dogwood Elementary School,Lauren,N,Tillman,Homeroom Grade 6,"Tillman, Lauren - 4",07/11/2017 15:04,6,6.22,817,9.4,82,69.3
+13356,4853d350-c6ac-41bb-8429-d24bfa78d0f4,Brandon,BA,Aabram,10/22/2011,6,M,White,##,13356,MS Dogwood Elementary School,Kim,,Petty,Homeroom Grade 6,"Petty, Kim - 3",06/11/2017 13:20,6,6.21,724,6,46,47.9

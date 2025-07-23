@@ -1,0 +1,3 @@
+RCDTS,School,StudentId,FirstName,MiddleName,LastName,Gender,Race,DateOfBirth,Grade,IEP,FRL,EL,Migrant,Homeless,ScaleScore,PerformanceBand,RFNVTA
+RCDTS:340490730042007,Bonsai Elementary School,10288,Zachariah,BB,Brasher,F,TwoOrMore,3/1/11,5,N,N,N,N,N,811,Proficient,
+RCDTS:340490730042007,Dogwood Elementary School,13001,Dalton,DB,Adams,F,Hispanic,3/17/11,5,N,N,N,N,N,851,Exemplary,

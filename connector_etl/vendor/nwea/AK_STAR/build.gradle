@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'vendor.nwea.AK_STAR'
+mavenVersion = '1.3.3' + getWorkingBranch()

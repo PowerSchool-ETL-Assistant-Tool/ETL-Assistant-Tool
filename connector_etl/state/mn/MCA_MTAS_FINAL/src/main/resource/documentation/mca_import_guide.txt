@@ -1,0 +1,23 @@
+Attached is the Import Guide that was created for the MCA-III tests.
+
+ 
+
+The guide includes the Score Label Definitions provided with the MCA results files. It also includes a Grade Breakdown for each of the three test categories.
+
+ 
+
+The Grade Breakdown includes the following columns:
+
+Part: The part number that matches the Synergy definition.
+MAX: The column that we mapped our “Max” score to in our Synergy test definition.
+SCALE: This is the column that contains the ABV value in the original MCA-III results file, first is the column number, then the value that we changed the MCA abbreviation to.
+ABV: The abbreviation included in the MCA results file, this gets changed to match the value in the SCALE column, as noted above.
+Score: The column number where the score value is located.
+MCA III: The description of the score.
+*Note that grade ranges that are similar are grouped together – what test segment a given column represents MAY change based on grade level.
+
+ 
+
+For the SCIENCE category our Synergy test definition lumps grades 9-12 as HIGH SCHOOL, otherwise each grade level gets its own Synergy test definition.
+
+ 

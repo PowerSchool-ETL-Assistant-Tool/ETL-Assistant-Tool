@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'state.pa.CDT'
+mavenVersion = '1.0.6' + getWorkingBranch()

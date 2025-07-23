@@ -1,0 +1,63 @@
+Spring 2012_LEAP_GEE_FileLayout_Staff_Contractors_SQL_Table_Backup
+
+LEAP_GEE
+
+
+Math -----------------------------------------------LEAP_GEE_MA_OVERALL
+-Raw Score Total - Math
+-Scaled Score - Math
+-Assessment Achievement Level - Math
+-Accountability Achievement Level - Math
+-Math Auto Rescore Flag
+
+	-Standard 1: Number and number relations -------------------------------------LEAP_GEE_MA_S1NNR
+	-Standard 2: Algebra ------------------------------------LEAP_GEE_MA_S2A
+	-Standard 3: Measurement ------------------------------------LEAP_GEE_MA_S3M
+	-Standard 4: Geometry ----------------------------------------------------------LEAP_GEE_MA_S4G
+	-Standard 5: Data analysis, probability, & discrete math --------LEAP_GEE_MA_S5DAPDMR
+	-Standard 6: Patterns, Relations, & Functions --------------------------LEAP_GEE_MA_S6PRF
+
+	-Subtest 1: Multiple-Choice Items----------------LEAP_GEE_MA_SUB1MCI
+	-Subtest 2: Constructed-Response Items-----------LEAP_GEE_MA_SUB2CRI
+
+
+
+
+SCIENCE -------------------------------------------LEAP_GEE_SCI_OVERALL
+-Raw Score Total - Science
+-Scaled Score - Science
+-Assessment Achievement Level - Science
+-Accountability Achievement Level - Science
+-Science Auto Rescore Flag
+
+	-Standard 1: Science as Inquiry-----------------LEAP_GEE_SCI_S1SI
+	-Standard 2: Physical Science-------------------LEAP_GEE_SCI_S2PS
+	-Standard 3: Life Science-----------------------LEAP_GEE_SCI_S3LS
+	-Standard 4: Earth and Space Science------------LEAP_GEE_SCI_S4ESS
+	-Standard 5: Science and the Environment--------LEAP_GEE_SCI_S5SE
+
+	-Subtest 1: Multiple-Choice Items---------------LEAP_GEE_SCI_SUB1MCI
+	-Subtest 2: Short Answer Items------------------LEAP_GEE_SCI_SUB2SAI
+	-Subtest 3: Comprehensive Science Task--------------------------LEAP_GEE_SCI_SUB3CST
+
+	-Multiple-Choice Items--------------------------LEAP_GEE_SCI_MCI
+	-Constructed-Response Items --------------------LEAP_GEE_SCI_CRI
+
+
+
+
+SOCIAL STUDIES -------------------------------------LEAP_GEE_SS_OVERALL
+-Raw Score Total - Social Studies
+-Scaled Score - Social Studies
+-Assessment Achievement Level - Social Studies
+-Accountability Achievement Level - Social Studies
+-Social Studies Auto Rescore Flag
+
+	-Standard 1: Geography ------------------------LEAP_GEE_SS_S1G
+	-Standard 2: Civics----------------------------LEAP_GEE_SS_S2C
+	-Standard 3: Economics-------------------------LEAP_GEE_SS_S3E
+	-Standard 4: History---------------------------LEAP_GEE_SS_S4H
+
+	-Subtest 1: Multiple-Choice Items---------------LEAP_GEE_SS_SUB1MCI
+	-Subtest 2: Constructed-Response Items ---------LEAP_GEE_SS_SUB2CRI
+

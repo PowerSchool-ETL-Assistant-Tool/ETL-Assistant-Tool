@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'vendor.mcgraw_hill.aleks'
+mavenVersion = '1.3.6' + getWorkingBranch()

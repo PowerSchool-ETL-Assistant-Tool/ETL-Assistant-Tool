@@ -1,0 +1,161 @@
+Combined score file format Spring 2016_2016 04 15
+
+LEAP - EOC 2015-2016
+---------------
+ALGI--------------------------------------------------------LEAP_EOC_ALGI_OVERALL
+-Total MC Score
+-Total CR Score
+-Total Test Score
+-Percent Correct
+-Reportable Status
+-Scale Score
+-Achievement Level
+-Standard Error of Measurement
+-Upper CI
+-Lower CI
+	-Algebra ---------------------------------------------LEAP_EOC_ALGI_ALG
+		-points earned
+		-percent correct
+	-Functions -------------------------------------------LEAP_EOC_ALGI_FUNC
+		-points earned
+		-percent correct
+	-Number & Quantity / Statistics & Probability --------LEAP_EOC_ALGI_NQSP
+		-points earned
+		-percent correct
+
+
+
+
+
+
+
+
+
+English II --ENG------------------------------------------LEAP_EOC_ENGII_OVERALL
+-Total MC Score
+-Total CR Score
+-Total Test Score *******Mapped to RAW_SCORE
+-Percent Correct
+-Reportable Status
+-Scale Score
+-Achievement Level
+-Standard Error of Measurement
+-Upper CI *******Mapped to SEM_HIGH
+-Lower CI *******Mapped to SEM_LOW
+	-Writing and Language Conventions --------------------LEAP_EOC_ENGII_WLC
+		-points earned
+		-percent correct
+	-Reading ---------------------------------------------LEAP_EOC_ENGII_RD
+		-points earned
+		-percent correct
+	-Research --------------------------------------------LEAP_EOC_ENGII_RES
+		-points earned
+		-percent correct
+
+
+
+
+Geometry ---------------------------------------------------LEAP_EOC_GEOM_OVERALL
+-Total MC Score
+-Total CR Score
+-Total Test Score
+-Percent Correct
+-Reportable Status
+-Scale Score
+-Achievement Level
+-Standard Error of Measurement
+-Upper CI
+-Lower CI
+	Congruence -------------------------------------------------------LEAP_EOC_GEOM_CONG
+		-points earned
+		-percent correct
+	Similarity, Right Triangles, & Trigonometry ----------------------LEAP_EOC_GEOM_SRTT
+		-points earned
+		-percent correct
+	Circles / Expressing Geometric Properties with Equations ----------LEAP_EOC_GEOM_CEGPWE
+		-points earned
+		-percent correct
+	Geometric Measurement & Dimension / Modeling with Geometry ---------LEAP_EOC_GEOM_GMDMWG
+		-points earned
+		-percent correct
+
+
+
+
+
+Biology -----------------------------------------------------LEAP_EOC_BIO_OVERALL
+-Total MC Score
+-Total CR Score
+-Total Test Score
+-Percent Correct
+-Reportable Status
+-Scale Score
+-Achievement Level
+-Standard Error of Measurement
+-Upper CI
+-Lower CI
+
+	-Science as Inquiry (strand 1) --------------------------LEAP_EOC_BIO_SIS1
+		-points earned
+		-percent correct
+	-Life Science (strand 3) --------------------------------LEAP_EOC_BIO_LSS3
+		-points earned
+		-percent correct
+	-Earth and Space Science (strand 4)----------------------LEAP_EOC_BIO_ESSS4
+		-points earned
+		-percent correct
+
+
+
+
+EnglishIII ------------------------------------------------------LEAP_EOC_ENGIII_OVERALL
+-Total MC Score
+-Total CR Score
+-Total Test Score
+-Percent Correct
+-Reportable Status
+-Scale Score
+-Achievement Level
+-Standard Error of Measurement
+-Upper CI
+-Lower CI
+
+	-Writing and Language Conventions ------------------------LEAP_EOC_ENGIII_WLC
+		-points earned
+		-percent correct
+	-Reading -------------------------------------------------LEAP_EOC_ENGIII_RD
+		-points earned
+		-percent correct
+	-Research ------------------------------------------------LEAP_EOC_ENGIII_RES
+		-points earned
+		-percent correct
+
+
+
+US History ------------------------------------------------------LEAP_EOC_USHIST_OVERALL
+-Total MC Score
+-Total CR Score
+-Total Test Score
+-Percent Correct
+-Reportable Status
+-Scale Score
+-Achievement Level
+-Standard Error of Measurement
+-Upper CI
+-Lower CI
+
+	-Western Expansion to Progressivism - Standard 2 -----------------LEAP_EOC_USHIST_WEPS2
+		-points earned
+		-percent correct
+	-Isolationism through the Great War - Standard 3 -----------------LEAP_EOC_USHIST_ITGWS3
+		-points earned
+		-percent correct
+	-Becoming a World Power through World War II - Standard 4 --------LEAP_EOC_USHIST_BWPWWIIS4
+		-points earned
+		-percent correct
+	-Cold War Era - Standard 5 ---------------------------------------LEAP_EOC_USHIST_CWES5
+		-points earned
+		-percent correct
+	-The Modern Age - Standard 6 -------------------------------------LEAP_EOC_USHIST_TMAS6
+		-points earned
+		-percent correct

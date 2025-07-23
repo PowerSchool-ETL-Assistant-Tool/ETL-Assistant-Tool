@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'vendor.university_of_oregon.dibels_8th'
+mavenVersion = '2.9.6' + getWorkingBranch()

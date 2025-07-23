@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'vendor.GL_Assesment.CAT4'
+mavenVersion = '1.5.2' + getWorkingBranch()

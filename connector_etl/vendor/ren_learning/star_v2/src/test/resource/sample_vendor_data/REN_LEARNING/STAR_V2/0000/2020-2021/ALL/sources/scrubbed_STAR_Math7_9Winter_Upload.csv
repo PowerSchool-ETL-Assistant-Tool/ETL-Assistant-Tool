@@ -1,0 +1,4 @@
+StudentIdentifier,StudentStateID,StudentFirstName,StudentMiddleName,StudentLastName,BirthDate,CurrentGrade,SchoolName,LaunchDate,CompletedDate,GradePlacement,Grade,ScaledScore,UnifiedScore,GradeEquivalent,PercentileRank,NormalCurveEquivalent
+13580,1036280109,Jerrold,CC,Gibson,07/26/2012,8,MS Dogwood Elementary School,2/22/2021 18:07,2/22/2021 18:18,8.57,8,581,964,3.8,4,13.1
+13581,4831279497,Bryanna,BB,Gomez,04/24/2012,9,MS Dogwood Elementary School,02-03-2021 19:14,02/03/2021 19:47,9.5,9,867,1140,,52,
+13582,9745440803,Stuart,CA,Goodwin,03-12-2012,9,MS Dogwood Elementary School,02-03-2021 19:13,02/03/2021 19:29,9.5,9,827,1115,10.1,54,52.1

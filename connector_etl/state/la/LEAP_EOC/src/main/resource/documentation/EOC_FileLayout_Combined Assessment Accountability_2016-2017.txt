@@ -1,0 +1,163 @@
+EOC_FileLayout_Combined Assessment Accountability_2016-2017
+
+LEAP - EOC 2015-2016
+---------------
+ALGI--------------------------------------------------------LEAP_EOC_ALGI_OVERALL
+-Total MC Score
+-Total CR Score
+-Total Raw Score
+-Total Percent Score
+-Scale Score
+-Assessment Achievement Level
+-Accountability Achievement Level
+-SEM
+	-Algebra ----------------------------------------------LEAP_EOC_ALGI_ALG
+		-Raw Score
+		-Percent Correct
+	-Functions --------------------------------------------LEAP_EOC_ALGI_FUNC
+		-Raw Score
+		-Percent Correct
+	-Number & Quantity / Statistics & Probability ---------LEAP_EOC_ALGI_NQSP
+		-Raw Score
+		-Percent Correct
+
+
+
+English II --ENG------------------------------------------LEAP_EOC_ENGII_OVERALL
+-Total MC Score
+-Total CR Score
+-Total Raw Score
+-Total Percent Correct
+-Scale Score
+-Assessment Achievement Level
+-Accountability Achievement Level
+-SEM
+	-Writing and Language Conventions -------------------LEAP_EOC_ENGII_WLC
+		-Raw Score
+		-Percent Correct
+	Reading ---------------------------------------------LEAP_EOC_ENGII_RD
+		-Raw Score
+		-Percent Correct
+	Research --------------------------------------------LEAP_EOC_ENGII_RESRCH
+		-Raw Score
+		-Percent Correct
+
+
+
+
+Geometry ---------------------------------------------------LEAP_EOC_GEOM_OVERALL
+-Total MC Score
+-Total CR Score
+-Total Raw Score
+-Total Percent correct
+-Scale Score
+-Assessment Achievement Level
+-Accountability Achievement Level
+-SEM
+	-Congruence --------------------------------------------------LEAP_EOC_GEOM_CONG
+		-Raw Score
+		-Percent Correct
+	-Similarity, Right Triangles, & Trigonometry -------------------LEAP_EOC_GEOM_SRTT
+		-Raw Score
+		-Percent Correct
+	-Circles / Expressing Geometric Properties with Equations --------LEAP_EOC_GEOM_CEGPWE
+		-Raw Score
+		-Percent Correct
+	-Geometric Measurement & Dimension / Modeling with Geometry ------ LEAP_EOC_GEOM_GMDMWG
+		-Raw Score
+		-Percent Correct
+
+
+
+Biology -----------------------------------------------------LEAP_EOC_BIO_OVERALL
+-Total MC Score
+-Total CR Score
+-Total Raw Score
+-Total Percent correct
+-Scale Score
+-Assessment Achievement Level
+-Accountability Achievement Level
+-SEM
+	> Science as Inquiry ------------------------------------LEAP_EOC_BIO_SI
+		-Raw Score
+		-Percent Correct
+	> Life Science -------------------------------------------LEAP_EOC_BIO_LS
+		-Raw Score
+		-Percent Correct
+	> Earth and Space Science ---------------------------------LEAP_EOC_BIO_ESS
+		-Raw Score
+		-Percent Correct
+
+
+
+EnglishIII ------------------------------------------------------LEAP_EOC_ENGIII_OVERALL
+-Total MC Score
+-Total CR Score
+-Total Raw Score
+-Total Percent correct
+-Scale Score
+-Assessment Achievement Level
+-Accountability Achievement Level
+-SEM
+	> Writing and Language Conventions -------------------------LEAP_EOC_ENGIII_WLC
+		-Raw Score
+		-Percent Correct
+	> Reading ---------------------------------------------------LEAP_EOC_ENGIII_RD
+		-Raw Score
+		-Percent Correct
+	> Research --------------------------------------------------LEAP_EOC_ENGIII_RES
+		-Raw Score
+		-Percent Correct
+
+
+
+US History ------------------------------------------------------LEAP_EOC_USHIST_OVERALL
+-Total MC Score
+-Total CR Score
+-Total Raw Score
+-Total Percent correct
+-Scale Score
+-Assessment Achievement Level
+-Accountability Achievement Level
+-SEM
+	> Western Expansion to Progressivism Standard 2 --------------------LEAP_EOC_USHIST_WEPS2
+		-Raw Score
+		-Percent Correct
+	> Isolationism through the Great War - Standard 3 -------------------LEAP_EOC_USHIST_IGWS3
+		-Raw Score
+		-Percent Correct
+	> Becoming a World Power through World War II - Standard 4 -----------LEAP_EOC_USHIST_BWPWWIIS4
+		-Raw Score
+		-Percent Correct
+	> Cold War Era - Standard 5 -------------------------------------------LEAP_EOC_USHIST_CWES5
+		-Raw Score
+		-Percent Correct
+	> The Modern Age - Standard 6 ------------------------------------------LEAP_EOC_USHIST_MAS6
+		-Raw Score
+		-Percent Correct
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

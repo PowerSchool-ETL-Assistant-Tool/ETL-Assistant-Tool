@@ -1,0 +1,1710 @@
+{
+  "encoding": "UTF-8",
+  "fileExtensions": [
+    ".csv"
+  ],
+  "format": {
+    "@type": "Delimited",
+    "formatName": "SOL_94COLUMNS",
+    "quoteDelim": "\"",
+    "fieldDelim": ",",
+    "recordLength": "",
+    "hasHeader": true,
+    "naturalKey": ["STUDENT_NUMBER",
+                         "UUID"],
+    "fields": [
+      {
+        "physicalName": "Division Name",
+        "otherPossibleNames": [],
+        "logicalName": "DIVISION_NAME",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 1
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Division Code",
+        "otherPossibleNames": [],
+        "logicalName": "DIVISION_CODE",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 2
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "School Name",
+        "otherPossibleNames": [],
+        "logicalName": "SCHOOL_NAME",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 3
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "School Code",
+        "otherPossibleNames": [],
+        "logicalName": "SCHOOL_CODE",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 4
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Group Name",
+        "otherPossibleNames": [],
+        "logicalName": "GROUP_NAME",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 5
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Group Code",
+        "otherPossibleNames": [],
+        "logicalName": "GROUP_CODE",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 6
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Form Name",
+        "otherPossibleNames": [],
+        "logicalName": "FORM_NAME",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 7
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Filler",
+        "otherPossibleNames": [],
+        "logicalName": "FILLER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 8
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Date Last Update - Month",
+        "otherPossibleNames": [],
+        "logicalName": "DATE_LAST_UPDATE_MONTH",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 9
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Date Last Update - Day",
+        "otherPossibleNames": [],
+        "logicalName": "DATE_LAST_UPDATE_DAY",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 10
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Date Last Update - Year",
+        "otherPossibleNames": [],
+        "logicalName": "DATE_LAST_UPDATE_YEAR",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 11
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Filler",
+        "otherPossibleNames": [],
+        "logicalName": "FILLER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 12
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Last Name",
+        "otherPossibleNames": [],
+        "logicalName": "LAST_NAME",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 13
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "First Name",
+        "otherPossibleNames": [],
+        "logicalName": "FIRST_NAME",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 14
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Middle Initial",
+        "otherPossibleNames": [],
+        "logicalName": "MIDDLE_INITIAL",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 15
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "State Testing Identifier (STI)",
+        "otherPossibleNames": [],
+        "logicalName": "STATE_TESTING_IDENTIFIER_(STI)",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 16
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Student Number",
+        "otherPossibleNames": [],
+        "logicalName": "STUDENT_NUMBER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 17
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "DOB Month",
+        "otherPossibleNames": [],
+        "logicalName": "DOB_MONTH",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 18
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "DOB Day",
+        "otherPossibleNames": [],
+        "logicalName": "DOB_DAY",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 19
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "DOB Year",
+        "otherPossibleNames": [],
+        "logicalName": "DOB_YEAR",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 20
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Gender",
+        "otherPossibleNames": [],
+        "logicalName": "GENDER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 21
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Grade",
+        "otherPossibleNames": [],
+        "logicalName": "GRADE",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 22
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Filler",
+        "otherPossibleNames": [],
+        "logicalName": "FILLER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 23
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Ethnicity",
+        "otherPossibleNames": [],
+        "logicalName": "ETHNICITY",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 24
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Race",
+        "otherPossibleNames": [],
+        "logicalName": "RACE",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 25
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Filler",
+        "otherPossibleNames": [],
+        "logicalName": "FILLER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 26
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Military Connected Student Code",
+        "otherPossibleNames": [],
+        "logicalName": "MILITARY_CONNECTED_STUDENT_CODE",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 27
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "SOA Adjustment - EL",
+        "otherPossibleNames": [],
+        "logicalName": "SOA_ADJUSTMENT_EL",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 28
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Transfer",
+        "otherPossibleNames": [],
+        "logicalName": "TRANSFER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 29
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Multidivision Online Provider",
+        "otherPossibleNames": [],
+        "logicalName": "MULTIDIVISION_ONLINE_PROVIDER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 30
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Resident Division",
+        "otherPossibleNames": [],
+        "logicalName": "RESIDENT_DIVISION",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 31
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Disability Status",
+        "otherPossibleNames": [],
+        "logicalName": "DISABILITY_STATUS",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 32
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Filler",
+        "otherPossibleNames": [],
+        "logicalName": "FILLER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 33
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Virtual Virginia",
+        "otherPossibleNames": [],
+        "logicalName": "VIRTUAL_VIRGINIA",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 34
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Filler",
+        "otherPossibleNames": [],
+        "logicalName": "FILLER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 35
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Local Use Data - Student",
+        "otherPossibleNames": [],
+        "logicalName": "LOCAL_USE_DATA_STUDENT",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 36
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Filler",
+        "otherPossibleNames": [],
+        "logicalName": "FILLER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 37
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Primary Nighttime Residence Code",
+        "otherPossibleNames": [],
+        "logicalName": "PRIMARY_NIGHTTIME_RESIDENCE_CODE",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 38
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Foster Care",
+        "otherPossibleNames": [],
+        "logicalName": "FOSTER_CARE",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 39
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Filler",
+        "otherPossibleNames": [],
+        "logicalName": "FILLER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 40
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "N-Code",
+        "otherPossibleNames": [],
+        "logicalName": "N-CODE",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 41
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Filler",
+        "otherPossibleNames": [],
+        "logicalName": "FILLER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 42
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Formerly EL",
+        "otherPossibleNames": [],
+        "logicalName": "FORMERLY_EL",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 43
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "X-Code-B",
+        "otherPossibleNames": [],
+        "logicalName": "X-CODE-B",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 44
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "X-Code-C",
+        "otherPossibleNames": [],
+        "logicalName": "X-CODE-C",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 45
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "X-Code-D",
+        "otherPossibleNames": [],
+        "logicalName": "X-CODE-D",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 46
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Filler",
+        "otherPossibleNames": [],
+        "logicalName": "FILLER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 47
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Recently Arrived EL",
+        "otherPossibleNames": [],
+        "logicalName": "RECENTLY_ARRIVED_EL",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 48
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Filler",
+        "otherPossibleNames": [],
+        "logicalName": "FILLER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 49
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Recovery",
+        "otherPossibleNames": [],
+        "logicalName": "RECOVERY",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 50
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "SLIFE",
+        "otherPossibleNames": [],
+        "logicalName": "SLIFE",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 51
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Filler",
+        "otherPossibleNames": [],
+        "logicalName": "FILLER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 52
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Z-Code-E",
+        "otherPossibleNames": [],
+        "logicalName": "Z-CODE-E",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 53
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Z-Code-F",
+        "otherPossibleNames": [],
+        "logicalName": "Z-CODE-F",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 54
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Z-Code-G",
+        "otherPossibleNames": [],
+        "logicalName": "Z-CODE-G",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 55
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "EL Overall Proficiency Level",
+        "otherPossibleNames": [],
+        "logicalName": "EL_OVERALL_PROFICIENCY_LEVEL",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 56
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Filler",
+        "otherPossibleNames": [],
+        "logicalName": "FILLER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 57
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Local Use Data -Test",
+        "otherPossibleNames": [],
+        "logicalName": "LOCAL_USE_DATA_-TEST",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 58
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Filler",
+        "otherPossibleNames": [],
+        "logicalName": "FILLER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 59
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Testing Status",
+        "otherPossibleNames": [],
+        "logicalName": "TESTING_STATUS",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 60
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Test Administration-Time of Year",
+        "otherPossibleNames": [],
+        "logicalName": "TEST_ADMIN_TIME_OF_YEAR",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 61
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Test Administration-Year",
+        "otherPossibleNames": [],
+        "logicalName": "TEST_ADMINISTRATION-YEAR",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 62
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Filler",
+        "otherPossibleNames": [],
+        "logicalName": "FILLER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 63
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Level",
+        "otherPossibleNames": [],
+        "logicalName": "LEVEL",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 64
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Form",
+        "otherPossibleNames": [],
+        "logicalName": "FORM",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 65
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Filler",
+        "otherPossibleNames": [],
+        "logicalName": "FILLER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 66
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Subject Code",
+        "otherPossibleNames": [],
+        "logicalName": "SUBJECT_CODE",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 67
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Filler",
+        "otherPossibleNames": [],
+        "logicalName": "FILLER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 68
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Filler",
+        "otherPossibleNames": [],
+        "logicalName": "FILLER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 69
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Test Mini Name",
+        "otherPossibleNames": [],
+        "logicalName": "TEST_MINI_NAME",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 70
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Filler",
+        "otherPossibleNames": [],
+        "logicalName": "FILLER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 71
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Test Scaled Score",
+        "otherPossibleNames": [],
+        "logicalName": "TEST_SCALED_SCORE",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 72
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Filler",
+        "otherPossibleNames": [],
+        "logicalName": "FILLER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 73
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Performance Level",
+        "otherPossibleNames": [],
+        "logicalName": "PERFORMANCE_LEVEL",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 74
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Filler",
+        "otherPossibleNames": [],
+        "logicalName": "FILLER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 75
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "UIN",
+        "otherPossibleNames": [],
+        "logicalName": "UIN",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 76
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Filler",
+        "otherPossibleNames": [],
+        "logicalName": "FILLER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 77
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Test Month",
+        "otherPossibleNames": [],
+        "logicalName": "TEST_MONTH",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 78
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Test Day",
+        "otherPossibleNames": [],
+        "logicalName": "TEST_DAY",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 79
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Test Year",
+        "otherPossibleNames": [],
+        "logicalName": "TEST_YEAR",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 80
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Filler",
+        "otherPossibleNames": [],
+        "logicalName": "FILLER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 81
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Code TFN",
+        "otherPossibleNames": [],
+        "logicalName": "CODE_TFN",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 82
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Code TLN",
+        "otherPossibleNames": [],
+        "logicalName": "CODE_TLN",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 83
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Code VTLN",
+        "otherPossibleNames": [],
+        "logicalName": "CODE_VTLN",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 84
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "UUID",
+        "otherPossibleNames": [],
+        "logicalName": "UUID",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 85
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Filler",
+        "otherPossibleNames": [],
+        "logicalName": "FILLER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 86
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Filler",
+        "otherPossibleNames": [],
+        "logicalName": "FILLER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 87
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Filler",
+        "otherPossibleNames": [],
+        "logicalName": "FILLER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 88
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "STA-Code 1",
+        "otherPossibleNames": [],
+        "logicalName": "STA-CODE_1",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 89
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "STA-Code 2",
+        "otherPossibleNames": [],
+        "logicalName": "STA-CODE_2",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 90
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "STA-Code 3",
+        "otherPossibleNames": [],
+        "logicalName": "STA-CODE_3",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 91
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "STA-Code 4",
+        "otherPossibleNames": [],
+        "logicalName": "STA-CODE_4",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 92
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Filler",
+        "otherPossibleNames": [],
+        "logicalName": "FILLER",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 93
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      },
+      {
+        "physicalName": "Z indicates End of Record",
+        "otherPossibleNames": [],
+        "logicalName": "Z_INDICATES_END_OF_RECORD",
+        "formatMask": null,
+        "isFieldRequired": "Y",
+        "canBeNull": "Y",
+        "fieldOffset": {
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "columnNum": 94
+        },
+        "fieldLength": 500,
+        "fieldPrecision": null,
+        "expectedValues": [],
+        "dataTypes": "STRING",
+        "scale": 0
+      }
+    ]
+  }
+}

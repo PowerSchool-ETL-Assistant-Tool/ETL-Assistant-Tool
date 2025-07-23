@@ -1,0 +1,96 @@
+Spring 2014 LEAP_3-8_FileLayout_Staff_Contractors
+
+LEAP_3-8
+
+
+ELA ------------------------------------------LEAP_3-8_ELA_OVERALL
+-Raw Score Total - ELA
+-Scaled Score - ELA
+-Assessment Achievement Level - ELA
+-Accountability Achievement Level
+
+	> RAW SCORE
+	-Test Session: Reading and Responding-----------LEAP_3-8_ELA_TSRR
+	-Test Session: Research to Build Knowledge -----LEAP_3-8_ELA_TSRBK
+	-Test Session: Writing--------------------------LEAP_3-8_ELA_TSWRT
+	-Test Session: Language-------------------------LEAP_3-8_ELA_TSLANG
+
+	-Dimension 1: Composing-------------------------LEAP_3-8_ELA_DIM1COMP
+	-Dimension 2: Style/audience awareness----------LEAP_3-8_ELA_DIM2SAA
+	-Dimension 3: Sentence formation----------------LEAP_3-8_ELA_DIM3SF
+	-Dimension 4: Usage-----------------------------LEAP_3-8_ELA_DIM4USG
+	-Dimension 5: Mechanics-------------------------LEAP_3-8_ELA_DIM5MECH
+	-Dimension 6: Spelling--------------------------LEAP_3-8_ELA_DIM6SPEL
+
+	-Multiple-Choice Items--------------------------LEAP_3-8_ELA_MCI
+	-Constructed-Response Items --------------------LEAP_3-8_ELA_CRI
+
+
+
+
+Math -----------------------------------------------LEAP_3-8_MA_OVERALL
+-Raw Score Total - Math
+-Scaled Score - Math
+-Assessment Achievement Level - Math
+-Accountability Achievement Level
+
+	> RAW SCORE
+	-Domain: Operations and Algebraic Thinking ------LEAP_3-8_MA_DOMOAT
+	-Domain: Number and Operations in Base Ten-------LEAP_3-8_MA_DOMNOBTEN
+	-Domain: Number and Operations-Fractions---------LEAP_3-8_MA_DOMNOF
+	-Domain: Measurement and Data--------------------LEAP_3-8_MA_DOMMD
+	-Domain: Geometry--------------------------------LEAP_3-8_MA_DOMGEOM
+	-Domain: Ratios and Proportional Relationships---LEAP_3-8_MA_DOMRPR
+	-Domain: The Number System-----------------------LEAP_3-8_MA_DOMNUMSYS
+	-Domain: Expressions and Equations---------------LEAP_3-8_MA_DOMEE
+	-Domain: Statistics and Probability--------------LEAP_3-8_MA_DOMSPROB
+	-Combined Domain: Number and Operations----------LEAP_3-8_MA_DOMNOP
+	-Combined Domain: Geometry / Measurement and Data------------------LEAP_3-8_MA_CDOMGMD
+	-Combined Domain: Operations in Base Ten / Algebraic Thinking------LEAP_3-8_MA_CDOMBTENAT
+
+	-Subtest 1: Multiple-Choice Items----------------LEAP_3-8_MA_SUB1MCI
+	-Subtest 2: Constructed-Response Items-----------LEAP_3-8_MA_SUB2CRI
+
+
+
+
+SCIENCE -------------------------------------------LEAP_3-8_SCI_OVERALL
+-Raw Score Total - Science
+-Scaled Score - Science
+-Assessment Achievement Level - Science
+-Accountability Achievement Level
+
+	> RAW SCORE
+	-Standard 1: Science as Inquiry-----------------LEAP_3-8_SCI_S1SI
+	-Standard 2: Physical Science-------------------LEAP_3-8_SCI_S2PS
+	-Standard 3: Life Science-----------------------LEAP_3-8_SCI_S3LS
+	-Standard 4: Earth and Space Science------------LEAP_3-8_SCI_S4ESS
+	-Standard 5: Science and the Environment--------LEAP_3-8_SCI_S5SE
+
+	-Subtest 1: Multiple-Choice Items---------------LEAP_3-8_SCI_SUB1MCI
+	-Subtest 2: Task Items--------------------------LEAP_3-8_SCI_SUB2TI
+
+	-Multiple-Choice Items--------------------------LEAP_3-8_SCI_MCI
+	-Constructed-Response Items --------------------LEAP_3-8_SCI_CRI
+
+
+
+
+SOCIAL STUDIES -------------------------------------LEAP_3-8_SS_OVERALL
+-Raw Score Total - Social Studies
+-Scaled Score - Social Studies
+-Assessment Achievement Level - Social Studies
+-Accountability Achievement Level
+
+	> RAW SCORE
+	-Standard 1: Geography ------------------------LEAP_3-8_SS_S1G
+	-Standard 2: Civics----------------------------LEAP_3-8_SS_S2C
+	-Standard 3: Economics-------------------------LEAP_3-8_SS_S3E
+	-Standard 4: History---------------------------LEAP_3-8_SS_S4H
+
+	-Subtest 1: Multiple-Choice Items---------------LEAP_3-8_SS_SUB1MCI
+	-Subtest 2: Task Items--------------------------LEAP_3-8_SS_SUB2TI
+
+	-Multiple-Choice Items -------------------------LEAP_3-8_SS_MCI
+	-Constructed-Response Items --------------------LEAP_3-8_SS_CRI
+

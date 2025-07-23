@@ -1,0 +1,4 @@
+StudentId,StudentGUID,FirstName,MiddleName,LastName,BirthDate,ExportGrade,Gender,Ethnicity,Characteristics,StateStudentID,SchoolName,TeacherFirstName,TeacherMiddleName,TeacherLastName,CourseName,ClassName,DateTaken,AssessmentGrade,GP,SS,GE,PR,NCE,IRL,LowerZPD,UpperZPD
+13351,8c00518d-9fd7-43ee-8593-27d2a23821fb,Eliana,CD,Thomas,09/20/2011,6,M,White,##,13351,MS Dogwood Elementary School,Mary,C,Hatcher,Homeroom Grade 6,"Hatcher, Mary - 1",5/14/2019 12:41,6,6.84,501,4.4,13,26.3,4.2,3.2,4.9
+13352,bee39438-da78-4172-94ec-a873a1b732e1,Eric,BB,Knorr,10/21/2011,5,F,White,##,13352,MS Dogwood Elementary School,Tamara,,Martin,Homeroom Grade 5,"Martin, Tamara - 4",5/31/2019 11:44,5,5.89,779,6.5,67,59.3,6.2,4.2,6.5
+13353,31e4a84c-4d0b-450a-be64-925c6d574bcd,Aimee,BB,Knorr,06/06/2011,5,F,White,##,13353,MS Dogwood Elementary School,Amy,L,Roosa,Homeroom Grade 5,"Roosa, Amy - 4",5/22/2019 15:03,5,5.87,874,7.3,76,64.9,6.7,4.4,7.3

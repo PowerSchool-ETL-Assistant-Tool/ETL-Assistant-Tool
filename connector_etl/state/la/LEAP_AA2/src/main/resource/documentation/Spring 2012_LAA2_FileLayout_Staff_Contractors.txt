@@ -1,0 +1,79 @@
+Spring 2012_LAA2_FileLayout_Staff_Contractors
+
+LAA2
+
+
+English------------------------------------------------------LAA2_ENG_OVERALL
+-Raw Score Total - ELA
+-Scaled Score - ELA
+-Assessment Achievement Level - ELA
+-Total Score for Writing
+-Non-Score Code for Writing
+
+	-Standard 1: Read, comprehend, and respond-----------------LAA2_ENG_S1RCR
+	-Standard 2: Write competently-----------------------------LAA2_ENG_S2WC
+	-Standard 3: Use conventions of language-------------------LAA2_ENG_S3UCL
+	-Standard 4: Not assessed----------------------------------LAA2_ENG_S4NA
+	-Standard 5: Locate, select, and synthesize information----LAA2_ENG_S5LSSI
+	-Standard 6: Read, analyze, and respond to literature------LAA2_ENG_S6RARL
+	-Standard 7: Apply reasoning and problem solving skills----LAA2_ENG_S7ARPSS
+	
+	-Subtest 1: Writing----------------------------------------LAA2_ENG_SUB1W
+	-Subtest 2: Using Information Resources-------------------LAA2_ENG_SUB2UIR
+	-Subtest 3: Reading and Responding------------------------LAA2_ENG_SUB3RR
+	-Subtest 4: Proofreading-----------------------------------LAA2_ENG_SUB4P
+	
+	-Dimension 1: Composing-----------------------------------LAA2_ENG_DIM1C
+	-Dimension 2: Style/audience awareness--------------------LAA2_ENG_DIM2SAA
+	
+	-Multiple-Choice Items------------------------------------LAA2_ENG_MCI
+	-Constructed-Response Items ------------------------------LAA2_ENG_CRI
+
+
+Math-----------------------------------------------------------LAA2_MA_OVERALL
+-Raw Score Total - Math 
+Scaled Score - Math
+Assessment Achievement Level - Math
+
+	-Standard 1: Number and Number Relations -------------------LAA2_MA_S1NNR
+	-Standard 2: Algebra----------------------------------------LAA2_MA_S2A
+	-Standard 3: Measurement------------------------------------LAA2_MA_S3M
+	-Standard 4: Geometry---------------------------------------LAA2_MA_S4G
+	-Standard 5: Data Analysis, Probability, & Discrete Math----LAA2_MA_S5DAPDM
+	-Standard 6: Patterns, Relations, & Functions---------------LAA2_MA_S6PRF
+	
+	-Subtest 1: Multiple-Choice Items---------------------------LAA2_MA_SUB1MCI
+	-Subtest 2: Constructed-Response Items----------------------LAA2_MA_SUB2CRI
+
+
+SCIENCE----------------------------------------------LAA2_SCI_OVERALL
+-Raw Score Total - Science 
+-Scaled Score - Science
+-Assessment Achievement Level - Science
+
+	-Standard 1: Science as Inquiry------------------LAA2_SCI_S1SI
+	-Standard 2: Physical Science--------------------LAA2_SCI_S2PS
+	-Standard 3: Life Science------------------------LAA2_SCI_S3LS
+	-Standard 4: Earth and Space Science-------------LAA2_SCI_S4ESS
+	-Standard 5: Science and the Environment---------LAA2_SCI_S5SE
+
+	-Subtest 1: Multiple-Choice Items----------------LAA2_SCI_SUB1MCI
+	-Subtest 2: Short Answer Items-------------------LAA2_SCI_SUB2SAI
+	
+	-Multiple-Choice Items---------------------------LAA2_SCI_MCI
+	-Constructed-Response Items ---------------------LAA2_SCI_CRI
+
+
+
+Social Studies---------------------------------------LAA2_SS_OVERALL
+-Raw Score Total - Social Studies
+-Scaled Score - Social Studies
+-Assessment Achievement Level - Social Studies
+
+	-Standard 1: Geography--------------------------LAA2_SS_S1G
+	-Standard 2: Civics-----------------------------LAA2_SS_S2C
+	-Standard 3: Economics--------------------------LAA2_SS_S3E
+	-Standard 4: History----------------------------LAA2_SS_S4H
+
+	-Subtest 1: Multiple-Choice Items---------------LAA2_SS_SUB1MCI
+	-Subtest 2: Constructed-Response Items----------LAA2_SS_SUB2CRI

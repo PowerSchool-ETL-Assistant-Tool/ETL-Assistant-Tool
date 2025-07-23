@@ -1,0 +1,4 @@
+StudentId,StudentGUID,FirstName,MiddleName,LastName,BirthDate,ExportGrade,Gender,Ethnicity,Characteristics,StateStudentID,SchoolName,TeacherFirstName,TeacherMiddleName,TeacherLastName,CourseName,ClassName,DateTaken,AssessmentGrade,GP,SS,GE,PR,NCE,IRL,LowerZPD,UpperZPD
+13366,e0563be8-8629-4080-b84d-21161a0329a4,DeAndre,CC,Muhammad,01/07/2011,4,M,White,##,13366,MS Dogwood Elementary School,Lauri,M,Cotton,Homeroom Grade 4,"Cotton, Lauri - 1",11/01/2017 14:40,4,4.43,424,3.7,34,41.3,3.6,2.9,4.2
+13367,57e00682-eef0-45f5-9379-778b66fae2c3,Carlton,BB,Nethon,09/29/2011,4,F,White,##,13367,MS Dogwood Elementary School,Chelsey,J,Stotler,Homeroom Grade 4,"Stotler, Chelsey - 6",1/17/2017 10:54,4,4.45,711,6.4,86,72.8,6,4.2,6.4
+13368,17c249d6-1b10-4736-a938-95e11aeef1bc,Logan,DD,Wu,06/22/2011,4,M,American Indian or Alaskan Native,##,13368,MS Dogwood Elementary School,Kristi,,Giste,Homeroom Grade 4,"Giste, Kristi - 2",1/18/2017 11:09,4,4.45,199,2,3,10.4,1.4,2,3

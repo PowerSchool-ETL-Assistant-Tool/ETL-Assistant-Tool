@@ -1,0 +1,106 @@
+Spring 2010 GEE_Fall Retest FileLayout_Assessment_Accountability
+
+GEE_RETEST
+
+
+English ------------------------------------------GEE_RETEST_ENG_OVERALL
+-Raw Score Total - ELA
+-Scaled Score - ELA
+-Assessment Achievement Level - ELA
+-Total Score for Writing
+-Non-Score Code for Writing
+-SEM
+-ELA Auto Rescore Flag
+-ELA Test Form
+-ELA Accountability Achievement Level
+
+	-Standard 1: Read, comprehend, and respond -------------------------------------GEE_RETEST_ENG_S1RCR
+	-Standard 2: Write competently-----------------------------------------------GEE_RETEST_ENG_S2WC
+	-Standard 3: Use conventions of language-------------------------------------GEE_RETEST_ENG_S3UCL
+	-Standard 4: Not assessed----------------------------------------------------GEE_RETEST_ENG_S4NA
+	-Standard 5: Locate, select, and synthesize information -------------------------------GEE_RETEST_ENG_S5LSSI
+	-Standard 6: Read, analyze, and respond to literature ---------------------------------GEE_RETEST_ENG_S6RARL
+	-Standard 7: Apply reasoning and problem-solving skills--------------------------------GEE_RETEST_ENG_S7ARPSS
+
+	-Subtest 1: Writing -------------------------------------------------------------------GEE_RETEST_ENG_SUB1W
+	-Subtest 2: Using Information Resources -----------------------------------------------GEE_RETEST_ENG_SUB2UIR
+	-Subtest 3: Reading and Responding-----------------------------------------------------GEE_RETEST_ENG_SUB3RR
+	-Subtest 4: Proofreading --------------------------------------------------------------GEE_RETEST_ENG_SUB4P
+
+	-Dimension 1: Composing----------------------------------------------------------------GEE_RETEST_ENG_DIM1C
+	-Dimension 2: Style/audience awareness---------------GEE_RETEST_ENG_DIM2SAA
+	-Dimension 3: Sentence formation---------------------GEE_RETEST_ENG_DIM3SF
+	-Dimension 4: Usage----------------------------------GEE_RETEST_ENG_DIM4U
+	-Dimension 5: Mechanics------------------------------GEE_RETEST_ENG_DIM5M
+	-Dimension 6: Spelling-------------------------------GEE_RETEST_ENG_DIM6S
+
+	-Multiple-Choice Items--------------------------GEE_RETEST_ENG__MCI
+	-Constructed-Response Items --------------------GEE_RETEST_ENG_CRI
+
+
+
+
+Math -----------------------------------------------GEE_RETEST_MA_OVERALL
+-Raw Score Total - Math
+-Scaled Score - Math
+-Assessment Achievement Level - Math
+-SEM
+-Math Auto Rescore Flag
+-Math Test Form
+-Math Accountability Achievement Level
+
+	-Standard 1: Number and number relations -------------------------------------GEE_RETEST_MA_S1NNR
+	-Standard 2: Algebra----------------------------------------------------------GEE_RETEST_MA_S2A
+	-Standard 3: Measurement -------------------------------------------------------GEE_RETEST_MA_S3M
+	-Standard 4: Geometry ----------------------------------------------------------GEE_RETEST_MA_S4G
+	-Standard 5: Data analysis, probability, & discrete math  Number and Operations--------GEE_RETEST_MA_S5DAPDMNO
+	-Standard 6: Patterns, Relations, & Functions--------------------------------------GEE_RETEST_MA_S6PRF
+
+	-Subtest 1: Multiple-Choice Items----------------GEE_RETEST_MA_SUB1MCI
+	-Subtest 2: Constructed-Response Items-----------GEE_RETEST_MA_SUB2CRI
+
+
+
+
+SCIENCE -------------------------------------------GEE_RETEST_SCI_OVERALL
+-Raw Score Total - Science
+-Scaled Score - Science
+-Assessment Achievement Level - Science
+-SEM
+-Science Auto Rescore Flag
+-Science Test Form
+-Science Accountability Achievement Level
+
+	-Standard 1: Science as Inquiry-----------------GEE_RETEST_SCI_S1SI
+	-Standard 2: Physical Science-------------------GEE_RETEST_SCI_S2PS
+	-Standard 3: Life Science-----------------------GEE_RETEST_SCI_S3LS
+	-Standard 4: Earth and Space Science------------GEE_RETEST_SCI_S4ESS
+	-Standard 5: Science and the Environment--------GEE_RETEST_SCI_S5SE
+
+	-Subtest 1: Multiple-Choice Items---------------GEE_RETEST_SCI_SUB1MCI
+	-Subtest 2: Short Answer Items------------------GEE_RETEST_SCI_SUB2SAI
+	-Subtest 3: Comprehensive Science Task--------------------------GEE_RETEST_SCI_SUB3CST
+
+	-Multiple-Choice Items--------------------------GEE_RETEST_SCI_MCI
+	-Constructed-Response Items --------------------GEE_RETEST_SCI_CRI
+
+
+
+
+SOCIAL STUDIES -------------------------------------GEE_RETEST_SS_OVERALL
+-Raw Score Total - Social Studies
+-Scaled Score - Social Studies
+-Assessment Achievement Level - Social Studies
+-SEM
+-Social Studies Auto Rescore Flag
+- Social Studies Test Form
+-Social Studies Accountability Achievement Level
+
+	-Standard 1: Geography ------------------------GEE_RETEST_SS_S1G
+	-Standard 2: Civics----------------------------GEE_RETEST_SS_S2C
+	-Standard 3: Economics-------------------------GEE_RETEST_SS_S3E
+	-Standard 4: History---------------------------GEE_RETEST_SS_S4H
+
+	-Subtest 1: Multiple-Choice Items---------------GEE_RETEST_SS_SUB1MCI
+	-Subtest 2: Constructed-Response Items ---------GEE_RETEST_SS_SUB2CRI
+

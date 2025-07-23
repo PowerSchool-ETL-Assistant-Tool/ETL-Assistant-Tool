@@ -1,0 +1,3 @@
+SchoolYear,SystemCode,LastName,FirstName,Middle Name,StateStudentID,Grade,ELAOP PerformanceLevel,ELAOP ReadingProgressLevel,ReadingSufficiency_Prelim_Minus2SEM,ReadingSufficiency_Prelim_Minus1SEM,ReadingSufficiency_Prelim_Minus3SEM,ReadingSufficiency_Prelim,SEM,ELAOP ScaleScore,ReadingFT ScaleScore,LexileScore,ReadingStatus,SchoolCode
+2023,114,Abella,Abhilash,BC,13821,02,2,2,,,,Meets,-2,482,488,510L,2,130
+2023,114,Allen,Abbas,BB,13822,02,2,2,,,,Meets,-2,543,547, ,2,130

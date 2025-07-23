@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'custom.va_henrico.ACTIVELY_LEARN'
+mavenVersion = '1.0.2' + getWorkingBranch()

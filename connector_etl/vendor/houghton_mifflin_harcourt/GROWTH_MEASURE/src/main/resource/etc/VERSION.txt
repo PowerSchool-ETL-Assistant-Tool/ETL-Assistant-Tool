@@ -1,0 +1,2 @@
+Version: 1.0.1
+Application-name: vendor.houghton_mifflin_harcourt.GROWTH_MEASURE

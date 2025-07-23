@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'vendor.ideal_consulting.DIBELS_IC'
+mavenVersion = '1.0.3' + getWorkingBranch()

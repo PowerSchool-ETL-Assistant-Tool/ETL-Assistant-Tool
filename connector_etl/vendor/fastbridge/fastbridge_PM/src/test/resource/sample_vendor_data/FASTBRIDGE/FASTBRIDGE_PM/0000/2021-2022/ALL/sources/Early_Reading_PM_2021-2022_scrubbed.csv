@@ -1,0 +1,5 @@
+Assessment,State,District,School,Student Id,Student State Id,Fast ID,First Name,Last Name,Gender,BirthDate,Race,SpecialEdStatus,Grade,AssessmentDate,ScoreMetric,Score,Start Goal,End Goal,Goal Start Date,Goal End Date,Assessment Level
+ERAS-drw,AZ,SIS Gold Google,Google Redwood High School,10031,10031,4018861,Jonathan,Berman,M,09/16/2003,,,1,10/01/2021,Words Read Correct,2,0,13,09/26/2021,12/17/2021,N/A
+ERAS-drw,AZ,SIS Gold Google,Google Redwood High School,10032,10032,4020988,Asim,Bezner,M,01/12/2003,,,KG,10/22/2021,WRC per minute,26,0,18.4,08/22/2021,12/15/2021,N/A
+ERAS-drw,AZ,SIS Gold Google,Google Redwood High School,10033,10033,4021205,Kelli,Bharde,F,08/27/2003,,,10,10/05/2021,Total Accuracy,18,0,18.4,08/22/2021,12/15/2021,N/A
+ERAS-drw,AZ,SIS Gold Google,Google Redwood High School,10034,10034,4021209,Cory,Bleak,M,10/24/2003,,,K,10/05/2021,Total Items,39,0,18.4,08/22/2021,12/15/2021,N/A

@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'state.in.iLearn'
+mavenVersion = '1.3.6' + getWorkingBranch()

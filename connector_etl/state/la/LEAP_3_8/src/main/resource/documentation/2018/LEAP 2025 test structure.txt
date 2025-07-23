@@ -1,0 +1,122 @@
+LEAP
+---------------
+ELA ELAlish--------------------------------------------------------LEAP_3-8_ELA_OVERALL
+-Raw Score
+-Scale Score
+-Assessment Achievement Level
+-SEM
+-Points
+-Updated Accountability Code - Document 1 (ELA)
+-Accountability Achievement Level - ELA
+	> Subclaim Scoring Information
+	-Reading Literary Text ---------------------------------LEAP_3-8_ELA_RLT
+		-Raw Score
+		-Rating
+		-Percent Correct
+	-Reading Informational Text ----------------------------LEAP_3-8_ELA_RIT
+		-Raw Score
+		-Rating
+		-Percent Correct
+	-Reading Vocabulary ------------------------------------LEAP_3-8_ELA_RV
+		-Raw Score
+		-Rating
+		-Percent Correct
+	-Written Expression ------------------------------------LEAP_3-8_ELA_WE
+		-Raw Score
+		-Rating
+		-Percent Correct
+	-Knowledge & Use of Language Conventions ---------------LEAP_3-8_ELA_KULC
+		-Raw Score
+		-Rating
+		-Percent Correct
+	> Claim Scoring Information
+	-Reading ---------------------------------------------LEAP_3-8_ELA_RD
+		-Raw Score
+		-Rating 
+		-Percent Correct
+	-Writing---------------------------------------------LEAP_3-8_ELA_WR
+		-Raw Score
+		-Rating
+		-Percent Correct
+
+
+
+
+Math - (Total/Overall)-----------------------------------LEAP_3-8_MA_OVERALL
+-Raw Score Total - Math
+-Scaled Score - Math
+-Assessment Achievement Level - Math
+-SEM
+-Points from Mastery
+-Updated Accountability Code - Document 2 (Math)
+-Accountability Achievement Level - Math
+	> Subclaim Scoring Information
+	-Major Content -------------------------------------LEAP_3-8_MA_MC
+		-Raw Score (Overall)
+		-Rating
+		-Percent Correct
+			> Major Content Subcategories 1-------------LEAP_3-8_MA_MC_SC1
+			-Raw Score
+			-Rating
+			-Percent Correct
+			> Major Content Subcategories 2-------------LEAP_3-8_MA_MC_SC2
+			-Raw Score
+			-Rating
+			-Percent Correct
+			> Major Content Subcategories 3-------------LEAP_3-8_MA_MC_SC3
+			-Raw Score
+			-Rating
+			-Percent Correct
+			> Major Content Subcategories 4-------------LEAP_3-8_MA_MC_SC4
+			-Raw Score
+			-Rating
+			-Percent Correct
+	-Additional & Supporting Content --------------------LEAP_3-8_MA_ASC
+		-Raw Score
+		-Rating
+		-Percent Correct
+	-Expressing Mathematical Reasoning ------------------LEAP_3-8_MA_EMR
+		-Raw Score
+		-Rating
+		-Percent Correct
+	Modeling & Application ------------------------------LEAP_3-8_MA_MODAPP
+		-Raw Score
+		-Rating
+		-Percent Correct
+
+
+
+SCIENCE -------------------------------------------------LEAP_3-8_SCI_OVERALL
+-Raw Score Total - Science
+-Scaled Score - Science
+-Assessment Achievement Level - Science
+-SEM
+-Updated Accountability Code - Document 3 (Science)
+-Accountability Achievement Level - Science
+
+
+
+SOCIAL STUDIES -----------------------------------------LEAP_3-8_SS_OVERALL
+-Raw Score Total - Social Studies
+-Scaled Score - Social Studies
+-Assessment Achievement Level - Social Studies
+-SEM
+-Updated Accountability Code - Document 4 (Social Studies)
+-Accountability Achievement Level - Social Studies
+	> Raw Score for Each Reporting Category
+	-History -------------------------------------------LEAP_3-8_SS_HIST
+		-Raw
+		-Percent Correct
+		-Rating 
+	-Geography------------------------------------------LEAP_3-8_SS_GEOG
+		-Raw
+		-Percent Correct
+		-Rating 
+	-Civics---------------------------------------------LEAP_3-8_SS_CIV
+		-Raw
+		-Percent Correct
+		-Rating 
+	-Economics------------------------------------------LEAP_3-8_SS_ECON
+		-Raw
+		-Percent Correct
+		-Rating 

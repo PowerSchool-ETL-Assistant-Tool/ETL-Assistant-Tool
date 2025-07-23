@@ -1,0 +1,9 @@
+Student_Number,SchoolName,LastFirst,Grade_Level,Course_Name,Course_Number,Teacher_Name,Grade,Percent,Credit_Type,ExcludeFromClassRank,ExcludeFromGPA,ExcludeFromHonorRoll,StoreCode,TermID
+13032,MS Dogwood Elementary School,"Dunn, Elane",10,Regents Common Core Algebra I - Aug,02052CC,"Staff, Staff",65,65,EXAM,1,1,1,R8,2900
+13033,MS Dogwood Elementary School,"Cooper, Jonas",11,ENGLISH 11R,111,"Libassi, Josephine",90,90,EXAM,1,1,1,R6,2900
+13034,MS Dogwood Elementary School,"Anyiam, Murray",11,Regents Common Core Geometry - Aug,02072CC,"Staff, Staff",65,65,EXAM,1,1,1,R8,2900
+13035,MS Dogwood Elementary School,"Cox, Ramiro",12,Regents Global History Transition - Jan,4052,"Staff, Staff",67,67,EXAM,1,1,1,R1,2900
+13036,MS Dogwood Elementary School,"Pardue, Gale",9,BIO/LIVING ENVIRON,460,"Emr, Joseph",47,47,EXAM,1,1,1,R6,2900
+13037,MS Dogwood Elementary School,"Cardenas, Tristan",11,Regents Common Core Algebra II - Jun,02056CC,"Staff, Staff",77,77,EXAM,1,1,1,R6,2900
+13038,MS Dogwood Elementary School,"Crouch, Caroline",10,AP CHEMISTRY,412,"Hemmick, Lucinda",93,93,EXAM,1,1,1,R6,2900
+13039,MS Dogwood Elementary School,"Cruz, Dominic",9,E SCIENCE/PHYS SET,401,"Youmans, Patricia",76,76,EXAM,1,1,1,R6,2900

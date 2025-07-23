@@ -1,0 +1,25 @@
+{
+  "NAT_KEY": ["","",""],
+
+  "PRODUCTS":
+  [
+    {
+      "TEST_PRODUCT": "NSC",
+      "PREFIX": "STARCSC",
+      "XTBL_TESTS_SOURCE": "STAR_CLASSIC.txt",
+      "XTBL_TEST_BENCHMARKS": null
+    }
+  ],
+
+  "CONNECTOR_MAPPINGS":
+  [
+    {
+      "FORMAT": "REN_LEARNING_SEL",
+      "WORKFLOW":
+      {
+        "MAP_NORMALIZE_SORT" : "GENERIC_normalize.js",
+        "NORMAL_TO_GENERIC": "GENERIC_generic.js"
+      }
+    }
+  ]
+}

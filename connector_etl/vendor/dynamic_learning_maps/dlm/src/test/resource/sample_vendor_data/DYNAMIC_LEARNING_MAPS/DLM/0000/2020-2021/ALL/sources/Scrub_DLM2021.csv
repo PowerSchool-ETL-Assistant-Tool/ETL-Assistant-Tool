@@ -1,0 +1,8 @@
+Unique_Row_Identifier,Subject,State,State_Student_Identifier,Performance_Level,LLs_Mastered_ELA.C1.1,Denominator_ELA.C1.1,LLs_Mastered_ELA.C1.2,Denominator_ELA.C1.2,LLs_Mastered_ELA.C1.3,Denominator_ELA.C1.3,LLs_Mastered_ELA.C2.1,Denominator_ELA.C2.1,LLs_Mastered_ELA.C2.2,Denominator_ELA.C2.2,LLs_Mastered_M.C1.1,Denominator_M.C1.1,LLs_Mastered_M.C1.2,Denominator_M.C1.2,LLs_Mastered_M.C1.3,Denominator_M.C1.3,LLs_Mastered_M.C2.1,Denominator_M.C2.1,LLs_Mastered_M.C2.2,Denominator_M.C2.2,LLs_Mastered_M.C3.1,Denominator_M.C3.1,LLs_Mastered_M.C3.2,Denominator_M.C3.2,LLs_Mastered_M.C4.1,Denominator_M.C4.1,LLs_Mastered_M.C4.2,Denominator_M.C4.2,LLs_Mastered_SCI.ESS,Denominator_SCI.ESS,LLs_Mastered_SCI.LS,Denominator_SCI.LS,LLs_Mastered_SCI.PS,Denominator_SCI.PS,TestedAtSchool
+44794,ELA,Alaska,10208,3,,,22,25,11,15,6,15,6,10,,,,,,,,,,,,,,,,,,,,,,,,,820
+45732,Math,Alaska,10209,2,,,,,,,,,,,,,,,3,15,5,10,,,,,,,7,10,,,,,,,,,820
+46478,Sci,Alaska,10210,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,9,6,9,0,9,800
+45212,ELA,Alaska,321479,3,4,15,22,25,9,10,9,10,,,,,,,,,,,,,,,,,,,,,,,,,,,800
+45213,ELA,Alaska,321479,3,4,15,22,25,9,10,9,10,,,,,,,,,,,,,,,,,,,,,,,,,,,800
+45928,Math,Alaska,316851,2,,,,,,,,,,,3,5,,,4,15,1,5,3,5,,,,,2,5,,,,,,,,,625
+45929,Math,Alaska,316851,2,,,,,,,,,,,3,5,,,4,15,1,5,3,5,,,,,2,5,,,,,,,,,625

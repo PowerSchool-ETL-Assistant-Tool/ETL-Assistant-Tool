@@ -1,0 +1,7 @@
+Assessment,State,District,School,Student Id,Student State Id,Fast ID,First Name,Last Name,Gender,BirthDate,Race,SpecialEdStatus,Grade,AssessmentDate,ScoreMetric,Score,Start Goal,End Goal,Goal Start Date,Goal End Date,Assessment Level
+EMATH-ident-I,AZ,Apple Grove Unified Schools,Bonsai Elementary School,13259,95539379,5859122,Lucinda,Beedy,,07/23/2012,,,05,09/23/2022,Total Words,42.0,0.0,10.27,09/11/2022,12/17/2022,N/A
+EMATH-numseq-KG,AZ,Apple Grove Unified Schools,Bonsai Elementary School,13951,57316221,5665902,Lucas,Laghari,,06-15-2015,,,KG,09/15/2022,Discontinued,0.0,1.0,2.1599998,08/28/2022,09/25/2022,N/A
+EMATH-ident-KG,AZ,Apple Grove Unified Schools,Bonsai Elementary School,14459,87229319,5642775,Amir,Charlton,,03/23/2008,,,KG,08-26-2022,Total Accuracy,54.0,12.0,14.1,08/21/2022,09/09/2022,N/A
+EMATH-numseq-KG,AZ,Apple Grove Unified Schools,Bonsai Elementary School,13524,53843468,5634578,Brock,Rowley,,12-31-2012,,,KG,09-21-2022,IC per minute,2.17,2.0,9.0,09/04/2022,12/16/2022,N/A
+EMATH-decomp-I,AZ,Apple Grove Unified Schools,Bonsai Elementary School,14467,15463195,4801741,Davis,Lockliear,,09/21/2007,,,01,09-30-2022,Items Correct,0.0,1.0,11.15,09/04/2022,05/12/2023,N/A
+EMATH-ident-KG,AZ,Apple Grove Unified Schools,Bonsai Elementary School,13797,79119515,5614283,Kimberly,Maldonado,,07-04-2014,,,KG,,Total Items,17.0,14.0,25.55,08/28/2022,11/18/2022,N/A

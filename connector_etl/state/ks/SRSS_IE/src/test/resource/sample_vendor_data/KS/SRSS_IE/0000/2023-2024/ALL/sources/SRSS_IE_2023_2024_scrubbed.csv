@@ -1,0 +1,4 @@
+SchoolYear,Season,Building,Grade,TeacherId,StudentId,Internalizing Score,Exernalizing Score,Total,Intenalizing Risk Level,Externalizing Risk Level,CreatedDate
+2024,screenfall,100,5,13259,13259,0,0,0,LOW,LOW,10/15/2023
+2024,screenfall,100,2,13951,13951,4,4,8,MODERATE,MODERATE,10/15/2023
+2024,screenfall,100,4,13524,13524,6,15,20,HIGH,HIGH,10/15/2023

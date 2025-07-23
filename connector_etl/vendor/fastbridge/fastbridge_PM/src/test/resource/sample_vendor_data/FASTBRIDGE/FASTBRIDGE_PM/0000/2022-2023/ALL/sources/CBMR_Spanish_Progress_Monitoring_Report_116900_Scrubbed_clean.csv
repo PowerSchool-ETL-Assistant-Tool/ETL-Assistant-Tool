@@ -1,0 +1,4 @@
+Assessment,State,District,School,Student Id,Student State Id,Fast ID,First Name,Last Name,Gender,BirthDate,Race,SpecialEdStatus,Grade,AssessmentDate,ScoreMetric,Score,Start Goal,End Goal,Goal Start Date,Goal End Date,Assessment Level
+CBMR Spanish,AZ,SIS Gold Google,Google Redwood High School,s10040,10040,4021185,Alazie,Brophy,Female,03/31/2014,,,02,12/13/2021,Items Correct,28.0,0.0,0.0,12/05/2021,12/17/2021,N/A
+CBMR Spanish,AZ,SIS Gold Google,Google Redwood High School,t10041,10041,4021185,Ana,Brown,Female,03/31/2014,,,02,12/13/2021,Total Items,30.0,0.0,0.0,12/05/2021,12/17/2021,N/A
+CBMR Spanish,AZ,SIS Gold Google,Google Redwood High School,v10042,10042,4020282,Jed,Brush,Male,05/02/2013,,,03,09/08/2021,IC per minute,11.86,0.0,1.15,08/29/2021,10/08/2021,03

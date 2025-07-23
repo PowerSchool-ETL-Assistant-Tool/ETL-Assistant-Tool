@@ -1,0 +1,2 @@
+Version: 1.0.1
+Application-name: vendor.SAVVAS.MATH_XL

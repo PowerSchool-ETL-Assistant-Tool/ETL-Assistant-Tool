@@ -1,0 +1,4 @@
+Assessment,State,District,School,Student Id,Student State Id,Fast ID,First Name,Last Name,Gender,BirthDate,Race,SpecialEdStatus,Grade,AssessmentDate,ScoreMetric,Score,Start Goal,End Goal,Goal Start Date,Goal End Date,Assessment Level
+CBMMath CAP,IL,Apple Grove Unified Schools,Bonsai Elementary School,13259,13259,100,Lucinda,Beedy,F,07/23/12,,,1,1/27/23,Items Attempted,20,3,7.4,9/25/22,7/31/23,5
+CBMMath CAP,IL,Apple Grove Unified Schools,Bonsai Elementary School,13951,13951,100,Lucas,Laghari,M,06/15/15,,,1,5/26/23,Total Items,20,3,7.4,9/25/22,7/31/23,5
+CBMMath CAP,IL,Apple Grove Unified Schools,Bonsai Elementary School,14459,14459,100,Amir,Charlton,M,06/15/15,,,1,10/25/22,Total Items,20,3,7.4,9/25/22,7/31/23,5

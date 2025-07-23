@@ -1,0 +1,106 @@
+Spring 2009 LEAP LDESTDI FileLayout
+
+LEAP_GEE
+
+
+English ------------------------------------------LEAP_GEE_ENG_OVERALL
+-Raw Score Total - ELA
+-Scaled Score - ELA
+-Assessment Achievement Level - ELA
+-Total Score for Writing
+-Non-Score Code for Writing
+-ELA Auto Rescore Flag
+- ELA Accountability Achievement Level
+
+	>ELARawScore
+	-Standard 1: Read, Comprehend, Respond -----------------LEAP_GEE_ENG_S1RCR
+	-Standard 2: Write Competently-----------------------LEAP_GEE_ENG_S2WC
+	-Standard 3: Use Conventions Of Language---------------LEAP_GEE_ENG_S3UCL
+	-Standard 4: Not Assessed----------------------------LEAP_GEE_ENG_S4NA
+	-Standard 5: Locate Select Synthesize Information-------------LEAP_GEE_ENG_S5LSSI
+	-Standard 6: Read, Analyze, and Respond To Literature---------LEAP_GEE_ENG_S6RARL
+	-Standard 7: Apply Reasoning Problem-Solving Skills-----LEAP_GEE_ENG_S7ARPSS
+
+	>ELARawScore
+	-Subtest 1: Writing--------------------------------LEAP_GEE_ENG_SUB1W
+	-Subtest 2: Using Information Resources--------------LEAP_GEE_ENG_SUB2UIR
+	-Subtest 3: Reading Responding----------------------LEAP_GEE_ENG_SUB3RR
+	-Subtest 4: Proofreading---------------------------LEAP_GEE_ENG_SUB4P
+
+	>WritingRawScore
+	-Dimension 1: Composing----------------------------LEAP_GEE_ENG_DIM1C
+	-Dimension 2: StyleAudienceAwareness---------------LEAP_GEE_ENG_DIM2SAA
+	-Dimension 3: SentenceFormation--------------------LEAP_GEE_ENG_DIM3SF
+	-Dimension 4: Usage--------------------------------LEAP_GEE_ENG_DIM4U
+	-Dimension 5: Mechanics----------------------------LEAP_GEE_ENG_DIM5M
+	-Dimension 6: Spelling-----------------------------LEAP_GEE_ENG_DIM6S
+
+	>ELARawScoreItemType
+	-Multiple-Choice Items----------------------------LEAP_GEE_ENG_MCI
+	-Constructed-Response Items-----------------------LEAP_GEE_ENG_CRI
+
+
+
+
+Math -----------------------------------------------LEAP_GEE_MA_OVERALL
+-Raw Score Total - Math
+-Scaled Score - Math
+-Assessment Achievement Level - Math
+-Math Auto Rescore Flag
+-Math Accountability Achievement Level
+
+	>MathRawScore
+	-Standard 1: Number And Number Relations --------------------LEAP_GEE_MA_S1NNR
+	-Standard 2: Algebra ----------------------------------------LEAP_GEE_MA_S2A
+	-Standard 3: Measurement-------------------------------------LEAP_GEE_MA_S3M
+	-Standard 4: Geometry----------------------------------------LEAP_GEE_MA_S4G
+	-Standard 5: Data Analysis, Probability, and Discrete Math---LEAP_GEE_MA_S5DAPDM
+	-Standard 6: PatternsRelationsFunctions----------------------LEAP_GEE_MA_S6PRF
+
+	>MathRawScore
+	-Subtest 1: Multiple-Choice Items--------------------LEAP_GEE_MA_SUB1MCI
+	-Subtest 2: Constructed-Response Items---------------LEAP_GEE_MA_SUB2CRI
+
+
+
+SCIENCE -------------------------------------------LEAP_GEE_SCI_OVERALL
+-Raw Score Total - Science
+-Scaled Score - Science
+-Assessment Achievement Level - Science
+-Science Auto Rescore Flag
+-Science Accountability Achievement Level
+
+	> ScienceRawScore
+	-Standard 1: Science as Inquiry-------------------LEAP_GEE_SCI_S1SI
+	-Standard 2: Physical Science--------------------LEAP_GEE_SCI_S2PS
+	-Standard 3: Life Science------------------------LEAP_GEE_SCI_S3LS
+	-Standard 4: Earth and Space Science------------------LEAP_GEE_SCI_S4ESS
+	-Standard 5: Science Environment-----------------LEAP_GEE_SCI_S5SE
+
+
+	> ScienceRawScore
+	-Subtest 1: Multiple-Choice Items-----------------LEAP_GEE_SCI_SUB1MCI
+	-Subtest 2: Short Answer Items--------------------LEAP_GEE_SCI_SUB2SAI
+	-Subtest 3: Comprehensive Science Task------------LEAP_GEE_SCI_SUB3TI
+
+	> ScienceRawScoreItemType
+	-Multiple-Choice Items ------------------------LEAP_GEE_SCI_MCI
+	-Constructed-Response Items--------------------LEAP_GEE_SCI_CRI
+
+
+
+SOCIAL STUDIES -------------------------------------LEAP_GEE_SS_OVERALL
+-Raw Score Total - Social Studies
+-Scaled Score - Social Studies
+-Assessment Achievement Level - Social Studies
+-Social Studies Auto Rescore Flag
+-Social Studies Accountability Achievement Level
+
+	-Standard 1: Geography ------------------------LEAP_GEE_SS_S1G
+	-Standard 2: Civics----------------------------LEAP_GEE_SS_S2C
+	-Standard 3: Economics-------------------------LEAP_GEE_SS_S3E
+	-Standard 4: History---------------------------LEAP_GEE_SS_S4H
+
+	-Subtest 1: Multiple-Choice Items---------------LEAP_GEE_SS_SUB1MCI
+	-Subtest 2: Constructed-Response Items ---------LEAP_GEE_SS_SUB2CRI
+

@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'vendor.american_reading_company.school_pace'
+mavenVersion = '1.2.3' + getWorkingBranch()

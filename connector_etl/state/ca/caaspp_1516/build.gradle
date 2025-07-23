@@ -1,0 +1,3 @@
+mavenGroupId = 'com.hoonuit.etl.assessment.connectors'
+mavenArtifactId = 'state.ca.caaspp_1516'
+mavenVersion = '4.6.2' + getWorkingBranch()

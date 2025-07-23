@@ -1,0 +1,106 @@
+Spring 2014 iLEAP_FileLayout_Assessment_Accountability
+
+ILEAP
+
+
+English ------------------------------------------ILEAP_ENG_OVERALL
+-Raw Score Total - ELA
+-Scaled Score - ELA
+-Standard Error of Measurement of ELA
+-Upper bound scaled score - ELA
+-Lower bound scaled score - ELA
+-Assessment Achievement Level - ELA
+-Total Score for Writing
+-Non-Score Code for Writing
+-ELA Test Form
+
+	-Test Session: Reading and Responding-----------ILEAP_ENG_TSRR
+	-Test Session: Research to Build Knowledge -----ILEAP_ENG_TSRBK
+	-Test Session: Writing--------------------------ILEAP_ENG_TSW
+	-Test Session: Language-------------------------ILEAP_ENG_TSL
+
+	-Dimension 1: Composing-------------------------ILEAP_ENG_DIM1C
+	-Dimension 2: Style/audience awareness----------ILEAP_ENG_DIM2SAA
+	-Dimension 3: Sentence formation----------------ILEAP_ENG_DIM3SF
+	-Dimension 4: Usage-----------------------------ILEAP_ENG_DIM4U
+	-Dimension 5: Mechanics-------------------------ILEAP_ENG_DIM5M
+	-Dimension 6: Spelling--------------------------ILEAP_ENG_DIM6S
+
+	-Multiple-Choice Items--------------------------ILEAP_ENG_MCI
+	-Constructed-Response Items --------------------ILEAP_ENG_CRI
+
+
+
+
+Math -----------------------------------------------ILEAP_MA_OVERALL
+-Raw Score Total - Math
+-Scaled Score - Math
+-Standard Error of Measurement of Math
+-Upper bound scaled score - Math
+-Lower bound scaled score - Math
+-Assessment Achievement Level - Math
+-Math Test Form
+
+	-Domain: Operations and Algebraic Thinking ------ILEAP_MA_DOAT
+	-Domain: Number and Operations in Base Ten-------ILEAP_MA_DNOBT
+	-Domain: Number and Operations—Fractions---------ILEAP_MA_DNOF
+	-Domain: Measurement and Data--------------------ILEAP_MA_DMD
+	-Domain: Geometry--------------------------------ILEAP_MA_DG
+	-Domain: Ratios and Proportional Relationships---ILEAP_MA_DRPR
+	-Domain: The Number System-----------------------ILEAP_MA_DTNS
+	-Domain: Expressions and Equations---------------ILEAP_MA_DEE
+	-Domain: Statistics and Probability--------------ILEAP_MA_DSP
+	-Combined Domain: Number and Operations----------ILEAP_MA_DNO
+	-Combined Domain: Geometry / Measurement and Data------------------ILEAP_MA_DGMD
+	-Combined Domain: Operations in Base Ten / Algebraic Thinking------ILEAP_MA_DOBTAT
+
+	-Subtest 1: Multiple-Choice Items----------------ILEAP_MA_SUB1MCI
+	-Subtest 2: Constructed-Response Items-----------ILEAP_MA_SUB2CRI
+
+
+
+
+SCIENCE -------------------------------------------ILEAP_SCI_OVERALL
+-Raw Score Total - Science
+-Scaled Score - Science
+-Standard Error of Measurement of Science
+-Upper bound scaled score - Science
+-Lower bound scaled score - Science
+-Assessment Achievement Level - Science
+-Science Test Form
+
+	-Standard 1: Science as Inquiry-----------------ILEAP_SCI_S1SI
+	-Standard 2: Physical Science-------------------ILEAP_SCI_S2PS
+	-Standard 3: Life Science-----------------------ILEAP_SCI_S3LS
+	-Standard 4: Earth and Space Science------------ILEAP_SCI_S4ESS
+	-Standard 5: Science and the Environment--------ILEAP_SCI_S5SE
+
+	-Subtest 1: Multiple-Choice Items---------------ILEAP_SCI_SUB1MCI
+	-Subtest 2: Task Items--------------------------ILEAP_SCI_SUB2TI
+
+	-Multiple-Choice Items--------------------------ILEAP_SCI_MCI
+	-Constructed-Response Items --------------------ILEAP_SCI_CRI
+
+
+
+
+SOCIAL STUDIES -------------------------------------ILEAP_SS_OVERALL
+-Raw Score Total - Social Studies
+-Scaled Score - Social Studies
+-Standard Error of Measurement of Social Studies
+-Upper bound scaled score - Social Studies
+-Lower bound scaled score - Social Studies
+-Assessment Achievement Level - Social Studies
+-Social Studies Test Form
+
+	-Standard 1: Geography ------------------------ILEAP_SS_S1G
+	-Standard 2: Civics----------------------------ILEAP_SS_S2C
+	-Standard 3: Economics-------------------------ILEAP_SS_S3E
+	-Standard 4: History---------------------------ILEAP_SS_S4H
+
+	-Subtest 1: Multiple-Choice Items---------------ILEAP_SS_SUB1MCI
+	-Subtest 2: Task Items--------------------------ILEAP_SS_SUB2TI
+
+	-Multiple-Choice Items -------------------------ILEAP_SS_MCI
+	-Constructed-Response Items --------------------ILEAP_SS_CRI
+
